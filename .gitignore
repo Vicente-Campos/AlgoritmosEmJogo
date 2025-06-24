@@ -1,0 +1,32 @@
+# Python
+# Ignora arquivos de bytecode gerados pelo Python (para performance)
+__pycache__/
+*.pyc
+*.pyd
+*.pyo
+
+# Ignora pastas de metadados de pacotes (geradas na instalação)
+*.egg-info/
+
+# Ambientes Virtuais
+# Ignora as pastas dos ambientes virtuais onde as dependências são instaladas.
+# NUNCA inclua seu ambiente virtual no Git, pois ele é local e pode variar entre sistemas.
+.venv/
+env/
+venv/
+ENV/
+
+# Editores e IDEs
+# Ignora arquivos e pastas de configuração gerados por IDEs e editores de texto populares.
+# Estes são específicos da sua máquina e não devem ser compartilhados.
+.vscode/        # Pasta de configuração do VS Code
+.idea/          # Pasta de configuração do PyCharm/IntelliJ
+*.sublime-project
+*.sublime-workspace
+*.DS_Store      # Arquivos de metadados do macOS
+Thumbs.db       # Arquivos de miniaturas do Windows
+
+# Logs e Dados Temporários
+# Ignora arquivos de log e qualquer banco de dados local temporário que seu projeto possa gerar.
+*.log
+*.sqlite3       # Se você usar SQLite localmente para testes ou configurações
