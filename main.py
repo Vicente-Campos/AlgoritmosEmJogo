@@ -6,9 +6,6 @@ import time
 from jogos.forca.jogo_da_forca import jogar_forca
 from jogos.pedra_papel_tesoura.jogo_ppt import jogar_ppt
 
-#jogar_forca()
-
-# jogar_ppt()
 
 def exibir_menu_principal():
     """
@@ -33,10 +30,8 @@ def exibir_menu_principal():
 
         if escolha in opcoes_menu:
             if opcoes_menu[escolha]["funcao"]: # Se a opção tem uma função associada (não é 'Sair')
-                limpar_terminal() # Limpa a tela antes de iniciar o jogo
+                limpar_terminal() 
                 opcoes_menu[escolha]["funcao"]() # Chama a função do jogo selecionado
-                # A função do jogo já deve conter o loop interno e a pergunta para jogar novamente.
-                # Quando o jogo terminar, ele retorna para este menu principal.
             else: # Opção 'Sair'
                 print("\nSaindo do programa. Até mais!")
                 time.sleep(1.5)
