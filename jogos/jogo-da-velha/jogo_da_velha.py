@@ -1,8 +1,8 @@
 def como_jogar_jogoDaVelha():
-    """Exibe as regras do jogo Pedra, Papel e Tesoura e aguarda a interação do usuário."""
+    """Exibe as regras do jogo da velha e aguarda a interação do usuário."""
     limpar_terminal()
     print("=" * 60)
-    print(" BEM-VINDO AO PEDRA, PAPEL E TESOURA ".center(60, "="))
+    print(" BEM-VINDO AO JOGO DA VELHA ".center(60, "="))
     print("=" * 60)
     print("""
 Regras do jogo:
