@@ -1,8 +1,8 @@
 def como_jogar_jogoDaVelha():
-    """Exibe as regras do jogo da velha e aguarda a interação do usuário."""
+    """Exibe as regras do jogo Pedra, Papel e Tesoura e aguarda a interação do usuário."""
     limpar_terminal()
     print("=" * 60)
-    print(" BEM-VINDO AO JOGO DA VELHA ".center(60, "="))
+    print(" BEM-VINDO AO PEDRA, PAPEL E TESOURA ".center(60, "="))
     print("=" * 60)
     print("""
 Regras do jogo:
@@ -24,7 +24,7 @@ Se todos os 9 espaços forem preenchidos sem que nenhum jogador vença, o jogo t
     input("Pressione Enter para começar o jogo...")
     
 # Função para imprimir o tabuleiro
-def imprimir_tabuleiro(tabuleiro):
+def imprimir_tabuleiro(tabuleiro):n
     print("\n")
     for i in range(3):
         linha = " | ".join(tabuleiro[i])
@@ -39,3 +39,13 @@ def verificar_vitoria(tabuleiro, jogador):
     for linha in tabuleiro:
         if linha[0] == linha[1] == linha[2] == jogador:
             return True
+    # Colunas
+    for i in range(3):
+        if tabuleiro[0][i] == tabuleiro[1][i] == tabuleiro[2][i] == jogador:
+            return True
+    # Diagonais
+    if tabuleiro[0][0] == tabuleiro[1][1] == tabuleiro[2][2] == jogador:
+        return True
+    if tabuleiro[0][2] == tabuleiro[1][1] == tabuleiro[2][0] == jogador:
+        return True
+    return False
