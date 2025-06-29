@@ -1,20 +1,21 @@
 # Importando funções utilitárias
-from utils.funcoes import limpar_terminal, jogar_novamente
+from utils.funcoes import limpar_terminal
 import time
 
 # Importando as funções principais de cada jogo
 from jogos.forca.jogo_da_forca import jogar_forca
 from jogos.pedra_papel_tesoura.jogo_ppt import jogar_ppt
-
+from jogos.adivinhacao.adivinhacao import jogar_adivinhacao
 
 def exibir_menu_principal():
     """
     Exibe o menu principal do programa e gerencia a escolha do usuário para iniciar os jogos.
     """
     opcoes_menu = {
-        '1': {"texto": "Jogar Forca", "funcao": jogar_forca},
-        '2': {"texto": "Jogar Pedra, Papel e Tesoura", "funcao": jogar_ppt},
-        '3': {"texto": "Sair", "funcao": None} # 'None' indica que esta opção encerra o programa
+        '1': {"texto": "Forca", "funcao": jogar_forca},
+        '2': {"texto": "Pedra, Papel e Tesoura", "funcao": jogar_ppt},
+        '3': {"texto": "Adivinhação", "funcao": jogar_adivinhacao},
+        '4': {"texto": "Sair", "funcao": None} # 'None' indica que esta opção encerra o programa
     }
 
     while True:
