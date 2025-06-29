@@ -1,0 +1,335 @@
+[
+   
+    {
+        "nivel": "facil",
+        "pergunta": "Quem foi o primeiro presidente do Brasil?",
+        "opcoes": {
+            "A": "Dom Pedro II",
+            "B": "Getúlio Vargas",
+            "C": "Marechal Deodoro da Fonseca",
+            "D": "Juscelino Kubitschek"
+        },
+        "resposta_correta": "C"
+    },
+    {
+        "nivel": "facil",
+        "pergunta": "Em que ano o Brasil proclamou sua independência?",
+        "opcoes": {
+            "A": "1500",
+            "B": "1822",
+            "C": "1889",
+            "D": "1808"
+        },
+        "resposta_correta": "B"
+    },
+    {
+        "nivel": "facil",
+        "pergunta": "Quem foi o líder do movimento da Inconfidência Mineira?",
+        "opcoes": {
+            "A": "Tiradentes",
+            "B": "Dom Pedro I",
+            "C": "José Bonifácio",
+            "D": "Joaquim Nabuco"
+        },
+        "resposta_correta": "A"
+    },
+    {
+        "nivel": "facil",
+        "pergunta": "O que foi o Tratado de Tordesilhas?",
+        "opcoes": {
+            "A": "Tratado de paz entre Portugal e Espanha",
+            "B": "Divisão de terras na América",
+            "C": "Pacto de colonização",
+            "D": "Acordo comercial"
+        },
+        "resposta_correta": "B"
+    },
+    {
+        "nivel": "facil",
+        "pergunta": "Qual civilização construiu as pirâmides do Egito?",
+        "opcoes": {
+            "A": "Gregos",
+            "B": "Maias",
+            "C": "Egípcios",
+            "D": "Romanos"
+        },
+        "resposta_correta": "C"
+    },
+    {
+        "nivel": "facil",
+        "pergunta": "Quem descobriu o Brasil?",
+        "opcoes": {
+            "A": "Cristóvão Colombo",
+            "B": "Pedro Álvares Cabral",
+            "C": "Vasco da Gama",
+            "D": "Fernão de Magalhães"
+        },
+        "resposta_correta": "B"
+    },
+    {
+        "nivel": "facil",
+        "pergunta": "Em que país ocorreu a Revolução Francesa?",
+        "opcoes": {
+            "A": "Inglaterra",
+            "B": "Alemanha",
+            "C": "França",
+            "D": "Itália"
+        },
+        "resposta_correta": "C"
+    },
+    {
+        "nivel": "facil",
+        "pergunta": "Quem foi o principal responsável pela unificação da Alemanha?",
+        "opcoes": {
+            "A": "Bismarck",
+            "B": "Napoleão",
+            "C": "Hitler",
+            "D": "Churchill"
+        },
+        "resposta_correta": "A"
+    },
+    {
+        "nivel": "facil",
+        "pergunta": "Qual império era governado por César?",
+        "opcoes": {
+            "A": "Grego",
+            "B": "Egípcio",
+            "C": "Romano",
+            "D": "Inca"
+        },
+        "resposta_correta": "C"
+    },
+    {
+        "nivel": "facil",
+        "pergunta": "Quem foi Napoleão Bonaparte?",
+        "opcoes": {
+            "A": "Imperador da França",
+            "B": "Rei da Inglaterra",
+            "C": "Presidente dos EUA",
+            "D": "Papa"
+        },
+        "resposta_correta": "A"
+    },
+    {
+        "nivel": "medio",
+        "pergunta": "Quem foi o líder da Revolução Russa de 1917?",
+        "opcoes": {
+            "A": "Joseph Stalin",
+            "B": "Lenin",
+            "C": "Trosky",
+            "D": "Lenin e Stalin"
+        },
+        "resposta_correta": "B"
+    },
+    {
+        "nivel": "medio",
+        "pergunta": "Qual evento marcou o início da Primeira Guerra Mundial?",
+        "opcoes": {
+            "A": "Invasão da Polônia",
+            "B": "Assassinato do arquiduque Francisco Ferdinando",
+            "C": "Tratado de Versalhes",
+            "D": "Revolução Industrial"
+        },
+        "resposta_correta": "B"
+    },
+    {
+        "nivel": "medio",
+        "pergunta": "O que foi a Guerra Fria?",
+        "opcoes": {
+            "A": "Conflito armado entre EUA e União Soviética",
+            "B": "Disputa política e ideológica entre EUA e União Soviética",
+            "C": "Guerras civis na Europa",
+            "D": "Conflito entre China e Japão"
+        },
+        "resposta_correta": "B"
+    },
+    {
+        "nivel": "medio",
+        "pergunta": "Quem foi o presidente dos EUA durante a Grande Depressão?",
+        "opcoes": {
+            "A": "Franklin D. Roosevelt",
+            "B": "Theodore Roosevelt",
+            "C": "Herbert Hoover",
+            "D": "Harry Truman"
+        },
+        "resposta_correta": "C"
+    },
+    {
+        "nivel": "medio",
+        "pergunta": "Qual civilização construiu as pirâmides do Egito?",
+        "opcoes": {
+            "A": "Gregos",
+            "B": "Romanos",
+            "C": "Egípcios",
+            "D": "Mesopotâmios"
+        },
+        "resposta_correta": "C"
+    },
+    {
+        "nivel": "medio",
+        "pergunta": "Quem foi o líder do movimento de independência da Índia?",
+        "opcoes": {
+            "A": "Jawaharlal Nehru",
+            "B": "Mohandas Gandhi",
+            "C": "Indira Gandhi",
+            "D": "Subhas Chandra Bose"
+        },
+        "resposta_correta": "B"
+    },
+    {
+        "nivel": "medio",
+        "pergunta": "Qual foi o principal objetivo do movimento Iluminista?",
+        "opcoes": {
+            "A": "Defender o absolutismo",
+            "B": "Promover a razão e os direitos humanos",
+            "C": "Expandir o império colonial",
+            "D": "Fortalecer a igreja"
+        },
+        "resposta_correta": "B"
+    },
+    {
+        "nivel": "medio",
+        "pergunta": "Qual foi o impacto da Revolução Industrial na sociedade?",
+        "opcoes": {
+            "A": "Diminuição da produção",
+            "B": "Melhora das condições de trabalho",
+            "C": "Urbanização e crescimento das indústrias",
+            "D": "Fim da escravidão"
+        },
+        "resposta_correta": "C"
+    },
+    {
+        "nivel": "medio",
+        "pergunta": "Qual foi o principal motivo da Guerra dos Cem Anos?",
+        "opcoes": {
+            "A": "Controle comercial",
+            "B": "Disputa dinástica entre França e Inglaterra",
+            "C": "Religião",
+            "D": "Territórios coloniais"
+        },
+        "resposta_correta": "B"
+    },
+    {
+        "nivel": "medio",
+        "pergunta": "Quem foi o autor da teoria heliocêntrica?",
+        "opcoes": {
+            "A": "Galileu Galilei",
+            "B": "Isaac Newton",
+            "C": "Nicolau Copérnico",
+            "D": "Kepler"
+        },
+        "resposta_correta": "C"
+    },
+    {
+        "nivel": "dificil",
+        "pergunta": "Qual foi o principal objetivo da Doutrina Truman?",
+        "opcoes": {
+            "A": "Combater o fascismo",
+            "B": "Incentivar o socialismo",
+            "C": "Conter o avanço do comunismo",
+            "D": "Unir Europa e Ásia"
+        },
+        "resposta_correta": "C"
+    },
+    {
+        "nivel": "dificil",
+        "pergunta": "O que foi o Congresso de Viena?",
+        "opcoes": {
+            "A": "Acordo econômico europeu",
+            "B": "Reunião para restaurar a ordem após Napoleão",
+            "C": "Tratado de paz com Hitler",
+            "D": "Plano de reconstrução da Alemanha"
+        },
+        "resposta_correta": "B"
+    },
+    {
+        "nivel": "dificil",
+        "pergunta": "Qual foi a importância da Batalha de Stalingrado?",
+        "opcoes": {
+            "A": "Vitória dos EUA sobre o Japão",
+            "B": "Retomada da França",
+            "C": "Derrota dos nazistas pelos soviéticos",
+            "D": "Início da Guerra Fria"
+        },
+        "resposta_correta": "C"
+    },
+    {
+        "nivel": "dificil",
+        "pergunta": "Qual civilização criou o código de leis de Hamurábi?",
+        "opcoes": {
+            "A": "Suméria",
+            "B": "Egípcia",
+            "C": "Babilônica",
+            "D": "Persa"
+        },
+        "resposta_correta": "C"
+    },
+    {
+        "nivel": "dificil",
+        "pergunta": "Quem foi líder da revolução haitiana?",
+        "opcoes": {
+            "A": "Toussaint Louverture",
+            "B": "Simon Bolívar",
+            "C": "Napoleão Bonaparte",
+            "D": "Che Guevara"
+        },
+        "resposta_correta": "A"
+    },
+    {
+        "nivel": "dificil",
+        "pergunta": "Qual país invadiu a Etiópia em 1935?",
+        "opcoes": {
+            "A": "Alemanha",
+            "B": "Itália",
+            "C": "França",
+            "D": "Espanha"
+        },
+        "resposta_correta": "B"
+    },
+    {
+        "nivel": "dificil",
+        "pergunta": "Quem escreveu o 'Manifesto Comunista'?",
+        "opcoes": {
+            "A": "Lênin",
+            "B": "Karl Marx e Friedrich Engels",
+            "C": "Mao Tsé-Tung",
+            "D": "Che Guevara"
+        },
+        "resposta_correta": "B"
+    },
+    {
+        "nivel": "dificil",
+        "pergunta": "O que foi o Apartheid?",
+        "opcoes": {
+            "A": "Regime militar no Brasil",
+            "B": "Sistema de segregação racial na África do Sul",
+            "C": "Tratado europeu",
+            "D": "Revolta operária nos EUA"
+        },
+        "resposta_correta": "B"
+    },
+    {
+        "nivel": "dificil",
+        "pergunta": "Em que país ocorreu a Revolução Cultural liderada por Mao Tsé-Tung?",
+        "opcoes": {
+            "A": "Coreia do Norte",
+            "B": "Rússia",
+            "C": "China",
+            "D": "Vietnã"
+        },
+        "resposta_correta": "C"
+    },
+    {
+        "nivel": "dificil",
+        "pergunta": "Quem foi o imperador romano durante o nascimento de Jesus?",
+        "opcoes": {
+            "A": "Júlio César",
+            "B": "Nero",
+            "C": "Augusto",
+            "D": "Calígula"
+        },
+        "resposta_correta": "C"
+    }
+
+
+]

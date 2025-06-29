@@ -1,0 +1,337 @@
+[
+  
+  {
+    "nivel": "facil",
+    "pergunta": "Qual é o planeta mais próximo do Sol?",
+    "opcoes": {
+      "A": "Terra",
+      "B": "Marte",
+      "C": "Mercúrio",
+      "D": "Vênus"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "facil",
+    "pergunta": "Qual órgão do corpo humano é responsável por bombear o sangue?",
+    "opcoes": {
+      "A": "Pulmão",
+      "B": "Coração",
+      "C": "Fígado",
+      "D": "Rim"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "nivel": "facil",
+    "pergunta": "Qual é o estado da água no gelo?",
+    "opcoes": {
+      "A": "Líquido",
+      "B": "Gasoso",
+      "C": "Sólido",
+      "D": "Plasma"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "facil",
+    "pergunta": "Qual é o órgão responsável pela respiração em humanos?",
+    "opcoes": {
+      "A": "Coração",
+      "B": "Pulmão",
+      "C": "Estômago",
+      "D": "Fígado"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "nivel": "facil",
+    "pergunta": "Qual planeta é conhecido como o Planeta Vermelho?",
+    "opcoes": {
+      "A": "Júpiter",
+      "B": "Marte",
+      "C": "Saturno",
+      "D": "Netuno"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "nivel": "facil",
+    "pergunta": "O que as plantas produzem durante a fotossíntese?",
+    "opcoes": {
+      "A": "Oxigênio",
+      "B": "Dióxido de carbono",
+      "C": "Nitrogênio",
+      "D": "Metano"
+    },
+    "resposta_correta": "A"
+  },
+  {
+    "nivel": "facil",
+    "pergunta": "Qual é a unidade básica da vida?",
+    "opcoes": {
+      "A": "Célula",
+      "B": "Molécula",
+      "C": "Átomo",
+      "D": "Organismo"
+    },
+    "resposta_correta": "A"
+  },
+  {
+    "nivel": "facil",
+    "pergunta": "Qual gás é essencial para a respiração humana?",
+    "opcoes": {
+      "A": "Nitrogênio",
+      "B": "Oxigênio",
+      "C": "Dióxido de carbono",
+      "D": "Hélio"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "nivel": "facil",
+    "pergunta": "Qual planeta é o maior do sistema solar?",
+    "opcoes": {
+      "A": "Saturno",
+      "B": "Júpiter",
+      "C": "Terra",
+      "D": "Marte"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "nivel": "facil",
+    "pergunta": "Qual destes animais é um mamífero?",
+    "opcoes": {
+      "A": "Crocodilo",
+      "B": "Golfinho",
+      "C": "Águia",
+      "D": "Tubarão"
+    },
+    "resposta_correta": "B"
+  },
+
+
+  {
+    "nivel": "medio",
+    "pergunta": "Qual a principal função dos glóbulos vermelhos no sangue?",
+    "opcoes": {
+      "A": "Defesa contra infecções",
+      "B": "Transporte de oxigênio",
+      "C": "Coagulação",
+      "D": "Produção de hormônios"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual é o órgão responsável por filtrar o sangue no corpo humano?",
+    "opcoes": {
+      "A": "Fígado",
+      "B": "Rim",
+      "C": "Estômago",
+      "D": "Pâncreas"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual é o nome da molécula que carrega a informação genética?",
+    "opcoes": {
+      "A": "RNA",
+      "B": "Proteína",
+      "C": "DNA",
+      "D": "Lípido"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual destes é um exemplo de energia renovável?",
+    "opcoes": {
+      "A": "Petróleo",
+      "B": "Carvão",
+      "C": "Solar",
+      "D": "Gás natural"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual processo biológico transforma glicose em energia nas células?",
+    "opcoes": {
+      "A": "Fotossíntese",
+      "B": "Respiração celular",
+      "C": "Fermentação",
+      "D": "Digestão"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual é o principal gás causador do efeito estufa?",
+    "opcoes": {
+      "A": "Oxigênio",
+      "B": "Nitrogênio",
+      "C": "Dióxido de carbono",
+      "D": "Hélio"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual tecido conecta músculos aos ossos?",
+    "opcoes": {
+      "A": "Ligamento",
+      "B": "Tendão",
+      "C": "Cartilagem",
+      "D": "Epiderme"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Quem é conhecido como o pai da teoria da evolução?",
+    "opcoes": {
+      "A": "Isaac Newton",
+      "B": "Charles Darwin",
+      "C": "Albert Einstein",
+      "D": "Gregor Mendel"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual órgão produz a insulina no corpo humano?",
+    "opcoes": {
+      "A": "Fígado",
+      "B": "Pâncreas",
+      "C": "Rim",
+      "D": "Baço"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual elemento químico é essencial para a formação da hemoglobina?",
+    "opcoes": {
+      "A": "Cálcio",
+      "B": "Ferro",
+      "C": "Potássio",
+      "D": "Sódio"
+    },
+    "resposta_correta": "B"
+  },
+
+
+  {
+    "nivel": "dificil",
+    "pergunta": "Qual a função das mitocôndrias na célula?",
+    "opcoes": {
+      "A": "Produção de proteínas",
+      "B": "Respiração celular e produção de energia",
+      "C": "Armazenamento de material genético",
+      "D": "Síntese de lipídios"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "nivel": "dificil",
+    "pergunta": "O que é a taxa de reprodução básica (R0) em epidemiologia?",
+    "opcoes": {
+      "A": "Número médio de novos casos gerados por um caso",
+      "B": "Taxa de mortalidade de uma doença",
+      "C": "Tempo de incubação do vírus",
+      "D": "Número de casos fatais"
+    },
+    "resposta_correta": "A"
+  },
+  {
+    "nivel": "dificil",
+    "pergunta": "Qual é o nome do processo que gera gametas com metade do número de cromossomos?",
+    "opcoes": {
+      "A": "Mitose",
+      "B": "Meiose",
+      "C": "Fagocitose",
+      "D": "Osmose"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "nivel": "dificil",
+    "pergunta": "Qual fenômeno físico explica o arco-íris?",
+    "opcoes": {
+      "A": "Refração e dispersão da luz",
+      "B": "Reflexão interna total",
+      "C": "Difração",
+      "D": "Absorção da luz"
+    },
+    "resposta_correta": "A"
+  },
+  {
+    "nivel": "dificil",
+    "pergunta": "Quem propôs a teoria do Big Bang?",
+    "opcoes": {
+      "A": "Albert Einstein",
+      "B": "Edwin Hubble",
+      "C": "Georges Lemaître",
+      "D": "Isaac Newton"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "dificil",
+    "pergunta": "Qual a função do retículo endoplasmático rugoso na célula?",
+    "opcoes": {
+      "A": "Síntese de proteínas",
+      "B": "Produção de ATP",
+      "C": "Digestão celular",
+      "D": "Armazenamento de água"
+    },
+    "resposta_correta": "A"
+  },
+  {
+    "nivel": "dificil",
+    "pergunta": "Qual é a estrutura responsável pelo transporte ativo de íons na célula?",
+    "opcoes": {
+      "A": "Mitocôndria",
+      "B": "Bomba de sódio e potássio",
+      "C": "Lisossomo",
+      "D": "Ribossomo"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "nivel": "dificil",
+    "pergunta": "Qual a diferença fundamental entre vírus e bactérias?",
+    "opcoes": {
+      "A": "Vírus são células e bactérias não",
+      "B": "Bactérias têm metabolismo próprio, vírus não",
+      "C": "Vírus têm metabolismo próprio, bactérias não",
+      "D": "Nenhuma diferença"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "nivel": "dificil",
+    "pergunta": "Qual a unidade de medida da atividade radioativa?",
+    "opcoes": {
+      "A": "Coulomb",
+      "B": "Curie",
+      "C": "Newton",
+      "D": "Tesla"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "nivel": "dificil",
+    "pergunta": "Qual é o principal componente do gás natural?",
+    "opcoes": {
+      "A": "Propano",
+      "B": "Butano",
+      "C": "Metano",
+      "D": "Etano"
+    },
+    "resposta_correta": "C"
+  }
+]

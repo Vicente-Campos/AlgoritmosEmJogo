@@ -1,0 +1,337 @@
+[
+  
+  {
+    "nivel": "facil",
+    "pergunta": "Quem escreveu \"Dom Casmurro\"?",
+    "opcoes": {
+      "A": "Machado de Assis",
+      "B": "José de Alencar",
+      "C": "Clarice Lispector",
+      "D": "Carlos Drummond de Andrade"
+    },
+    "resposta_correta": "A"
+  },
+  {
+    "nivel": "facil",
+    "pergunta": "Qual personagem é o protagonista de \"O Pequeno Príncipe\"?",
+    "opcoes": {
+      "A": "O aviador",
+      "B": "O Pequeno Príncipe",
+      "C": "O rei",
+      "D": "A raposa"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "nivel": "facil",
+    "pergunta": "Qual é a nacionalidade do escritor William Shakespeare?",
+    "opcoes": {
+      "A": "Inglês",
+      "B": "Francês",
+      "C": "Italiano",
+      "D": "Alemão"
+    },
+    "resposta_correta": "A"
+  },
+  {
+    "nivel": "facil",
+    "pergunta": "Qual obra é conhecida como uma das principais do Romantismo brasileiro?",
+    "opcoes": {
+      "A": "Memórias Póstumas de Brás Cubas",
+      "B": "Iracema",
+      "C": "Grande Sertão: Veredas",
+      "D": "Vidas Secas"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "nivel": "facil",
+    "pergunta": "Quem escreveu \"O Alienista\"?",
+    "opcoes": {
+      "A": "Machado de Assis",
+      "B": "José de Alencar",
+      "C": "Euclides da Cunha",
+      "D": "Graciliano Ramos"
+    },
+    "resposta_correta": "A"
+  },
+  {
+    "nivel": "facil",
+    "pergunta": "Qual poeta brasileiro escreveu \"No meio do caminho tinha uma pedra\"?",
+    "opcoes": {
+      "A": "Vinicius de Moraes",
+      "B": "Carlos Drummond de Andrade",
+      "C": "Manuel Bandeira",
+      "D": "Cecília Meireles"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "nivel": "facil",
+    "pergunta": "Qual é o gênero literário da obra \"Romeu e Julieta\"?",
+    "opcoes": {
+      "A": "Comédia",
+      "B": "Tragédia",
+      "C": "Poema épico",
+      "D": "Romance"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "nivel": "facil",
+    "pergunta": "Quem é o autor de \"O Cortiço\"?",
+    "opcoes": {
+      "A": "Aluísio Azevedo",
+      "B": "José de Alencar",
+      "C": "Machado de Assis",
+      "D": "Jorge Amado"
+    },
+    "resposta_correta": "A"
+  },
+  {
+    "nivel": "facil",
+    "pergunta": "O que é um soneto?",
+    "opcoes": {
+      "A": "Uma narrativa longa",
+      "B": "Um tipo de poema",
+      "C": "Uma peça de teatro",
+      "D": "Um romance curto"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "nivel": "facil",
+    "pergunta": "Qual autor brasileiro é conhecido como 'Poeta do Amor'?",
+    "opcoes": {
+      "A": "Cruz e Sousa",
+      "B": "Vinicius de Moraes",
+      "C": "Carlos Drummond de Andrade",
+      "D": "Manuel Bandeira"
+    },
+    "resposta_correta": "B"
+  },
+
+  
+  {
+    "nivel": "medio",
+    "pergunta": "Em qual obra de Machado de Assis encontramos o personagem Bentinho?",
+    "opcoes": {
+      "A": "Memórias Póstumas de Brás Cubas",
+      "B": "Dom Casmurro",
+      "C": "Quincas Borba",
+      "D": "Esaú e Jacó"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual movimento literário valoriza a subjetividade, a emoção e a natureza?",
+    "opcoes": {
+      "A": "Realismo",
+      "B": "Modernismo",
+      "C": "Romantismo",
+      "D": "Simbolismo"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Quem é o autor da obra \"Grande Sertão: Veredas\"?",
+    "opcoes": {
+      "A": "Graciliano Ramos",
+      "B": "Jorge Amado",
+      "C": "João Guimarães Rosa",
+      "D": "Machado de Assis"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual é o tema central do livro \"Vidas Secas\" de Graciliano Ramos?",
+    "opcoes": {
+      "A": "Vida urbana",
+      "B": "Seca e pobreza no sertão",
+      "C": "História de amor",
+      "D": "Colonização"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual autor é conhecido por seu estilo de escrita chamada de 'romance psicológico'?",
+    "opcoes": {
+      "A": "Machado de Assis",
+      "B": "José de Alencar",
+      "C": "Clarice Lispector",
+      "D": "Érico Veríssimo"
+    },
+    "resposta_correta": "A"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual das obras a seguir pertence ao Modernismo brasileiro?",
+    "opcoes": {
+      "A": "Macunaíma",
+      "B": "O Primo Basílio",
+      "C": "Senhora",
+      "D": "O Guarani"
+    },
+    "resposta_correta": "A"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Quem é o autor do livro \"Memórias Póstumas de Brás Cubas\"?",
+    "opcoes": {
+      "A": "Machado de Assis",
+      "B": "José de Alencar",
+      "C": "Jorge Amado",
+      "D": "Graciliano Ramos"
+    },
+    "resposta_correta": "A"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual a característica principal do Simbolismo?",
+    "opcoes": {
+      "A": "Objetividade",
+      "B": "Uso de símbolos e subjetividade",
+      "C": "Realismo social",
+      "D": "Narrativa linear"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Em que período ocorreu a Semana de Arte Moderna de 1922 no Brasil?",
+    "opcoes": {
+      "A": "Século XIX",
+      "B": "Início do século XX",
+      "C": "Final do século XX",
+      "D": "Século XVIII"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual a obra que é considerada o marco inicial do Modernismo no Brasil?",
+    "opcoes": {
+      "A": "Macunaíma",
+      "B": "Manifesto Antropófago",
+      "C": "Manifesto Pau-Brasil",
+      "D": "Poemas e Canções"
+    },
+    "resposta_correta": "C"
+  },
+
+
+  {
+    "nivel": "dificil",
+    "pergunta": "Qual obra de Clarice Lispector é conhecida por sua narrativa introspectiva e estilo inovador?",
+    "opcoes": {
+      "A": "A Hora da Estrela",
+      "B": "Memórias Póstumas de Brás Cubas",
+      "C": "Vidas Secas",
+      "D": "Grande Sertão: Veredas"
+    },
+    "resposta_correta": "A"
+  },
+  {
+    "nivel": "dificil",
+    "pergunta": "Qual é a principal característica do Barroco na literatura?",
+    "opcoes": {
+      "A": "Simplicidade e objetividade",
+      "B": "Dualismo, exagero e conflito",
+      "C": "Uso da linguagem coloquial",
+      "D": "Foco na natureza"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "nivel": "dificil",
+    "pergunta": "Quem escreveu \"Os Lusíadas\"?",
+    "opcoes": {
+      "A": "Camões",
+      "B": "Eça de Queirós",
+      "C": "Fernando Pessoa",
+      "D": "José Saramago"
+    },
+    "resposta_correta": "A"
+  },
+  {
+    "nivel": "dificil",
+    "pergunta": "Qual o estilo literário predominante na obra \"O Primo Basílio\" de Eça de Queirós?",
+    "opcoes": {
+      "A": "Romantismo",
+      "B": "Realismo",
+      "C": "Modernismo",
+      "D": "Simbolismo"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "nivel": "dificil",
+    "pergunta": "Qual poeta simbolista escreveu o livro \"Broquéis\"?",
+    "opcoes": {
+      "A": "Cruz e Sousa",
+      "B": "Augusto dos Anjos",
+      "C": "Manuel Bandeira",
+      "D": "Carlos Drummond de Andrade"
+    },
+    "resposta_correta": "A"
+  },
+  {
+    "nivel": "dificil",
+    "pergunta": "Em que obra aparece o personagem Quincas Borba?",
+    "opcoes": {
+      "A": "Quincas Borba",
+      "B": "Dom Casmurro",
+      "C": "Memórias Póstumas de Brás Cubas",
+      "D": "O Cortiço"
+    },
+    "resposta_correta": "A"
+  },
+  {
+    "nivel": "dificil",
+    "pergunta": "Qual autor escreveu \"A Hora da Estrela\"?",
+    "opcoes": {
+      "A": "Clarice Lispector",
+      "B": "Graciliano Ramos",
+      "C": "João Guimarães Rosa",
+      "D": "Jorge Amado"
+    },
+    "resposta_correta": "A"
+  },
+  {
+    "nivel": "dificil",
+    "pergunta": "Qual obra de Jorge Amado é ambientada na Bahia e trata das questões sociais?",
+    "opcoes": {
+      "A": "Capitães da Areia",
+      "B": "Gabriela, Cravo e Canela",
+      "C": "O Cortiço",
+      "D": "Senhora"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "nivel": "dificil",
+    "pergunta": "Qual é o tema central da obra \"Memórias Póstumas de Brás Cubas\"?",
+    "opcoes": {
+      "A": "A vida após a morte narrada pelo próprio morto",
+      "B": "Amor romântico",
+      "C": "Conquista do Oeste americano",
+      "D": "Colonização portuguesa"
+    },
+    "resposta_correta": "A"
+  },
+  {
+    "nivel": "dificil",
+    "pergunta": "Quem é o autor da poesia \"Os Sapos\", crítica à poesia parnasiana?",
+    "opcoes": {
+      "A": "Manuel Bandeira",
+      "B": "Carlos Drummond de Andrade",
+      "C": "Olavo Bilac",
+      "D": "Raimundo Correia"
+    },
+    "resposta_correta": "D"
+  }
+]
