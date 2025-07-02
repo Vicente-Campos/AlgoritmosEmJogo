@@ -1,17 +1,22 @@
 '''
-DECLARAR FUNÇOES DE BOAS VINDAS E CODIGOS RELACIONADOS
+DECLARAÇÃO DE FUNÇÕES USADAS EM OUTRAS PARTES DO PROJETO
 '''
-import os
-import time
+import os        # Para interagir com o sistema operacional
+import time      # Para controlar pausas no tempo
+import sys       # Para controlar a saída de caracteres no terminal
+import shutil    # Para obter a largura do terminal
+import pyfiglet  # Para gerar texto grande (ASCII Art)
 
-    
 def limpar_terminal():
     """Limpa a tela do terminal, compatível com Windows e sistemas Unix."""
     if os.name == 'nt':
         os.system('cls')
     else:
         os.system('clear')
-        
+
+def obter_largura_terminal():
+    """Obtém a largura do terminal em caracteres."""
+    return shutil.get_terminal_size().columns
 
 def ler_arquivo_relativo(nome_arquivo):
     """
@@ -70,3 +75,38 @@ def jogar_novamente():
             print("-" * 40)
             time.sleep(2.5) # Aumentei a pausa para o usuário ler o erro antes de repetir
             limpar_terminal()
+
+def exibir_mensagens(mensagens: list[str]):
+    """
+    Exibe uma lista de mensagens como texto grande animado no terminal,
+    usando configurações padrão.
+    """
+    # Configurações padrão para a animação
+    FONTE_PADRAO = "ansi_shadow"
+    ATRASO_CARACTERE_PADRAO = 0.010
+    ATRASO_FRASE_PADRAO = 1.0
+
+    largura_terminal = obter_largura_terminal() # Largura do terminal
+    
+    limpar_terminal()
+
+    # Loop para exibir cada frase da lista com animação
+    for i, frase in enumerate(mensagens):
+        # Gera o texto grande, ajustando à largura do terminal
+        texto_grande_ascii = pyfiglet.figlet_format(frase, font=FONTE_PADRAO, width=largura_terminal)
+
+        # Exibe cada caractere do texto grande gradualmente
+        for char in texto_grande_ascii:
+            sys.stdout.write(char) # Escreve o caractere
+            sys.stdout.flush()     # Exibe imediatamente
+            time.sleep(ATRASO_CARACTERE_PADRAO) # Pausa para o efeito
+
+        # Pausa entre frases, se houver mais de uma
+        if i < len(mensagens) - 1:
+            sys.stdout.flush()
+            time.sleep(ATRASO_FRASE_PADRAO)
+
+    sys.stdout.flush()
+    time.sleep(1.5)
+    if mensagens[0] == 'Bem-vindo ao projeto:': input('Pressione Enter para continuar...')
+    limpar_terminal()

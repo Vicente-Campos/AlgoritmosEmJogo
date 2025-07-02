@@ -1,5 +1,5 @@
 # Importando funções utilitárias
-from utils.funcoes import limpar_terminal
+from utils.funcoes import limpar_terminal, exibir_mensagens
 import time
 
 # Importando as funções principais de cada jogo
@@ -34,7 +34,6 @@ def exibir_menu_principal():
                 limpar_terminal() 
                 opcoes_menu[escolha]["funcao"]() # Chama a função do jogo selecionado
             else: # Opção 'Sair'
-                print("\nSaindo do programa. Até mais!")
                 time.sleep(1.5)
                 limpar_terminal()
                 break # Sai do loop do menu principal
@@ -42,5 +41,6 @@ def exibir_menu_principal():
             print("\nOpção inválida! Por favor, escolha uma das opções listadas.")
             time.sleep(1.5)
 
-# Chamando a função de menu
+exibir_mensagens(['Bem-vindo ao projeto:', 'Algoritmos em jogo'])
 exibir_menu_principal()
+exibir_mensagens(['Obrigado por jogar!', 'Ate a proxima!'])
