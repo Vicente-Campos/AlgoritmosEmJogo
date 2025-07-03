@@ -1,6 +1,17 @@
 import json
 import os
-import time 
+
+
+def introducao():
+    limpar_terminal()
+    print("🎮 BEM-VINDO AO QUIZ 🎮\n")
+    print("REGRAS DO JOGO:")
+    print("- Você escolherá uma área de conhecimento: Geografia, História, Ciências ou Literatura.")
+    print("- Depois, selecione o nível de dificuldade: Fácil, Médio ou Difícil.")
+    print("- Cada pergunta vale 10 pontos.")
+    print("- Responda com a letra correta da opção (A, B, C ou D).")
+    print("- No final, sua pontuação será salva e você verá o ranking dos melhores jogadores!")
+    print("\nBoa sorte! 🍀\n")
 
 
 def limpar_terminal():
@@ -12,9 +23,6 @@ def limpar_terminal():
 
 
 def quiz(): #função principal
-    limpar_terminal()
-    print("======Quiz======")
-    print()
     resposta_usuario = input("Começar agora? (S/N): ").upper()
     print()
     if resposta_usuario != "S":
@@ -22,18 +30,15 @@ def quiz(): #função principal
         return
     
     nome = input("Digite seu nome: ")
-    print(f"Vamos começar, {nome}!")
-
-
     final_jogo(nome)
 
 
 def escolher_area(): #função para escolher área
     print("🔍 Escolha uma área de conhecimento:")
-    print("1 - Geografia")
-    print("2 - História")
-    print("3 - Ciências")
-    print("4 - Literatura")
+    print("1 - Geografia 🌍")
+    print("2 - História 🏰")
+    print("3 - Ciências 🧪")
+    print("4 - Literatura 📖")
     print()
 
     opcao = input("Digite o número da área escolhida: ")
@@ -117,9 +122,11 @@ def final_jogo(nome):
 
         print("Fim de jogo")
         print(f"Pontuação: {score}/100")
-        placar(nome, score) #Salva o placar no arquivo json a cada rodada
 
+        placar(nome, score) #Salva o placar no arquivo json a cada rodada
+        ranking()
         print()
+
         continuar_jogo = input("Jogar novamente? S/N: ").upper()
         if continuar_jogo != "S":
             print("Até a próxima! 👋")
@@ -151,4 +158,27 @@ def placar(nome, score):
         json.dump(placares, arquivo, indent=4, ensure_ascii=False)
 
 
+
+#função para mostrar ranking dos jogadores
+def ranking():
+    base_dir = os.path.dirname(os.path.abspath(__file__))
+    caminho_arquivo = os.path.join(base_dir, "placar.json")
+
+    if not os.path.exists(caminho_arquivo):
+        print("Nenhum placar registrado ainda.")
+        return
+
+    with open(caminho_arquivo, "r", encoding="utf-8") as arquivo:
+        placares = json.load(arquivo)
+
+        placares.sort(key=lambda x: x["pontuação"], reverse=True) #ordena a pontuação do maior para o menor
+        
+        print("\nRANKING DOS JOGADORES 🏆")
+        for i, p in enumerate(placares[:3], 1):
+            print(i, "-", p["nome"], ":", p["pontuação"])
+
+
+
+
+introducao()
 quiz()
