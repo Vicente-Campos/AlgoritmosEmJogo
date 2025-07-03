@@ -30,3 +30,6 @@ Thumbs.db       # Arquivos de miniaturas do Windows
 # Ignora arquivos de log e qualquer banco de dados local temporário que seu projeto possa gerar.
 *.log
 *.sqlite3       # Se você usar SQLite localmente para testes ou configurações
+
+# Arquivo que guarda a potuação do quiz
+jogos/quiz/placar.json
