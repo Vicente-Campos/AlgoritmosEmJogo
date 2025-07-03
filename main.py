@@ -6,6 +6,7 @@ import time
 from jogos.forca.jogo_da_forca import jogar_forca
 from jogos.pedra_papel_tesoura.jogo_ppt import jogar_ppt
 from jogos.adivinhacao.adivinhacao import jogar_adivinhacao
+from jogos.quiz.jogo_quiz import quiz
 
 def exibir_menu_principal():
     """
@@ -15,7 +16,8 @@ def exibir_menu_principal():
         '1': {"texto": "Forca", "funcao": jogar_forca},
         '2': {"texto": "Pedra, Papel e Tesoura", "funcao": jogar_ppt},
         '3': {"texto": "Adivinhação", "funcao": jogar_adivinhacao},
-        '4': {"texto": "Sair", "funcao": None} # 'None' indica que esta opção encerra o programa
+        '4': {"texto": "Quiz", "funcao": quiz},
+        '5': {"texto": "Sair", "funcao": None} # 'None' indica que esta opção encerra o programa
     }
 
     while True:
@@ -41,6 +43,6 @@ def exibir_menu_principal():
             print("\nOpção inválida! Por favor, escolha uma das opções listadas.")
             time.sleep(1.5)
 
-exibir_mensagens(['Bem-vindo ao projeto:', 'Algoritmos em jogo'])
+# exibir_mensagens(['Bem-vindo ao projeto:', 'Algoritmos em jogo'])
 exibir_menu_principal()
-exibir_mensagens(['Obrigado por jogar!', 'Ate a proxima!'])
+# exibir_mensagens(['Obrigado por jogar!', 'Ate a proxima!'])
