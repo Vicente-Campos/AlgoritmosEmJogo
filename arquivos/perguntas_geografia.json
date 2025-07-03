@@ -1,0 +1,3765 @@
+[
+  {
+    "nivel": "facil",
+    "pergunta": "Qual é o maior oceano do planeta?",
+    "opcoes": {
+      "A": "Oceano Atlântico",
+      "B": "Oceano Pacífico",
+      "C": "Oceano Índico",
+      "D": "Oceano Ártico"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "nivel": "facil",
+    "pergunta": "Qual é o continente onde está o Brasil?",
+    "opcoes": {
+      "A": "América do Norte",
+      "B": "Ásia",
+      "C": "América do Sul",
+      "D": "África"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "facil",
+    "pergunta": "Qual é a capital do Brasil?",
+    "opcoes": {
+      "A": "São Paulo",
+      "B": "Rio de Janeiro",
+      "C": "Brasília",
+      "D": "Salvador"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "facil",
+    "pergunta": "Em qual hemisfério está localizado o Brasil?",
+    "opcoes": {
+      "A": "Hemisfério Norte",
+      "B": "Hemisfério Sul",
+      "C": "Hemisfério Leste",
+      "D": "Hemisfério Oeste"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "nivel": "facil",
+    "pergunta": "Quantos continentes existem no mundo?",
+    "opcoes": {
+      "A": "5",
+      "B": "6",
+      "C": "7",
+      "D": "8"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "facil",
+    "pergunta": "Qual país tem o maior território do mundo?",
+    "opcoes": {
+      "A": "Canadá",
+      "B": "China",
+      "C": "Brasil",
+      "D": "Rússia"
+    },
+    "resposta_correta": "D"
+  },
+  {
+    "nivel": "facil",
+    "pergunta": "Qual é o menor continente do mundo?",
+    "opcoes": {
+      "A": "Europa",
+      "B": "Antártida",
+      "C": "Oceania",
+      "D": "África"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "facil",
+    "pergunta": "Qual país é conhecido como 'Terra do Sol Nascente'?",
+    "opcoes": {
+      "A": "China",
+      "B": "Japão",
+      "C": "Coreia do Sul",
+      "D": "Índia"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "nivel": "facil",
+    "pergunta": "Qual é o maior deserto do mundo?",
+    "opcoes": {
+      "A": "Saara",
+      "B": "Atacama",
+      "C": "Kalahari",
+      "D": "Antártida"
+    },
+    "resposta_correta": "D"
+  },
+  {
+    "nivel": "facil",
+    "pergunta": "Qual é o rio mais extenso do mundo?",
+    "opcoes": {
+      "A": "Rio Amazonas",
+      "B": "Rio Nilo",
+      "C": "Rio Yangtzé",
+      "D": "Rio Mississipi"
+    },
+    "resposta_correta": "A"
+  },
+  {
+    "nivel": "facil",
+    "pergunta": "Qual é a montanha mais alta do mundo?",
+    "opcoes": {
+      "A": "Monte Kilimanjaro",
+      "B": "Monte Everest",
+      "C": "Monte Fuji",
+      "D": "K2"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "nivel": "facil",
+    "pergunta": "Em qual país fica a Torre Eiffel?",
+    "opcoes": {
+      "A": "Itália",
+      "B": "Espanha",
+      "C": "França",
+      "D": "Alemanha"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "facil",
+    "pergunta": "Qual é o país mais populoso do mundo?",
+    "opcoes": {
+      "A": "Índia",
+      "B": "Estados Unidos",
+      "C": "China",
+      "D": "Indonésia"
+    },
+    "resposta_correta": "A"
+  },
+  {
+    "nivel": "facil",
+    "pergunta": "Qual é a capital da Argentina?",
+    "opcoes": {
+      "A": "Santiago",
+      "B": "Buenos Aires",
+      "C": "Montevidéu",
+      "D": "Lima"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "nivel": "facil",
+    "pergunta": "Qual é o país famoso por suas pirâmides e pelo Rio Nilo?",
+    "opcoes": {
+      "A": "Grécia",
+      "B": "Egito",
+      "C": "Marrocos",
+      "D": "Turquia"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "nivel": "facil",
+    "pergunta": "Qual oceano banha a costa leste do Brasil?",
+    "opcoes": {
+      "A": "Oceano Pacífico",
+      "B": "Oceano Atlântico",
+      "C": "Oceano Índico",
+      "D": "Oceano Ártico"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "nivel": "facil",
+    "pergunta": "Qual é a capital da Espanha?",
+    "opcoes": {
+      "A": "Lisboa",
+      "B": "Roma",
+      "C": "Madrid",
+      "D": "Berlim"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "facil",
+    "pergunta": "Qual é o continente mais quente do mundo?",
+    "opcoes": {
+      "A": "Ásia",
+      "B": "Europa",
+      "C": "África",
+      "D": "América do Sul"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "facil",
+    "pergunta": "Qual país é famoso pela Grande Muralha?",
+    "opcoes": {
+      "A": "Japão",
+      "B": "Índia",
+      "C": "China",
+      "D": "Vietnã"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "facil",
+    "pergunta": "Qual é a capital do Reino Unido?",
+    "opcoes": {
+      "A": "Paris",
+      "B": "Dublin",
+      "C": "Berlim",
+      "D": "Londres"
+    },
+    "resposta_correta": "D"
+  },
+  {
+    "nivel": "facil",
+    "pergunta": "Qual é o maior país da América do Sul em área?",
+    "opcoes": {
+      "A": "Argentina",
+      "B": "Brasil",
+      "C": "Colômbia",
+      "D": "Peru"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "nivel": "facil",
+    "pergunta": "Qual cidade é conhecida como a 'Cidade Eterna'?",
+    "opcoes": {
+      "A": "Paris",
+      "B": "Atenas",
+      "C": "Roma",
+      "D": "Cairo"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "facil",
+    "pergunta": "Em qual continente está localizada a Austrália?",
+    "opcoes": {
+      "A": "Ásia",
+      "B": "Oceania",
+      "C": "África",
+      "D": "América do Norte"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "nivel": "facil",
+    "pergunta": "Qual é o menor país do mundo em área?",
+    "opcoes": {
+      "A": "Mônaco",
+      "B": "Vaticano",
+      "C": "Nauru",
+      "D": "San Marino"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "nivel": "facil",
+    "pergunta": "Qual é a capital do Japão?",
+    "opcoes": {
+      "A": "Pequim",
+      "B": "Seul",
+      "C": "Tóquio",
+      "D": "Bangkok"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "facil",
+    "pergunta": "Qual é o rio que passa por Paris?",
+    "opcoes": {
+      "A": "Rio Tâmisa",
+      "B": "Rio Reno",
+      "C": "Rio Sena",
+      "D": "Rio Danúbio"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "facil",
+    "pergunta": "Qual país é famoso pelo Kangaroo e Koala?",
+    "opcoes": {
+      "A": "Nova Zelândia",
+      "B": "África do Sul",
+      "C": "Austrália",
+      "D": "Canadá"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "facil",
+    "pergunta": "Qual é o ponto mais baixo da Terra?",
+    "opcoes": {
+      "A": "Fossa das Marianas",
+      "B": "Vale da Morte",
+      "C": "Mar Morto",
+      "D": "Deserto do Saara"
+    },
+    "resposta_correta": "A"
+  },
+  {
+    "nivel": "facil",
+    "pergunta": "Qual é a capital da Alemanha?",
+    "opcoes": {
+      "A": "Viena",
+      "B": "Zurique",
+      "C": "Berlim",
+      "D": "Amesterdã"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "facil",
+    "pergunta": "Qual país tem a forma de uma bota?",
+    "opcoes": {
+      "A": "Grécia",
+      "B": "Portugal",
+      "C": "Itália",
+      "D": "Turquia"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "facil",
+    "pergunta": "Qual é o maior lago de água doce do mundo em volume?",
+    "opcoes": {
+      "A": "Lago Superior",
+      "B": "Lago Baikal",
+      "C": "Lago Vitória",
+      "D": "Lago Michigan"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "nivel": "facil",
+    "pergunta": "Qual é o nome do vulcão ativo mais famoso do Japão?",
+    "opcoes": {
+      "A": "Monte Vesúvio",
+      "B": "Monte Fuji",
+      "C": "Monte Etna",
+      "D": "Monte Santa Helena"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "nivel": "facil",
+    "pergunta": "Qual é a capital do Canadá?",
+    "opcoes": {
+      "A": "Toronto",
+      "B": "Vancouver",
+      "C": "Montreal",
+      "D": "Ottawa"
+    },
+    "resposta_correta": "D"
+  },
+  {
+    "nivel": "facil",
+    "pergunta": "Qual é o país onde se localiza o Cristo Redentor?",
+    "opcoes": {
+      "A": "Portugal",
+      "B": "Brasil",
+      "C": "México",
+      "D": "Colômbia"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "nivel": "facil",
+    "pergunta": "Qual é o maior grupo de ilhas do mundo?",
+    "opcoes": {
+      "A": "Caribe",
+      "B": "Indonésia",
+      "C": "Japão",
+      "D": "Filipinas"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "nivel": "facil",
+    "pergunta": "Qual é o país conhecido por seus canais e moinhos de vento?",
+    "opcoes": {
+      "A": "Bélgica",
+      "B": "Holanda",
+      "C": "Suíça",
+      "D": "Dinamarca"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "nivel": "facil",
+    "pergunta": "Qual é a cidade que possui a Estátua da Liberdade?",
+    "opcoes": {
+      "A": "Los Angeles",
+      "B": "Chicago",
+      "C": "Nova York",
+      "D": "Miami"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "facil",
+    "pergunta": "Qual país tem a maior produção de café do mundo?",
+    "opcoes": {
+      "A": "Colômbia",
+      "B": "Vietnã",
+      "C": "Brasil",
+      "D": "Etiópia"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "facil",
+    "pergunta": "Qual é o maior rio da Europa?",
+    "opcoes": {
+      "A": "Rio Sena",
+      "B": "Rio Reno",
+      "C": "Rio Danúbio",
+      "D": "Rio Volga"
+    },
+    "resposta_correta": "D"
+  },
+  {
+    "nivel": "facil",
+    "pergunta": "Qual é a capital da África do Sul?",
+    "opcoes": {
+      "A": "Joanesburgo",
+      "B": "Cidade do Cabo",
+      "C": "Pretória",
+      "D": "Nairóbi"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "facil",
+    "pergunta": "Qual é o estreito que separa a Europa da África?",
+    "opcoes": {
+      "A": "Estreito de Bering",
+      "B": "Estreito de Magalhães",
+      "C": "Estreito de Gibraltar",
+      "D": "Estreito de Ormuz"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "facil",
+    "pergunta": "Qual país é famoso por sua culinária com tacos e burritos?",
+    "opcoes": {
+      "A": "Espanha",
+      "B": "México",
+      "C": "Peru",
+      "D": "Chile"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "nivel": "facil",
+    "pergunta": "Qual é o maior arquipélago do mundo?",
+    "opcoes": {
+      "A": "Filipinas",
+      "B": "Japão",
+      "C": "Indonésia",
+      "D": "Caribe"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "facil",
+    "pergunta": "Em qual cidade fica a famosa Ópera de Sydney?",
+    "opcoes": {
+      "A": "Melbourne",
+      "B": "Brisbane",
+      "C": "Sydney",
+      "D": "Perth"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "facil",
+    "pergunta": "Qual é a capital da Coreia do Sul?",
+    "opcoes": {
+      "A": "Pequim",
+      "B": "Tóquio",
+      "C": "Seul",
+      "D": "Bangkok"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "facil",
+    "pergunta": "Qual é o nome da linha imaginária que divide a Terra em Hemisfério Norte e Sul?",
+    "opcoes": {
+      "A": "Meridiano de Greenwich",
+      "B": "Linha do Equador",
+      "C": "Trópico de Câncer",
+      "D": "Trópico de Capricórnio"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "nivel": "facil",
+    "pergunta": "Qual é o maior estado do Brasil em área territorial?",
+    "opcoes": {
+      "A": "Minas Gerais",
+      "B": "Amazonas",
+      "C": "Bahia",
+      "D": "Pará"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "nivel": "facil",
+    "pergunta": "Qual é o país famoso por suas pizzas e massas?",
+    "opcoes": {
+      "A": "França",
+      "B": "Grécia",
+      "C": "Itália",
+      "D": "Espanha"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "facil",
+    "pergunta": "Qual deserto se estende por grande parte do norte da África?",
+    "opcoes": {
+      "A": "Deserto de Gobi",
+      "B": "Deserto do Saara",
+      "C": "Deserto da Arábia",
+      "D": "Deserto do Atacama"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "nivel": "facil",
+    "pergunta": "Qual é o oceano que banha a costa oeste da América do Sul?",
+    "opcoes": {
+      "A": "Oceano Atlântico",
+      "B": "Oceano Pacífico",
+      "C": "Oceano Índico",
+      "D": "Oceano Antártico"
+    },
+    "resposta_correta": "B"
+  },
+    {
+    "nivel": "facil",
+    "pergunta": "Qual é a cor principal do oceano?",
+    "opcoes": {
+      "A": "Verde",
+      "B": "Azul",
+      "C": "Amarelo",
+      "D": "Vermelho"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "nivel": "facil",
+    "pergunta": "Onde fica o famoso ponto turístico 'Machu Picchu'?",
+    "opcoes": {
+      "A": "México",
+      "B": "Peru",
+      "C": "Chile",
+      "D": "Bolívia"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "nivel": "facil",
+    "pergunta": "Qual é a estrela mais próxima da Terra?",
+    "opcoes": {
+      "A": "Lua",
+      "B": "Marte",
+      "C": "Sol",
+      "D": "Sirius"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "facil",
+    "pergunta": "Qual é a capital dos Estados Unidos?",
+    "opcoes": {
+      "A": "Nova York",
+      "B": "Los Angeles",
+      "C": "Washington D.C.",
+      "D": "Chicago"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "facil",
+    "pergunta": "Qual o nome da linha imaginária que corta o Brasil ao meio?",
+    "opcoes": {
+      "A": "Trópico de Capricórnio",
+      "B": "Trópico de Câncer",
+      "C": "Círculo Polar Ártico",
+      "D": "Linha do Equador"
+    },
+    "resposta_correta": "D"
+  },
+  {
+    "nivel": "facil",
+    "pergunta": "Qual é o país que é uma ilha e um continente ao mesmo tempo?",
+    "opcoes": {
+      "A": "Nova Zelândia",
+      "B": "Japão",
+      "C": "Madagascar",
+      "D": "Austrália"
+    },
+    "resposta_correta": "D"
+  },
+  {
+    "nivel": "facil",
+    "pergunta": "Qual é o nome do deserto que fica na China e Mongólia?",
+    "opcoes": {
+      "A": "Saara",
+      "B": "Gobi",
+      "C": "Atacama",
+      "D": "Kalahari"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "nivel": "facil",
+    "pergunta": "Em qual país se encontra a pirâmide de Gizé?",
+    "opcoes": {
+      "A": "Egito",
+      "B": "Grécia",
+      "C": "México",
+      "D": "Itália"
+    },
+    "resposta_correta": "A"
+  },
+  {
+    "nivel": "facil",
+    "pergunta": "Qual é o país famoso pelo futebol e pelo tango?",
+    "opcoes": {
+      "A": "Brasil",
+      "B": "Uruguai",
+      "C": "Argentina",
+      "D": "Chile"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "facil",
+    "pergunta": "Qual é a cidade italiana conhecida por seus canais e gôndolas?",
+    "opcoes": {
+      "A": "Roma",
+      "B": "Milão",
+      "C": "Florença",
+      "D": "Veneza"
+    },
+    "resposta_correta": "D"
+  },
+  {
+    "nivel": "facil",
+    "pergunta": "Qual é o país que tem a bandeira com uma folha de bordo?",
+    "opcoes": {
+      "A": "Estados Unidos",
+      "B": "Canadá",
+      "C": "Austrália",
+      "D": "Nova Zelândia"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "nivel": "facil",
+    "pergunta": "Qual é o maior estado do Nordeste brasileiro em área?",
+    "opcoes": {
+      "A": "Bahia",
+      "B": "Ceará",
+      "C": "Pernambuco",
+      "D": "Maranhão"
+    },
+    "resposta_correta": "A"
+  },
+  {
+    "nivel": "facil",
+    "pergunta": "Qual é o nome da floresta tropical que abrange grande parte do Brasil?",
+    "opcoes": {
+      "A": "Mata Atlântica",
+      "B": "Cerrado",
+      "C": "Amazônia",
+      "D": "Caatinga"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "facil",
+    "pergunta": "Qual é o país vizinho do Brasil que tem a capital Buenos Aires?",
+    "opcoes": {
+      "A": "Chile",
+      "B": "Uruguai",
+      "C": "Argentina",
+      "D": "Paraguai"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "facil",
+    "pergunta": "Qual é o continente mais frio do planeta?",
+    "opcoes": {
+      "A": "Ásia",
+      "B": "Europa",
+      "C": "Antártida",
+      "D": "América do Norte"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "facil",
+    "pergunta": "Qual é o nome do famoso muro que dividia a Alemanha?",
+    "opcoes": {
+      "A": "Muralha da China",
+      "B": "Muro de Berlim",
+      "C": "Muro das Lamentações",
+      "D": "Muro de Adriano"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "nivel": "facil",
+    "pergunta": "Qual é o país que tem a forma de um dragão, localizado na Ásia?",
+    "opcoes": {
+      "A": "Japão",
+      "B": "China",
+      "C": "Índia",
+      "D": "Coreia do Norte"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "nivel": "facil",
+    "pergunta": "Qual é a fruta tropical nativa do Brasil e muito exportada?",
+    "opcoes": {
+      "A": "Maçã",
+      "B": "Banana",
+      "C": "Abacaxi",
+      "D": "Manga"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "facil",
+    "pergunta": "Qual é o monumento famoso em Roma onde lutavam gladiadores?",
+    "opcoes": {
+      "A": "Partenon",
+      "B": "Coliseu",
+      "C": "Torre de Pisa",
+      "D": "Pirâmides de Gizé"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "nivel": "facil",
+    "pergunta": "Qual é o país que tem a capital Londres?",
+    "opcoes": {
+      "A": "França",
+      "B": "Alemanha",
+      "C": "Reino Unido",
+      "D": "Espanha"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "facil",
+    "pergunta": "Qual é o oceano que circunda a Antártida?",
+    "opcoes": {
+      "A": "Oceano Atlântico",
+      "B": "Oceano Índico",
+      "C": "Oceano Pacífico",
+      "D": "Oceano Antártico"
+    },
+    "resposta_correta": "D"
+  },
+  {
+    "nivel": "facil",
+    "pergunta": "Qual é a capital da Itália?",
+    "opcoes": {
+      "A": "Milão",
+      "B": "Veneza",
+      "C": "Roma",
+      "D": "Nápoles"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "facil",
+    "pergunta": "Qual é o continente onde o Rio Nilo deságua?",
+    "opcoes": {
+      "A": "Ásia",
+      "B": "Europa",
+      "C": "África",
+      "D": "América do Sul"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "facil",
+    "pergunta": "Qual é o país escandinavo conhecido por seus fiordes?",
+    "opcoes": {
+      "A": "Suécia",
+      "B": "Dinamarca",
+      "C": "Noruega",
+      "D": "Finlândia"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "facil",
+    "pergunta": "Qual é o nome do grande recife de coral na Austrália?",
+    "opcoes": {
+      "A": "Recife de Belize",
+      "B": "Grande Barreira de Coral",
+      "C": "Recife da Flórida",
+      "D": "Recife da Barreira"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "nivel": "facil",
+    "pergunta": "Qual é o maior rio da Ásia?",
+    "opcoes": {
+      "A": "Rio Ganges",
+      "B": "Rio Amarelo",
+      "C": "Rio Yangtzé",
+      "D": "Rio Indo"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "facil",
+    "pergunta": "Qual é o nome do vulcão ativo que destruiu Pompeia?",
+    "opcoes": {
+      "A": "Monte Fuji",
+      "B": "Monte Vesúvio",
+      "C": "Monte Etna",
+      "D": "Krakatoa"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "nivel": "facil",
+    "pergunta": "Em qual cidade brasileira fica a praia de Copacabana?",
+    "opcoes": {
+      "A": "São Paulo",
+      "B": "Salvador",
+      "C": "Rio de Janeiro",
+      "D": "Fortaleza"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "facil",
+    "pergunta": "Qual é a capital da Rússia?",
+    "opcoes": {
+      "A": "São Petersburgo",
+      "B": "Kiev",
+      "C": "Moscou",
+      "D": "Varsóvia"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "facil",
+    "pergunta": "Qual país é famoso por seus queijos e vinhos, e pela Torre Eiffel?",
+    "opcoes": {
+      "A": "Itália",
+      "B": "Espanha",
+      "C": "França",
+      "D": "Portugal"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "facil",
+    "pergunta": "Qual é o nome da cordilheira mais longa da América do Sul?",
+    "opcoes": {
+      "A": "Montanhas Rochosas",
+      "B": "Andes",
+      "C": "Apeninos",
+      "D": "Alpes"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "nivel": "facil",
+    "pergunta": "Qual é o menor oceano do mundo?",
+    "opcoes": {
+      "A": "Oceano Atlântico",
+      "B": "Oceano Índico",
+      "C": "Oceano Pacífico",
+      "D": "Oceano Ártico"
+    },
+    "resposta_correta": "D"
+  },
+  {
+    "nivel": "facil",
+    "pergunta": "Qual é a capital do Chile?",
+    "opcoes": {
+      "A": "Lima",
+      "B": "Santiago",
+      "C": "La Paz",
+      "D": "Assunção"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "nivel": "facil",
+    "pergunta": "Qual país é conhecido pela produção de chocolate e relógios?",
+    "opcoes": {
+      "A": "França",
+      "B": "Alemanha",
+      "C": "Suíça",
+      "D": "Bélgica"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "facil",
+    "pergunta": "Qual é o maior lago da América do Norte?",
+    "opcoes": {
+      "A": "Lago Superior",
+      "B": "Lago Huron",
+      "C": "Lago Michigan",
+      "D": "Lago Erie"
+    },
+    "resposta_correta": "A"
+  },
+  {
+    "nivel": "facil",
+    "pergunta": "Qual é o nome do famoso deserto vermelho na Austrália?",
+    "opcoes": {
+      "A": "Saara",
+      "B": "Outback",
+      "C": "Kalahari",
+      "D": "Gobi"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "nivel": "facil",
+    "pergunta": "Qual é o país famoso pela Akrópole e pela democracia?",
+    "opcoes": {
+      "A": "Egito",
+      "B": "Itália",
+      "C": "Grécia",
+      "D": "Turquia"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "facil",
+    "pergunta": "Qual é a capital de Portugal?",
+    "opcoes": {
+      "A": "Madrid",
+      "B": "Barcelona",
+      "C": "Lisboa",
+      "D": "Porto"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "facil",
+    "pergunta": "Qual é o país que tem a maior população indígena da América do Sul?",
+    "opcoes": {
+      "A": "Brasil",
+      "B": "Peru",
+      "C": "Bolívia",
+      "D": "Equador"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "facil",
+    "pergunta": "Qual é o ponto turístico mais visitado da França?",
+    "opcoes": {
+      "A": "Arco do Triunfo",
+      "B": "Museu do Louvre",
+      "C": "Catedral de Notre-Dame",
+      "D": "Torre Eiffel"
+    },
+    "resposta_correta": "D"
+  },
+  {
+    "nivel": "facil",
+    "pergunta": "Qual é o maior estado dos EUA em área?",
+    "opcoes": {
+      "A": "Texas",
+      "B": "Califórnia",
+      "C": "Alasca",
+      "D": "Montana"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "facil",
+    "pergunta": "Qual é o rio que forma a fronteira entre os EUA e o México?",
+    "opcoes": {
+      "A": "Rio Mississipi",
+      "B": "Rio Colorado",
+      "C": "Rio Grande",
+      "D": "Rio Ohio"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "facil",
+    "pergunta": "Qual é a capital da Índia?",
+    "opcoes": {
+      "A": "Mumbai",
+      "B": "Calcutá",
+      "C": "Nova Deli",
+      "D": "Bangalore"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "facil",
+    "pergunta": "Qual é o país famoso pelos castelos, como o de Neuschwanstein?",
+    "opcoes": {
+      "A": "Áustria",
+      "B": "Alemanha",
+      "C": "França",
+      "D": "Reino Unido"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "nivel": "facil",
+    "pergunta": "Qual é o maior lago da África?",
+    "opcoes": {
+      "A": "Lago Tanganica",
+      "B": "Lago Malawi",
+      "C": "Lago Vitória",
+      "D": "Lago Chade"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "facil",
+    "pergunta": "Qual é a capital do Egito?",
+    "opcoes": {
+      "A": "Alexandria",
+      "B": "Luxor",
+      "C": "Cairo",
+      "D": "Gizé"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "facil",
+    "pergunta": "Qual é o nome do mar entre a Europa e a África?",
+    "opcoes": {
+      "A": "Mar Vermelho",
+      "B": "Mar do Norte",
+      "C": "Mar Mediterrâneo",
+      "D": "Mar Báltico"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "facil",
+    "pergunta": "Qual é o país famoso pela dança do flamenco?",
+    "opcoes": {
+      "A": "Portugal",
+      "B": "França",
+      "C": "Espanha",
+      "D": "Itália"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "facil",
+    "pergunta": "Qual é o famoso teleférico que leva ao Pão de Açúcar, no Rio de Janeiro?",
+    "opcoes": {
+      "A": "Bondinho",
+      "B": "Metrô",
+      "C": "Trem do Corcovado",
+      "D": "Teleférico da Providência"
+    },
+    "resposta_correta": "A"
+  },
+  {
+    "nivel": "facil",
+    "pergunta": "Qual é a capital da Colômbia?",
+    "opcoes": {
+      "A": "Lima",
+      "B": "Caracas",
+      "C": "Bogotá",
+      "D": "Quito"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual cordilheira se estende pela costa ocidental da América do Sul?",
+    "opcoes": {
+      "A": "Montanhas Rochosas",
+      "B": "Andes",
+      "C": "Alpes",
+      "D": "Himalaias"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual país africano é banhado pelos Oceanos Atlântico e Índico?",
+    "opcoes": {
+      "A": "Egito",
+      "B": "Marrocos",
+      "C": "África do Sul",
+      "D": "Quênia"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual é o nome do fenômeno climático caracterizado pelo aquecimento anormal das águas do Oceano Pacífico?",
+    "opcoes": {
+      "A": "La Niña",
+      "B": "El Niño",
+      "C": "Monções",
+      "D": "Ciclone"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual mar está localizado entre a Europa, Ásia e África, sendo quase totalmente cercado por terra?",
+    "opcoes": {
+      "A": "Mar do Norte",
+      "B": "Mar Negro",
+      "C": "Mar Mediterrâneo",
+      "D": "Mar Cáspio"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual é o maior arquipélago do mundo em número de ilhas?",
+    "opcoes": {
+      "A": "Filipinas",
+      "B": "Japão",
+      "C": "Indonésia",
+      "D": "Caribe"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual deserto é o mais seco do mundo, localizado na América do Sul?",
+    "opcoes": {
+      "A": "Saara",
+      "B": "Gobi",
+      "C": "Atacama",
+      "D": "Kalahari"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual é o estreito que conecta o Oceano Atlântico ao Mar Mediterrâneo?",
+    "opcoes": {
+      "A": "Estreito de Bering",
+      "B": "Estreito de Gibraltar",
+      "C": "Estreito de Malaca",
+      "D": "Estreito de Magalhães"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual é o bioma brasileiro caracterizado por árvores de pequeno porte e arbustos retorcidos?",
+    "opcoes": {
+      "A": "Amazônia",
+      "B": "Mata Atlântica",
+      "C": "Cerrado",
+      "D": "Pantanal"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual é a capital do Chile?",
+    "opcoes": {
+      "A": "Lima",
+      "B": "Bogotá",
+      "C": "Santiago",
+      "D": "La Paz"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual país é o maior produtor mundial de petróleo?",
+    "opcoes": {
+      "A": "Rússia",
+      "B": "Arábia Saudita",
+      "C": "Estados Unidos",
+      "D": "Venezuela"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual é o planalto mais elevado do mundo, onde se encontra o Monte Everest?",
+    "opcoes": {
+      "A": "Planalto Central do Brasil",
+      "B": "Planalto do Tibete",
+      "C": "Planalto do Colorado",
+      "D": "Planalto Siberiano"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Onde está localizada a cidade de Petra, famosa por suas construções esculpidas na rocha?",
+    "opcoes": {
+      "A": "Egito",
+      "B": "Jordânia",
+      "C": "Israel",
+      "D": "Síria"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual é o nome do conjunto de ilhas vulcânicas no Oceano Pacífico, famoso pela teoria da evolução de Darwin?",
+    "opcoes": {
+      "A": "Maldivas",
+      "B": "Galápagos",
+      "C": "Fiji",
+      "D": "Bermudas"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual é o país que ocupa a maior parte da Península Arábica?",
+    "opcoes": {
+      "A": "Iraque",
+      "B": "Irã",
+      "C": "Arábia Saudita",
+      "D": "Omã"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual é o rio mais poluído do mundo, localizado na Índia?",
+    "opcoes": {
+      "A": "Rio Nilo",
+      "B": "Rio Amazonas",
+      "C": "Rio Ganges",
+      "D": "Rio Amarelo"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual é o tipo de clima predominante no nordeste brasileiro, caracterizado por longos períodos de seca?",
+    "opcoes": {
+      "A": "Equatorial",
+      "B": "Subtropical",
+      "C": "Semiárido",
+      "D": "Tropical Úmido"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual é a capital da Turquia?",
+    "opcoes": {
+      "A": "Istambul",
+      "B": "Ancara",
+      "C": "Esmirna",
+      "D": "Antália"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual é o país conhecido como 'Terra do Fogo e Gelo'?",
+    "opcoes": {
+      "A": "Groenlândia",
+      "B": "Noruega",
+      "C": "Islândia",
+      "D": "Finlândia"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual é o maior produtor mundial de café?",
+    "opcoes": {
+      "A": "Colômbia",
+      "B": "Vietnã",
+      "C": "Brasil",
+      "D": "Etiópia"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual é a cidade que abriga o Coliseu e o Vaticano?",
+    "opcoes": {
+      "A": "Florença",
+      "B": "Veneza",
+      "C": "Milão",
+      "D": "Roma"
+    },
+    "resposta_correta": "D"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual é o nome do ponto mais alto do continente africano?",
+    "opcoes": {
+      "A": "Monte Atlas",
+      "B": "Monte Quênia",
+      "C": "Monte Kilimanjaro",
+      "D": "Monte Ruwenzori"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual é a maior ilha do Brasil?",
+    "opcoes": {
+      "A": "Ilha de Marajó",
+      "B": "Ilha de Santa Catarina",
+      "C": "Ilhabela",
+      "D": "Fernando de Noronha"
+    },
+    "resposta_correta": "A"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual é o nome da principal corrente marítima fria que banha a costa oeste da América do Sul?",
+    "opcoes": {
+      "A": "Corrente do Golfo",
+      "B": "Corrente de Humboldt (Peru)",
+      "C": "Corrente do Brasil",
+      "D": "Corrente das Canárias"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual é o mar que é um lago salgado, localizado entre Israel, Jordânia e Palestina?",
+    "opcoes": {
+      "A": "Mar Cáspio",
+      "B": "Mar de Aral",
+      "C": "Mar Morto",
+      "D": "Mar Vermelho"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual é o nome do deserto que cobre grande parte da Mongólia e China?",
+    "opcoes": {
+      "A": "Saara",
+      "B": "Kalahari",
+      "C": "Gobi",
+      "D": "Atacama"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual é a capital da Suíça?",
+    "opcoes": {
+      "A": "Zurique",
+      "B": "Genebra",
+      "C": "Bern",
+      "D": "Lausanne"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual é o maior vulcão ativo do Japão?",
+    "opcoes": {
+      "A": "Monte Aso",
+      "B": "Monte Sakurajima",
+      "C": "Monte Fuji",
+      "D": "Monte Ontake"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual é o nome do famoso delta na Índia e Bangladesh, formado pelo Rio Ganges?",
+    "opcoes": {
+      "A": "Delta do Nilo",
+      "B": "Delta do Mekong",
+      "C": "Delta do Ganges-Brahmaputra",
+      "D": "Delta do Indo"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual é a montanha mais alta da América do Norte?",
+    "opcoes": {
+      "A": "Monte Whitney",
+      "B": "Pico de Orizaba",
+      "C": "Monte Elbert",
+      "D": "Denali (Monte McKinley)"
+    },
+    "resposta_correta": "D"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual país sul-americano é conhecido por suas Linhas de Nazca?",
+    "opcoes": {
+      "A": "Brasil",
+      "B": "Chile",
+      "C": "Peru",
+      "D": "Bolívia"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual é o oceano que circunda o Polo Norte?",
+    "opcoes": {
+      "A": "Oceano Atlântico",
+      "B": "Oceano Pacífico",
+      "C": "Oceano Índico",
+      "D": "Oceano Ártico"
+    },
+    "resposta_correta": "D"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual é o deserto que ocupa a maior parte do norte da África?",
+    "opcoes": {
+      "A": "Deserto da Arábia",
+      "B": "Deserto do Saara",
+      "C": "Deserto do Kalahari",
+      "D": "Deserto de Gobi"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual é a capital da África do Sul?",
+    "opcoes": {
+      "A": "Joanesburgo",
+      "B": "Cidade do Cabo",
+      "C": "Pretória",
+      "D": "Durban"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual é o nome do canal artificial que conecta o Oceano Atlântico ao Oceano Pacífico?",
+    "opcoes": {
+      "A": "Canal de Suez",
+      "B": "Canal do Panamá",
+      "C": "Canal da Mancha",
+      "D": "Canal de Corinto"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual é o ponto mais alto do Brasil?",
+    "opcoes": {
+      "A": "Pico da Neblina",
+      "B": "Monte Roraima",
+      "C": "Pico das Agulhas Negras",
+      "D": "Corcovado"
+    },
+    "resposta_correta": "A"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual é o bioma brasileiro que se estende pelo Centro-Oeste e parte do Sudeste, caracterizado pela savana?",
+    "opcoes": {
+      "A": "Amazônia",
+      "B": "Mata Atlântica",
+      "C": "Cerrado",
+      "D": "Caatinga"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual é o nome da cidade dividida por um famoso muro até 1989?",
+    "opcoes": {
+      "A": "Viena",
+      "B": "Berlim",
+      "C": "Praga",
+      "D": "Varsóvia"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual país é a maior ilha do Caribe?",
+    "opcoes": {
+      "A": "Jamaica",
+      "B": "República Dominicana",
+      "C": "Cuba",
+      "D": "Porto Rico"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual é o nome do processo geológico de formação de montanhas?",
+    "opcoes": {
+      "A": "Erosão",
+      "B": "Vulcanismo",
+      "C": "Orogênese",
+      "D": "Sedimentação"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual é o maior rio da Europa em extensão?",
+    "opcoes": {
+      "A": "Danúbio",
+      "B": "Reno",
+      "C": "Volga",
+      "D": "Sena"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual país é a principal origem da seda no mundo?",
+    "opcoes": {
+      "A": "Índia",
+      "B": "Japão",
+      "C": "China",
+      "D": "Vietnã"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual é o nome do estreito que separa a Ásia da América do Norte?",
+    "opcoes": {
+      "A": "Estreito de Gibraltar",
+      "B": "Estreito de Magalhães",
+      "C": "Estreito de Bering",
+      "D": "Estreito de Malaca"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual é o maior deserto de sal do mundo, localizado na Bolívia?",
+    "opcoes": {
+      "A": "Atacama",
+      "B": "Saara",
+      "C": "Salar de Uyuni",
+      "D": "Gobi"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual é o nome da corrente oceânica quente que influencia o clima do Reino Unido?",
+    "opcoes": {
+      "A": "Corrente de Humboldt",
+      "B": "Corrente do Brasil",
+      "C": "Corrente do Golfo",
+      "D": "Corrente das Canárias"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual é o país mais populoso da África?",
+    "opcoes": {
+      "A": "Egito",
+      "B": "África do Sul",
+      "C": "Nigéria",
+      "D": "Etiópia"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual é a capital da Austrália?",
+    "opcoes": {
+      "A": "Sydney",
+      "B": "Melbourne",
+      "C": "Canberra",
+      "D": "Perth"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual é o nome do fenômeno que causa o derretimento das geleiras?",
+    "opcoes": {
+      "A": "El Niño",
+      "B": "Efeito Estufa",
+      "C": "Aquecimento Global",
+      "D": "La Niña"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual é o principal rio da China?",
+    "opcoes": {
+      "A": "Rio Amarelo",
+      "B": "Rio Yangtzé",
+      "C": "Rio Mekong",
+      "D": "Rio Indo"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual país tem a maior área de floresta tropical do mundo?",
+    "opcoes": {
+      "A": "Indonésia",
+      "B": "Brasil",
+      "C": "República Democrática do Congo",
+      "D": "Peru"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual é o ponto mais baixo da superfície terrestre em terra firme?",
+    "opcoes": {
+      "A": "Vale da Morte, EUA",
+      "B": "Mar Morto, Israel/Jordânia",
+      "C": "Depressão de Afar, Etiópia",
+      "D": "Fossa das Marianas"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual país da América Central é cortado pelo Canal do Panamá?",
+    "opcoes": {
+      "A": "Costa Rica",
+      "B": "Nicarágua",
+      "C": "Panamá",
+      "D": "Honduras"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual é o nome do deserto que cobre a maior parte da Austrália?",
+    "opcoes": {
+      "A": "Saara",
+      "B": "Atacama",
+      "C": "Deserto de Gibson",
+      "D": "Gobi"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual é a capital da Tailândia?",
+    "opcoes": {
+      "A": "Hanói",
+      "B": "Jacarta",
+      "C": "Bangkok",
+      "D": "Kuala Lumpur"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual é a maior bacia hidrográfica do mundo?",
+    "opcoes": {
+      "A": "Bacia do Congo",
+      "B": "Bacia do Rio Nilo",
+      "C": "Bacia Amazônica",
+      "D": "Bacia do Mississipi"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual é o nome da falha geológica que atravessa a Califórnia, causando terremotos?",
+    "opcoes": {
+      "A": "Falha de San Andreas",
+      "B": "Falha de Anatolia Oriental",
+      "C": "Falha de Alpide",
+      "D": "Falha de Tonga"
+    },
+    "resposta_correta": "A"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual é o país que tem a maior reserva de água doce do mundo?",
+    "opcoes": {
+      "A": "Canadá",
+      "B": "Brasil",
+      "C": "Rússia",
+      "D": "China"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual é a capital da Coreia do Sul?",
+    "opcoes": {
+      "A": "Pyongyang",
+      "B": "Busan",
+      "C": "Seul",
+      "D": "Incheon"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual é o nome do processo de transformação de desertos em áreas férteis?",
+    "opcoes": {
+      "A": "Desertificação",
+      "B": "Erosão",
+      "C": "Irrigação",
+      "D": "Reflorestamento"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual é a cidade que abriga o famoso Taj Mahal?",
+    "opcoes": {
+      "A": "Nova Deli",
+      "B": "Mumbai",
+      "C": "Agra",
+      "D": "Jaipur"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual é o país que tem a maior diversidade de répteis e anfíbios do mundo?",
+    "opcoes": {
+      "A": "Austrália",
+      "B": "Brasil",
+      "C": "Indonésia",
+      "D": "Madagascar"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual é o fenômeno que causa o movimento das placas tectônicas?",
+    "opcoes": {
+      "A": "Correntes de convecção no manto",
+      "B": "Ventos fortes",
+      "C": "Marés oceânicas",
+      "D": "Efeito Coriolis"
+    },
+    "resposta_correta": "A"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual é o nome do maior vulcão ativo do mundo em área e volume, localizado no Havaí?",
+    "opcoes": {
+      "A": "Monte Fuji",
+      "B": "Vesúvio",
+      "C": "Mauna Loa",
+      "D": "Etna"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual é o nome do bioma brasileiro que se caracteriza por uma vegetação adaptada à seca?",
+    "opcoes": {
+      "A": "Mata Atlântica",
+      "B": "Cerrado",
+      "C": "Caatinga",
+      "D": "Pantanal"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual é a capital do Egito?",
+    "opcoes": {
+      "A": "Alexandria",
+      "B": "Cairo",
+      "C": "Luxor",
+      "D": "Gizé"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual é o nome do desfiladeiro mais famoso dos Estados Unidos, no Arizona?",
+    "opcoes": {
+      "A": "Grand Canyon",
+      "B": "Canyonlands",
+      "C": "Zion Canyon",
+      "D": "Antelope Canyon"
+    },
+    "resposta_correta": "A"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual é o país que é um 'país transcontinental', localizado na Europa e na Ásia?",
+    "opcoes": {
+      "A": "Grécia",
+      "B": "Itália",
+      "C": "Turquia",
+      "D": "Egito"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual é o maior lago de água doce do mundo em volume?",
+    "opcoes": {
+      "A": "Lago Superior",
+      "B": "Lago Vitória",
+      "C": "Lago Baikal",
+      "D": "Lago Tanganyika"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual é a capital da Venezuela?",
+    "opcoes": {
+      "A": "Lima",
+      "B": "Bogotá",
+      "C": "Caracas",
+      "D": "Quito"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual é o nome do mar que está encolhendo drasticamente devido à irrigação?",
+    "opcoes": {
+      "A": "Mar Cáspio",
+      "B": "Mar Negro",
+      "C": "Mar de Aral",
+      "D": "Mar Mediterrâneo"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual é a ilha mais populosa do mundo?",
+    "opcoes": {
+      "A": "Groenlândia",
+      "B": "Bornéu",
+      "C": "Java",
+      "D": "Sumatra"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual é a capital do Vietnã?",
+    "opcoes": {
+      "A": "Cidade de Ho Chi Minh",
+      "B": "Hanói",
+      "C": "Da Nang",
+      "D": "Hue"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual é o nome do fenômeno que causa as quatro estações do ano?",
+    "opcoes": {
+      "A": "Rotação da Terra",
+      "B": "Revolução da Terra em torno do Sol com inclinação axial",
+      "C": "Movimento da Lua",
+      "D": "Variação da distância entre Terra e Sol"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual é o principal produto agrícola de exportação do Brasil?",
+    "opcoes": {
+      "A": "Milho",
+      "B": "Café",
+      "C": "Soja",
+      "D": "Laranja"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual é o nome da capital do Iraque?",
+    "opcoes": {
+      "A": "Teerã",
+      "B": "Damasco",
+      "C": "Bagdá",
+      "D": "Riad"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual é o maior fiorde da Noruega?",
+    "opcoes": {
+      "A": "Sognefjord",
+      "B": "Geirangerfjord",
+      "C": "Lysefjord",
+      "D": "Hardangerfjord"
+    },
+    "resposta_correta": "A"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual país da América do Sul é cortado pela Cordilheira dos Andes e pela Linha do Equador?",
+    "opcoes": {
+      "A": "Colômbia",
+      "B": "Peru",
+      "C": "Equador",
+      "D": "Chile"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual é o nome da maior planície alagável do mundo, localizada no Brasil?",
+    "opcoes": {
+      "A": "Amazônia",
+      "B": "Pantanal",
+      "C": "Campos Sulinos",
+      "D": "Região do Araguaia"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual é o nome do famoso vulcão ativo no Japão, frequentemente coberto de neve?",
+    "opcoes": {
+      "A": "Monte Aso",
+      "B": "Monte Fuji",
+      "C": "Sakurajima",
+      "D": "Monte Ontake"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual é a capital da Suécia?",
+    "opcoes": {
+      "A": "Oslo",
+      "B": "Copenhague",
+      "C": "Estocolmo",
+      "D": "Helsinque"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual é o país que tem a maior população do mundo, excluindo a China e a Índia?",
+    "opcoes": {
+      "A": "Estados Unidos",
+      "B": "Indonésia",
+      "C": "Paquistão",
+      "D": "Nigéria"
+    },
+    "resposta_correta": "A"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual é o nome do fenômeno de movimento das rochas e solos ladeira abaixo?",
+    "opcoes": {
+      "A": "Erosão eólica",
+      "B": "Movimento de massa (Deslizamento)",
+      "C": "Assoreamento",
+      "D": "Intemperismo"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual é o nome da área de transição entre o Deserto do Saara e a savana, que sofre com a desertificação?",
+    "opcoes": {
+      "A": "Norte da África",
+      "B": "Sahel",
+      "C": "Corno da África",
+      "D": "Magreb"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual é o maior lago de água salgada do mundo?",
+    "opcoes": {
+      "A": "Mar Morto",
+      "B": "Lago Salgado Grande",
+      "C": "Mar Cáspio",
+      "D": "Lago Aral"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual é a capital da Nova Zelândia?",
+    "opcoes": {
+      "A": "Auckland",
+      "B": "Christchurch",
+      "C": "Wellington",
+      "D": "Queenstown"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual é o país que faz fronteira com os EUA ao norte e é conhecido por suas geleiras e florestas boreais?",
+    "opcoes": {
+      "A": "Alasca",
+      "B": "México",
+      "C": "Canadá",
+      "D": "Rússia"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual é o nome da grande planície que se estende por grande parte da Europa Oriental e Rússia?",
+    "opcoes": {
+      "A": "Planície do Rio Po",
+      "B": "Planície Germano-Polonesa",
+      "C": "Planície Siberiana Ocidental",
+      "D": "Planície Europeia Oriental"
+    },
+    "resposta_correta": "D"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual é o país do Oriente Médio que é uma península e grande produtor de petróleo?",
+    "opcoes": {
+      "A": "Iraque",
+      "B": "Irã",
+      "C": "Arábia Saudita",
+      "D": "Kuwait"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual é o processo de desagregação das rochas na superfície terrestre?",
+    "opcoes": {
+      "A": "Erosão",
+      "B": "Sedimentação",
+      "C": "Intemperismo",
+      "D": "Vulcanismo"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual é a capital da África do Sul que é sede do poder legislativo?",
+    "opcoes": {
+      "A": "Pretória",
+      "B": "Cidade do Cabo",
+      "C": "Bloemfontein",
+      "D": "Joanesburgo"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual é o nome da camada de ozônio, importante para a proteção contra raios UV?",
+    "opcoes": {
+      "A": "Troposfera",
+      "B": "Estratosfera",
+      "C": "Mesosfera",
+      "D": "Termosfera"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual é o país da América do Sul que não faz fronteira com o Brasil?",
+    "opcoes": {
+      "A": "Uruguai",
+      "B": "Bolívia",
+      "C": "Chile",
+      "D": "Paraguai"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual é o maior rio da Alemanha?",
+    "opcoes": {
+      "A": "Danúbio",
+      "B": "Reno",
+      "C": "Elba",
+      "D": "Oder"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual é a capital da Nigéria, o país mais populoso da África?",
+    "opcoes": {
+      "A": "Lagos",
+      "B": "Abuja",
+      "C": "Kano",
+      "D": "Ibadan"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual é o nome do deserto que se estende por Botswana, Namíbia e África do Sul?",
+    "opcoes": {
+      "A": "Saara",
+      "B": "Kalahari",
+      "C": "Namibe",
+      "D": "Atacama"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual é a montanha mais alta da Europa?",
+    "opcoes": {
+      "A": "Monte Branco",
+      "B": "Monte Elbrus",
+      "C": "Monte Fuji",
+      "D": "Matterhorn"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual é o termo para a área onde um rio deságua no oceano, mar ou lago?",
+    "opcoes": {
+      "A": "Nascente",
+      "B": "Afluente",
+      "C": "Foz",
+      "D": "Meandro"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual é a capital do Peru?",
+    "opcoes": {
+      "A": "Santiago",
+      "B": "Bogotá",
+      "C": "Lima",
+      "D": "Quito"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual é o nome do famoso vulcão que é um símbolo do Japão?",
+    "opcoes": {
+      "A": "Monte Aso",
+      "B": "Monte Vesúvio",
+      "C": "Monte Fuji",
+      "D": "Krakatoa"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual é a maior cidade do mundo em população?",
+    "opcoes": {
+      "A": "Xangai",
+      "B": "Nova Delhi",
+      "C": "Tóquio",
+      "D": "Jacarta"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual país é o maior produtor de alumínio do mundo?",
+    "opcoes": {
+      "A": "Rússia",
+      "B": "Austrália",
+      "C": "China",
+      "D": "Canadá"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual é o nome da depressão geográfica mais baixa da África, na Etiópia?",
+    "opcoes": {
+      "A": "Depressão de Qattara",
+      "B": "Depressão do Danakil",
+      "C": "Vale do Rift",
+      "D": "Lago Assal"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual é o nome do fenômeno que causa o deslocamento de sedimentos por ventos?",
+    "opcoes": {
+      "A": "Erosão pluvial",
+      "B": "Erosão glacial",
+      "C": "Erosão eólica",
+      "D": "Erosão fluvial"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual é o país que se localiza na Península Ibérica, além de Portugal?",
+    "opcoes": {
+      "A": "França",
+      "B": "Itália",
+      "C": "Espanha",
+      "D": "Marrocos"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual é o maior rio da Oceania?",
+    "opcoes": {
+      "A": "Rio Murray",
+      "B": "Rio Darling",
+      "C": "Rio Waikato",
+      "D": "Rio Sepik"
+    },
+    "resposta_correta": "A"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual é o nome do ponto de encontro das placas tectônicas do Pacífico, América do Norte e Juan de Fuca?",
+    "opcoes": {
+      "A": "Anel de Fogo do Pacífico",
+      "B": "Cinturão Alpino",
+      "C": "Dorsal Mesoatlântica",
+      "D": "Fossa das Marianas"
+    },
+    "resposta_correta": "A"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual é o nome do deserto que fica ao norte da China e sul da Mongólia?",
+    "opcoes": {
+      "A": "Saara",
+      "B": "Atacama",
+      "C": "Gobi",
+      "D": "Kalahari"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual é a capital da Ucrânia?",
+    "opcoes": {
+      "A": "Minsk",
+      "B": "Varsóvia",
+      "C": "Kiev",
+      "D": "Bucareste"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual é o nome da floresta temperada caracterizada pela perda de folhas no outono?",
+    "opcoes": {
+      "A": "Floresta Boreal",
+      "B": "Floresta Tropical",
+      "C": "Floresta Decídua Temperada",
+      "D": "Floresta Mediterrânea"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual é o principal fator que influencia o clima de uma região?",
+    "opcoes": {
+      "A": "Relevo",
+      "B": "Vegetação",
+      "C": "Latitude",
+      "D": "Proximidade de rios"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual é o nome do arquipélago no Pacífico que é um território dos EUA e famoso por Pearl Harbor?",
+    "opcoes": {
+      "A": "Fiji",
+      "B": "Samoa",
+      "C": "Havaí",
+      "D": "Maldivas"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual é a capital do Irã?",
+    "opcoes": {
+      "A": "Bagdá",
+      "B": "Riad",
+      "C": "Teerã",
+      "D": "Damasco"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual é o maior produtor mundial de cobre?",
+    "opcoes": {
+      "A": "Estados Unidos",
+      "B": "Austrália",
+      "C": "Chile",
+      "D": "China"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual é o nome do processo de formação de ilhas vulcânicas em cadeia?",
+    "opcoes": {
+      "A": "Subducção",
+      "B": "Hotspot",
+      "C": "Divergência",
+      "D": "Convergência"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual é a capital da Colômbia?",
+    "opcoes": {
+      "A": "Lima",
+      "B": "Quito",
+      "C": "Bogotá",
+      "D": "Caracas"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual é o principal gás responsável pelo efeito estufa na atmosfera terrestre?",
+    "opcoes": {
+      "A": "Oxigênio",
+      "B": "Nitrogênio",
+      "C": "Dióxido de Carbono",
+      "D": "Metano"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual é o país que é um famoso arquipélago, conhecido como 'Terra dos Mil Lagos'?",
+    "opcoes": {
+      "A": "Noruega",
+      "B": "Suécia",
+      "C": "Finlândia",
+      "D": "Canadá"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual é a maior geleira fora das regiões polares?",
+    "opcoes": {
+      "A": "Geleira Perito Moreno",
+      "B": "Geleira Vatnajökull",
+      "C": "Geleira de Siachen",
+      "D": "Geleira Hubbard"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual é o nome do rio que corre através de Londres?",
+    "opcoes": {
+      "A": "Rio Sena",
+      "B": "Rio Tâmisa",
+      "C": "Rio Reno",
+      "D": "Rio Danúbio"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual é a capital do México?",
+    "opcoes": {
+      "A": "Guadalajara",
+      "B": "Monterrey",
+      "C": "Cidade do México",
+      "D": "Cancun"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual é o nome do bioma característico do sul do Brasil, com campos e araucárias?",
+    "opcoes": {
+      "A": "Cerrado",
+      "B": "Mata Atlântica",
+      "C": "Pampas (Campos Sulinos)",
+      "D": "Pantanal"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual é a maior barreira de coral do mundo?",
+    "opcoes": {
+      "A": "Recife de Belize",
+      "B": "Grande Barreira de Coral",
+      "C": "Recifes do Mar Vermelho",
+      "D": "Recifes da Indonésia"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual é o nome do vento frio e seco que sopra nos Pampas da América do Sul?",
+    "opcoes": {
+      "A": "Mistral",
+      "B": "Tramontana",
+      "C": "Pampeiro",
+      "D": "Siroco"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual é a capital da Etiópia?",
+    "opcoes": {
+      "A": "Nairóbi",
+      "B": "Cartum",
+      "C": "Adis Abeba",
+      "D": "Mogadíscio"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual é a principal causa da desertificação?",
+    "opcoes": {
+      "A": "Chuvas intensas",
+      "B": "Atividade vulcânica",
+      "C": "Ações humanas (desmatamento, uso indevido do solo)",
+      "D": "Terremotos"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual é o nome do vale na Califórnia famoso pela indústria de tecnologia?",
+    "opcoes": {
+      "A": "Death Valley",
+      "B": "Napa Valley",
+      "C": "Silicon Valley",
+      "D": "San Fernando Valley"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual país é o maior produtor de gás natural do mundo?",
+    "opcoes": {
+      "A": "Estados Unidos",
+      "B": "Rússia",
+      "C": "Canadá",
+      "D": "China"
+    },
+    "resposta_correta": "A"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual é o nome da área costeira no Brasil conhecida por seus manguezais e caranguejos?",
+    "opcoes": {
+      "A": "Restinga",
+      "B": "Dunas",
+      "C": "Manguezal",
+      "D": "Recife"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual é a capital do Egito?",
+    "opcoes": {
+      "A": "Alexandria",
+      "B": "Cairo",
+      "C": "Luxor",
+      "D": "Gizé"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual é o nome da principal camada da atmosfera onde ocorrem os fenômenos climáticos?",
+    "opcoes": {
+      "A": "Estratosfera",
+      "B": "Mesosfera",
+      "C": "Troposfera",
+      "D": "Termosfera"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual é o rio que forma uma das maiores fronteiras naturais entre a Europa e a Ásia na Rússia?",
+    "opcoes": {
+      "A": "Rio Danúbio",
+      "B": "Rio Volga",
+      "C": "Montes Urais",
+      "D": "Rio Don"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual é o país da América do Sul com maior área costeira no Oceano Pacífico?",
+    "opcoes": {
+      "A": "Peru",
+      "B": "Chile",
+      "C": "Equador",
+      "D": "Colômbia"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual é o nome do fenômeno que causa as marés?",
+    "opcoes": {
+      "A": "Vento",
+      "B": "Rotação da Terra",
+      "C": "Atração gravitacional da Lua e do Sol",
+      "D": "Correntes oceânicas"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual é o deserto que ocupa a maior parte do território da Austrália?",
+    "opcoes": {
+      "A": "Deserto do Saara",
+      "B": "Deserto de Gobi",
+      "C": "Deserto de Vitória",
+      "D": "Deserto do Kalahari"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual é a capital da Grécia?",
+    "opcoes": {
+      "A": "Roma",
+      "B": "Istambul",
+      "C": "Atenas",
+      "D": "Esparta"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual é o nome do processo de remoção da cobertura vegetal original de uma área?",
+    "opcoes": {
+      "A": "Reflorestamento",
+      "B": "Urbanização",
+      "C": "Desmatamento",
+      "D": "Intemperismo"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual é o tipo de relevo que se caracteriza por superfícies planas e elevadas?",
+    "opcoes": {
+      "A": "Montanhas",
+      "B": "Vales",
+      "C": "Planaltos",
+      "D": "Planícies"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual é o maior porto da América Latina em movimentação de contêineres?",
+    "opcoes": {
+      "A": "Porto de Santos, Brasil",
+      "B": "Porto de Manzanillo, México",
+      "C": "Porto de Colón, Panamá",
+      "D": "Porto de Cartagena, Colômbia"
+    },
+    "resposta_correta": "A"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual é o país que é uma península no sudeste da Ásia, conhecido por suas especiarias?",
+    "opcoes": {
+      "A": "Vietnã",
+      "B": "Tailândia",
+      "C": "Malásia",
+      "D": "Indonésia"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual é a montanha mais alta da Austrália?",
+    "opcoes": {
+      "A": "Uluru (Ayers Rock)",
+      "B": "Mount Kosciuszko",
+      "C": "Mount Cook",
+      "D": "Mount Everest"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual é o nome da região no Brasil que é uma savana semiárida?",
+    "opcoes": {
+      "A": "Cerrado",
+      "B": "Caatinga",
+      "C": "Pantanal",
+      "D": "Amazônia"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual é a capital da Noruega?",
+    "opcoes": {
+      "A": "Estocolmo",
+      "B": "Copenhague",
+      "C": "Oslo",
+      "D": "Helsinque"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual é o termo para o estudo da interação entre seres vivos e o ambiente?",
+    "opcoes": {
+      "A": "Geologia",
+      "B": "Climatologia",
+      "C": "Ecologia",
+      "D": "Cartografia"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual é o país que é um famoso arquipélago no Sudeste Asiático, com mais de 7.000 ilhas?",
+    "opcoes": {
+      "A": "Indonésia",
+      "B": "Malásia",
+      "C": "Filipinas",
+      "D": "Japão"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual é o nome da zona de transição entre o Deserto do Saara e a savana, que sofre com a desertificação?",
+    "opcoes": {
+      "A": "Vale do Nilo",
+      "B": "Corno de África",
+      "C": "Sahel",
+      "D": "Magreb"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual é a principal causa da perda de biodiversidade no mundo?",
+    "opcoes": {
+      "A": "Desastres naturais",
+      "B": "Caça e pesca excessivas",
+      "C": "Destruição de habitats",
+      "D": "Poluição do ar"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual é o país que se estende por dois continentes e é famoso pela Capadócia?",
+    "opcoes": {
+      "A": "Grécia",
+      "B": "Rússia",
+      "C": "Turquia",
+      "D": "Egito"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual é o maior rio da Argentina?",
+    "opcoes": {
+      "A": "Rio Paraná",
+      "B": "Rio da Prata",
+      "C": "Rio Negro",
+      "D": "Rio Salado"
+    },
+    "resposta_correta": "A"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual é o nome do planalto que se estende pelo Centro-Oeste do Brasil e abriga a capital?",
+    "opcoes": {
+      "A": "Planalto da Borborema",
+      "B": "Planalto das Guianas",
+      "C": "Planalto Central do Brasil",
+      "D": "Planalto Meridional"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual é o nome do famoso delta onde o Rio Nilo deságua no Mar Mediterrâneo?",
+    "opcoes": {
+      "A": "Delta do Mekong",
+      "B": "Delta do Nilo",
+      "C": "Delta do Ganges",
+      "D": "Delta do Indo"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual é o tipo de vegetação predominante nas regiões polares?",
+    "opcoes": {
+      "A": "Floresta Boreal",
+      "B": "Tundra",
+      "C": "Taiga",
+      "D": "Savana"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual é o fenômeno natural que ocorre quando a água do mar recua subitamente e depois avança com grande força?",
+    "opcoes": {
+      "A": "Tufão",
+      "B": "Terremoto",
+      "C": "Tsunami",
+      "D": "Ciclone"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual é o país da África que possui as maiores reservas de diamante do mundo?",
+    "opcoes": {
+      "A": "África do Sul",
+      "B": "Botswana",
+      "C": "República Democrática do Congo",
+      "D": "Angola"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual é a capital da Irlanda?",
+    "opcoes": {
+      "A": "Belfast",
+      "B": "Edimburgo",
+      "C": "Dublin",
+      "D": "Cardiff"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual é o nome da área de colisão entre a placa Indiana e a placa Euroasiática, que forma os Himalaias?",
+    "opcoes": {
+      "A": "Divergência",
+      "B": "Transformante",
+      "C": "Convergência",
+      "D": "Subducção"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual é o maior produtor mundial de café, além do Brasil?",
+    "opcoes": {
+      "A": "Colômbia",
+      "B": "Vietnã",
+      "C": "Indonésia",
+      "D": "Etiópia"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual é o nome do bioma brasileiro caracterizado por uma floresta tropical costeira, muito desmatada?",
+    "opcoes": {
+      "A": "Amazônia",
+      "B": "Mata Atlântica",
+      "C": "Cerrado",
+      "D": "Pantanal"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual é o nome da camada mais interna da Terra?",
+    "opcoes": {
+      "A": "Crosta",
+      "B": "Manto",
+      "C": "Núcleo externo",
+      "D": "Núcleo interno"
+    },
+    "resposta_correta": "D"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual é o país da América do Sul que é o maior produtor de estanho?",
+    "opcoes": {
+      "A": "Brasil",
+      "B": "Argentina",
+      "C": "Bolívia",
+      "D": "Peru"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual é o nome da famosa península que abrange Espanha e Portugal?",
+    "opcoes": {
+      "A": "Península Balcânica",
+      "B": "Península Itálica",
+      "C": "Península Ibérica",
+      "D": "Península Escandinava"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual é o país conhecido como a 'Terra dos Faraós'?",
+    "opcoes": {
+      "A": "Grécia",
+      "B": "Egito",
+      "C": "Israel",
+      "D": "Jordânia"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual é o nome do maior recife de coral do mundo?",
+    "opcoes": {
+      "A": "Recife de Belize",
+      "B": "Grande Barreira de Coral",
+      "C": "Recifes do Mar Vermelho",
+      "D": "Recifes da Indonésia"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual é o nome da corrente marítima fria que influencia o clima da costa oeste da América do Norte?",
+    "opcoes": {
+      "A": "Corrente do Golfo",
+      "B": "Corrente da Califórnia",
+      "C": "Corrente do Labrador",
+      "D": "Corrente do Brasil"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual é a principal causa do desmatamento da Amazônia brasileira?",
+    "opcoes": {
+      "A": "Extração de madeira",
+      "B": "Mineração",
+      "C": "Pecuária e expansão agrícola",
+      "D": "Incêndios naturais"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual é o nome do deserto que ocupa a maior parte do território da Patagônia na Argentina?",
+    "opcoes": {
+      "A": "Atacama",
+      "B": "Patagônico",
+      "C": "Monte",
+      "D": "Puna"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual é a capital da Finlândia?",
+    "opcoes": {
+      "A": "Estocolmo",
+      "B": "Oslo",
+      "C": "Copenhague",
+      "D": "Helsinque"
+    },
+    "resposta_correta": "D"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual é o nome do fenômeno climático que ocorre em áreas urbanas, tornando-as mais quentes que as áreas rurais?",
+    "opcoes": {
+      "A": "Inversão térmica",
+      "B": "Chuva ácida",
+      "C": "Ilha de calor",
+      "D": "Névoa fotoquímica"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual é o país que é o maior produtor de ouro do mundo?",
+    "opcoes": {
+      "A": "África do Sul",
+      "B": "Austrália",
+      "C": "China",
+      "D": "Estados Unidos"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual é a principal causa da salinização dos solos em regiões áridas e semiáridas?",
+    "opcoes": {
+      "A": "Chuvas intensas",
+      "B": "Irrigação inadequada",
+      "C": "Erosão eólica",
+      "D": "Atividade vulcânica"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual é o nome do principal rio que atravessa o Vietnã, Laos, Camboja e Tailândia?",
+    "opcoes": {
+      "A": "Rio Yangtzé",
+      "B": "Rio Mekong",
+      "C": "Rio Chao Phraya",
+      "D": "Rio Irrawaddy"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual é o maior país sem litoral do mundo?",
+    "opcoes": {
+      "A": "Mongólia",
+      "B": "Cazaquistão",
+      "C": "Bolívia",
+      "D": "Etiópia"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual é o nome do arquipélago no Oceano Atlântico, que é um território português e famoso por sua flora?",
+    "opcoes": {
+      "A": "Açores",
+      "B": "Canárias",
+      "C": "Madeira",
+      "D": "Cabo Verde"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual é o tipo de rocha que se forma a partir do resfriamento do magma?",
+    "opcoes": {
+      "A": "Rocha sedimentar",
+      "B": "Rocha metamórfica",
+      "C": "Rocha ígnea",
+      "D": "Rocha calcária"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual é a capital da Romênia?",
+    "opcoes": {
+      "A": "Budapeste",
+      "B": "Belgrado",
+      "C": "Bucareste",
+      "D": "Sofia"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual é o nome da corrente marítima quente que banha a costa do Brasil?",
+    "opcoes": {
+      "A": "Corrente de Humboldt",
+      "B": "Corrente do Brasil",
+      "C": "Corrente das Falklands",
+      "D": "Corrente do Golfo"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual é o nome do processo de transformação de água líquida em vapor de água?",
+    "opcoes": {
+      "A": "Condensação",
+      "B": "Precipitação",
+      "C": "Evaporação",
+      "D": "Sublimação"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual é o país da África que possui a maior parte do Deserto do Saara?",
+    "opcoes": {
+      "A": "Egito",
+      "B": "Argélia",
+      "C": "Sudão",
+      "D": "Líbia"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual é a capital da Eslováquia?",
+    "opcoes": {
+      "A": "Praga",
+      "B": "Budapeste",
+      "C": "Viena",
+      "D": "Bratislava"
+    },
+    "resposta_correta": "D"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual é o nome da principal fonte de energia renovável no Brasil?",
+    "opcoes": {
+      "A": "Solar",
+      "B": "Eólica",
+      "C": "Hidrelétrica",
+      "D": "Biomassa"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual é o maior bioma do Brasil em extensão territorial?",
+    "opcoes": {
+      "A": "Cerrado",
+      "B": "Mata Atlântica",
+      "C": "Amazônia",
+      "D": "Caatinga"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual é o nome da linha imaginária que passa pelo Meridiano de Greenwich e é utilizada para definir a hora mundial?",
+    "opcoes": {
+      "A": "Linha do Equador",
+      "B": "Linha Internacional da Data",
+      "C": "Meridiano Principal",
+      "D": "Trópico de Câncer"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual é o país da América do Sul que possui a maior reserva de gás natural?",
+    "opcoes": {
+      "A": "Brasil",
+      "B": "Argentina",
+      "C": "Venezuela",
+      "D": "Bolívia"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual é o nome do fenômeno climático que causa as chuvas de monções na Ásia?",
+    "opcoes": {
+      "A": "El Niño",
+      "B": "La Niña",
+      "C": "Ventos Alísios",
+      "D": "Ventos de Monções"
+    },
+    "resposta_correta": "D"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual linha imaginária divide a Terra em hemisfério norte e sul?",
+    "opcoes": {
+      "A": "Trópico de Câncer",
+      "B": "Trópico de Capricórnio",
+      "C": "Meridiano de Greenwich",
+      "D": "Linha do Equador"
+    },
+    "resposta_correta": "D"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual é o principal bioma da região Norte do Brasil?",
+    "opcoes": {
+      "A": "Pantanal",
+      "B": "Mata Atlântica",
+      "C": "Cerrado",
+      "D": "Floresta Amazônica"
+    },
+    "resposta_correta": "D"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual é a capital da Argentina?",
+    "opcoes": {
+      "A": "Buenos Aires",
+      "B": "Córdoba",
+      "C": "Mendoza",
+      "D": "Rosário"
+    },
+    "resposta_correta": "A"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual país faz fronteira com o Brasil ao sul?",
+    "opcoes": {
+      "A": "Equador",
+      "B": "Paraguai",
+      "C": "Guiana",
+      "D": "Colômbia"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual é o nome do relevo submarino mais profundo da Terra?",
+    "opcoes": {
+      "A": "Fossa do Atlântico",
+      "B": "Fossa de Java",
+      "C": "Fossa das Marianas",
+      "D": "Fossa do Pacífico"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "O que são placas tectônicas?",
+    "opcoes": {
+      "A": "Partes do solo fértil",
+      "B": "Camadas de gelo",
+      "C": "Fragmentos da litosfera que se movem",
+      "D": "Formações de nuvens"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual é a capital do estado de Pernambuco?",
+    "opcoes": {
+      "A": "Natal",
+      "B": "Salvador",
+      "C": "João Pessoa",
+      "D": "Recife"
+    },
+    "resposta_correta": "D"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual é a principal fonte de energia no Brasil?",
+    "opcoes": {
+      "A": "Carvão",
+      "B": "Gás natural",
+      "C": "Energia hidráulica",
+      "D": "Petróleo"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Quantos países fazem fronteira com o Brasil?",
+    "opcoes": {
+      "A": "7",
+      "B": "9",
+      "C": "10",
+      "D": "11"
+    },
+    "resposta_correta": "D"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual país europeu tem o maior número de vulcões ativos?",
+    "opcoes": {
+      "A": "Itália",
+      "B": "França",
+      "C": "Alemanha",
+      "D": "Grécia"
+    },
+    "resposta_correta": "A"
+  },
+
+  {
+    "nivel": "dificil",
+    "pergunta": "Qual o nome da corrente marítima quente que influencia o clima do litoral nordestino brasileiro?",
+    "opcoes": {
+      "A": "Corrente de Benguela",
+      "B": "Corrente do Golfo",
+      "C": "Corrente do Brasil",
+      "D": "Corrente de Humboldt"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "dificil",
+    "pergunta": "Qual é a capital da Papua-Nova Guiné?",
+    "opcoes": {
+      "A": "Port Vila",
+      "B": "Port Moresby",
+      "C": "Dili",
+      "D": "Suva"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "nivel": "dificil",
+    "pergunta": "Qual país possui a maior quantidade de lagos naturais?",
+    "opcoes": {
+      "A": "Canadá",
+      "B": "Rússia",
+      "C": "Brasil",
+      "D": "Índia"
+    },
+    "resposta_correta": "A"
+  },
+  {
+    "nivel": "dificil",
+    "pergunta": "Qual país é cortado pelo maior número de linhas imaginárias?",
+    "opcoes": {
+      "A": "China",
+      "B": "Brasil",
+      "C": "Indonésia",
+      "D": "Índia"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "nivel": "dificil",
+    "pergunta": "Qual o nome da depressão mais profunda em terra firme?",
+    "opcoes": {
+      "A": "Vale do Rift",
+      "B": "Mar Morto",
+      "C": "Grand Canyon",
+      "D": "Bacia do Congo"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "nivel": "dificil",
+    "pergunta": "Qual o nome do ponto mais alto do continente africano?",
+    "opcoes": {
+      "A": "Monte Atlas",
+      "B": "Monte Quênia",
+      "C": "Kilimanjaro",
+      "D": "Monte Simien"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "dificil",
+    "pergunta": "Em qual país está localizado o deserto do Kalahari?",
+    "opcoes": {
+      "A": "Namíbia",
+      "B": "África do Sul",
+      "C": "Botswana",
+      "D": "Zimbábue"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "dificil",
+    "pergunta": "Qual é o rio mais poluído do mundo?",
+    "opcoes": {
+      "A": "Ganges",
+      "B": "Tâmisa",
+      "C": "Danúbio",
+      "D": "Yangtzé"
+    },
+    "resposta_correta": "A"
+  },
+  {
+    "nivel": "dificil",
+    "pergunta": "Qual o nome do arquipélago mais isolado do mundo?",
+    "opcoes": {
+      "A": "Galápagos",
+      "B": "Fiji",
+      "C": "Havaí",
+      "D": "Tristão da Cunha"
+    },
+    "resposta_correta": "D"
+  },
+  {
+    "nivel": "dificil",
+    "pergunta": "Qual o ponto mais alto da América do Sul?",
+    "opcoes": {
+      "A": "Nevado Huascarán",
+      "B": "Monte Roraima",
+      "C": "Aconcágua",
+      "D": "Cordilheira Blanca"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "dificil",
+    "pergunta": "Qual país africano é o maior produtor mundial de cacau?",
+    "opcoes": {
+      "A": "Nigéria",
+      "B": "Gana",
+      "C": "Costa do Marfim",
+      "D": "Camarões"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "dificil",
+    "pergunta": "Qual é o nome da corrente marítima fria que causa o Deserto do Atacama, na América do Sul?",
+    "opcoes": {
+      "A": "Corrente do Brasil",
+      "B": "Corrente das Canárias",
+      "C": "Corrente de Humboldt (Corrente do Peru)",
+      "D": "Corrente de Benguela"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "dificil",
+    "pergunta": "Qual o nome da depressão geográfica mais baixa da África, com alta salinidade e vulcanismo?",
+    "opcoes": {
+      "A": "Depressão de Qattara",
+      "B": "Depressão do Danakil",
+      "C": "Vale do Rift",
+      "D": "Lago Assal"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "nivel": "dificil",
+    "pergunta": "Qual a capital do Butão, um país conhecido por seu conceito de Felicidade Interna Bruta?",
+    "opcoes": {
+      "A": "Katmandu",
+      "B": "Timphu",
+      "C": "Daca",
+      "D": "Thimphu"
+    },
+    "resposta_correta": "D"
+  },
+  {
+    "nivel": "dificil",
+    "pergunta": "Qual é o processo de formação de montanhas jovens e elevadas, como os Himalaias?",
+    "opcoes": {
+      "A": "Vulcanismo",
+      "B": "Erosão diferencial",
+      "C": "Orogênese (dobramentos modernos)",
+      "D": "Diastrofismo"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "dificil",
+    "pergunta": "Qual país é o maior produtor mundial de estanho?",
+    "opcoes": {
+      "A": "Brasil",
+      "B": "Indonésia",
+      "C": "China",
+      "D": "Bolívia"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "dificil",
+    "pergunta": "Qual o nome do famoso arquipélago no Oceano Pacífico que é um território dos EUA e palco de importantes batalhas navais na Segunda Guerra Mundial?",
+    "opcoes": {
+      "A": "Fiji",
+      "B": "Samoa",
+      "C": "Marianas (Guam, Saipan)",
+      "D": "Marshall"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "dificil",
+    "pergunta": "Qual o nome da área de transição entre o Deserto do Saara e as savanas, que sofre gravemente com a desertificação?",
+    "opcoes": {
+      "A": "Norte da África",
+      "B": "Magreb",
+      "C": "Sahel",
+      "D": "Corno de África"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "dificil",
+    "pergunta": "Qual é a capital da Mongólia, um dos países mais escassamente povoados do mundo?",
+    "opcoes": {
+      "A": "Pequim",
+      "B": "Ulan Bator",
+      "C": "Astana",
+      "D": "Tóquio"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "nivel": "dificil",
+    "pergunta": "Qual é o maior lago de água doce do mundo em volume de água?",
+    "opcoes": {
+      "A": "Lago Superior",
+      "B": "Lago Vitória",
+      "C": "Lago Baikal",
+      "D": "Lago Tanganyika"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "dificil",
+    "pergunta": "Qual o nome do processo de formação de cavernas e outras paisagens cársticas?",
+    "opcoes": {
+      "A": "Intemperismo físico",
+      "B": "Erosão glacial",
+      "C": "Dissolução de rochas solúveis (intemperismo químico)",
+      "D": "Assoreamento"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "dificil",
+    "pergunta": "Qual é o ponto mais alto da Europa, localizado na Rússia?",
+    "opcoes": {
+      "A": "Monte Branco",
+      "B": "Pico da Mulhacén",
+      "C": "Monte Elbrus",
+      "D": "Matterhorn"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "dificil",
+    "pergunta": "Qual é o país que possui a maior quantidade de ecossistemas diferentes em seu território, sendo megadiverso?",
+    "opcoes": {
+      "A": "China",
+      "B": "Austrália",
+      "C": "Brasil",
+      "D": "Estados Unidos"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "dificil",
+    "pergunta": "Qual o nome do fenômeno climático que causa períodos de seca e inundações extremas, relacionado ao resfriamento anômalo das águas do Pacífico?",
+    "opcoes": {
+      "A": "El Niño",
+      "B": "La Niña",
+      "C": "Monções",
+      "D": "Ciclone extratropical"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "nivel": "dificil",
+    "pergunta": "Qual a capital do Cazaquistão, o maior país sem litoral do mundo?",
+    "opcoes": {
+      "A": "Almaty",
+      "B": "Tashkent",
+      "C": "Astana (Nur-Sultan)",
+      "D": "Bishkek"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "dificil",
+    "pergunta": "Qual é o nome do bioma brasileiro que se caracteriza por árvores de folhas caducas e espinhos, adaptadas à seca prolongada?",
+    "opcoes": {
+      "A": "Cerrado",
+      "B": "Mata Atlântica",
+      "C": "Caatinga",
+      "D": "Pantanal"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "dificil",
+    "pergunta": "Qual é a cidade que abriga o famoso Portão de Brandemburgo e foi dividida por um muro durante a Guerra Fria?",
+    "opcoes": {
+      "A": "Viena",
+      "B": "Praga",
+      "C": "Berlim",
+      "D": "Budapeste"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "dificil",
+    "pergunta": "Qual é o nome do estreito que separa a Espanha do Marrocos, e o Oceano Atlântico do Mar Mediterrâneo?",
+    "opcoes": {
+      "A": "Estreito de Bering",
+      "B": "Estreito de Gibraltar",
+      "C": "Estreito de Malaca",
+      "D": "Estreito de Dardanelos"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "nivel": "dificil",
+    "pergunta": "Qual o maior produtor mundial de café Robusta, superando em volume alguns produtores tradicionais?",
+    "opcoes": {
+      "A": "Brasil",
+      "B": "Colômbia",
+      "C": "Vietnã",
+      "D": "Etiópia"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "dificil",
+    "pergunta": "Qual o nome do processo de ressecamento e rachaduras do solo devido à evaporação excessiva e alta concentração de sais?",
+    "opcoes": {
+      "A": "Lixiviação",
+      "B": "Laterização",
+      "C": "Salinização",
+      "D": "Erosão pluvial"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "dificil",
+    "pergunta": "Qual é o país que possui a maior parte do Deserto do Saara em seu território, estendendo-se do Atlântico ao Mar Vermelho?",
+    "opcoes": {
+      "A": "Egito",
+      "B": "Sudão",
+      "C": "Argélia",
+      "D": "Líbia"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "dificil",
+    "pergunta": "Qual o nome do planalto que ocupa grande parte da região central da Índia?",
+    "opcoes": {
+      "A": "Planalto do Tibete",
+      "B": "Planalto do Decã",
+      "C": "Planalto da Mongólia",
+      "D": "Planalto do Irã"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "nivel": "dificil",
+    "pergunta": "Qual o fenômeno geológico que causa o movimento de massas rochosas ao longo de falhas, liberando energia sísmica?",
+    "opcoes": {
+      "A": "Vulcanismo",
+      "B": "Tsunamis",
+      "C": "Terremotos",
+      "D": "Intemperismo"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "dificil",
+    "pergunta": "Qual é a capital da Eslovênia, conhecida por sua arquitetura barroca e art nouveau?",
+    "opcoes": {
+      "A": "Zagreb",
+      "B": "Belgrado",
+      "C": "Ljubljana",
+      "D": "Sarajevo"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "dificil",
+    "pergunta": "Qual o nome do maior vulcão ativo do mundo em área e volume, localizado no Havaí?",
+    "opcoes": {
+      "A": "Kilauea",
+      "B": "Monte Fuji",
+      "C": "Mauna Loa",
+      "D": "Etna"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "dificil",
+    "pergunta": "Qual é o principal fator que contribui para o derretimento das calotas polares?",
+    "opcoes": {
+      "A": "Variações naturais da órbita terrestre",
+      "B": "Atividade vulcânica subglacial",
+      "C": "Aquecimento global antropogênico",
+      "D": "Correntes oceânicas mais quentes"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "dificil",
+    "pergunta": "Qual é a capital da Nova Zelândia, situada na Ilha Norte e conhecida por ser uma cidade ventosa?",
+    "opcoes": {
+      "A": "Auckland",
+      "B": "Christchurch",
+      "C": "Wellington",
+      "D": "Queenstown"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "dificil",
+    "pergunta": "Qual o nome da corrente marítima fria que se origina no Oceano Ártico e atinge a costa leste do Canadá e Nordeste dos EUA?",
+    "opcoes": {
+      "A": "Corrente do Golfo",
+      "B": "Corrente da Califórnia",
+      "C": "Corrente do Labrador",
+      "D": "Corrente do Atlântico Norte"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "dificil",
+    "pergunta": "Qual o nome do processo de formação de solos ricos em ferro e alumínio em climas tropicais úmidos?",
+    "opcoes": {
+      "A": "Gleização",
+      "B": "Podzolização",
+      "C": "Laterização",
+      "D": "Calcificação"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "dificil",
+    "pergunta": "Qual é o principal país exportador de petróleo no Oriente Médio?",
+    "opcoes": {
+      "A": "Irã",
+      "B": "Iraque",
+      "C": "Arábia Saudita",
+      "D": "Emirados Árabes Unidos"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "dificil",
+    "pergunta": "Qual é a capital do Quirguistão, um país da Ásia Central com paisagens montanhosas?",
+    "opcoes": {
+      "A": "Astana",
+      "B": "Tashkent",
+      "C": "Bishkek",
+      "D": "Dushanbe"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "dificil",
+    "pergunta": "Qual o nome da falha geológica mais ativa no Japão, responsável por grandes terremotos?",
+    "opcoes": {
+      "A": "Falha de San Andreas",
+      "B": "Falha de Sumatra",
+      "C": "Falha de Nankai Trough",
+      "D": "Falha de Anatolia Oriental"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "dificil",
+    "pergunta": "Qual o nome do rio que é o mais longo da Península Ibérica, atravessando Portugal e Espanha?",
+    "opcoes": {
+      "A": "Rio Douro",
+      "B": "Rio Tejo",
+      "C": "Rio Ebro",
+      "D": "Rio Guadalquivir"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "nivel": "dificil",
+    "pergunta": "Qual o termo técnico para o movimento de massas de terra e rocha causado pela gravidade?",
+    "opcoes": {
+      "A": "Erosão",
+      "B": "Sedimentação",
+      "C": "Movimentos de massa (ex: deslizamentos, rastejos)",
+      "D": "Intemperismo"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "dificil",
+    "pergunta": "Qual é a cidade que abriga o Palácio de Potala, antiga residência do Dalai Lama, no Tibete?",
+    "opcoes": {
+      "A": "Katmandu",
+      "B": "Lhasa",
+      "C": "Pequim",
+      "D": "Daca"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "nivel": "dificil",
+    "pergunta": "Qual o nome da região no Brasil que é uma transição entre a Floresta Amazônica e o Cerrado, com alta biodiversidade?",
+    "opcoes": {
+      "A": "Pantanal",
+      "B": "Mata dos Cocais",
+      "C": "Zona da Mata",
+      "D": "Mata de Transição"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "nivel": "dificil",
+    "pergunta": "Qual o país da Ásia Central que possui o Mar de Aral em seu território, gravemente afetado por desvio de rios?",
+    "opcoes": {
+      "A": "Cazaquistão",
+      "B": "Uzbequistão",
+      "C": "Turcomenistão",
+      "D": "Quirguistão"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "nivel": "dificil",
+    "pergunta": "Qual o nome da estrutura geológica em forma de arco no Pacífico, conhecida por sua intensa atividade sísmica e vulcânica?",
+    "opcoes": {
+      "A": "Dorsal Mesoatlântica",
+      "B": "Cinturão Alpino",
+      "C": "Anel de Fogo do Pacífico",
+      "D": "Falha de San Andreas"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "dificil",
+    "pergunta": "Qual é o rio mais longo da Europa Ocidental, que nasce nos Alpes suíços e deságua no Mar do Norte?",
+    "opcoes": {
+      "A": "Danúbio",
+      "B": "Volga",
+      "C": "Reno",
+      "D": "Sena"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "dificil",
+    "pergunta": "Qual a principal causa do desmatamento na Indonésia, levando à perda de florestas tropicais e turfeiras?",
+    "opcoes": {
+      "A": "Exploração madeireira ilegal",
+      "B": "Mineração de carvão",
+      "C": "Plantio de dendezeiros (óleo de palma)",
+      "D": "Incêndios florestais naturais"
+    },
+    "resposta_correta": "C"
+  }
+]
