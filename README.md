@@ -1,5 +1,6 @@
-<img width="2048" height="2048" alt="Image" src="https://github.com/user-attachments/assets/37d466b9-f206-4188-ae50-ed1e799464cf" />
-## AlgoritmosEmJogo
+<img width="1048" height="1048" alt="Image" src="https://github.com/user-attachments/assets/37d466b9-f206-4188-ae50-ed1e799464cf" />
+
+## Algoritmos Em Jogo
 
 ## Sobre o Projeto
 Este repositório contém um conjunto de jogos simples desenvolvidos em Python, com foco em lógica de programação. O projeto foi criado como parte da disciplina de Lógica de Programação e tem como objetivo aplicar conceitos fundamentais de algoritmos, estruturas de dados e lógica computacional de forma interativa e divertida.
