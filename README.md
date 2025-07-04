@@ -1,3 +1,4 @@
+<img width="2048" height="2048" alt="Image" src="https://github.com/user-attachments/assets/37d466b9-f206-4188-ae50-ed1e799464cf" />
 ## AlgoritmosEmJogo
 
 ## Sobre o Projeto
