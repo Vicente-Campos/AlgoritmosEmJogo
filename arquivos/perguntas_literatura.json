@@ -79,17 +79,6 @@
   },
   {
     "nivel": "facil",
-    "pergunta": "Quem é o autor de \"O Cortiço\"?",
-    "opcoes": {
-      "A": "Aluísio Azevedo",
-      "B": "José de Alencar",
-      "C": "Machado de Assis",
-      "D": "Jorge Amado"
-    },
-    "resposta_correta": "A"
-  },
-  {
-    "nivel": "facil",
     "pergunta": "O que é um soneto?",
     "opcoes": {
       "A": "Uma narrativa longa",
@@ -110,6 +99,326 @@
     },
     "resposta_correta": "B"
   },
+  {
+    "nivel": "facil",
+    "pergunta": "Quem escreveu 'Iracema'?",
+    "opcoes": {
+      "A": "José de Alencar",
+      "B": "Machado de Assis",
+      "C": "Jorge Amado",
+      "D": "Clarice Lispector"
+    },
+    "resposta_correta": "A"
+  },
+  {
+    "nivel": "facil",
+    "pergunta": "Qual é o nome da protagonista de 'O Primo Basílio'?",
+    "opcoes": {
+      "A": "Juliana",
+      "B": "Amélia",
+      "C": "Leopoldina",
+      "D": "Beatriz"
+    },
+    "resposta_correta": "A"
+  },
+  {
+    "nivel": "facil",
+    "pergunta": "Quem é o autor de 'Cem Anos de Solidão'?",
+    "opcoes": {
+      "A": "Gabriel García Márquez",
+      "B": "Mario Vargas Llosa",
+      "C": "Jorge Luis Borges",
+      "D": "Pablo Neruda"
+    },
+    "resposta_correta": "A"
+  },
+  {
+    "nivel": "facil",
+    "pergunta": "Qual é a nacionalidade de Albert Camus?",
+    "opcoes": {
+      "A": "Francesa",
+      "B": "Alemã",
+      "C": "Argentina",
+      "D": "Italiana"
+    },
+    "resposta_correta": "A"
+  },
+  {
+    "nivel": "facil",
+    "pergunta": "Qual é o nome do livro mais famoso de Machado de Assis?",
+    "opcoes": {
+      "A": "Dom Casmurro",
+      "B": "O Primo Basílio",
+      "C": "Memórias Póstumas de Brás Cubas",
+      "D": "Vidas Secas"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "facil",
+    "pergunta": "Quem escreveu a obra 'Grande Sertão: Veredas'?",
+    "opcoes": {
+      "A": "Clarice Lispector",
+      "B": "João Guimarães Rosa",
+      "C": "Carlos Drummond de Andrade",
+      "D": "Euclides da Cunha"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "nivel": "facil",
+    "pergunta": "Qual autor escreveu a obra 'A Moreninha'?",
+    "opcoes": {
+      "A": "José de Alencar",
+      "B": "Machado de Assis",
+      "C": "Joaquim Manuel de Macedo",
+      "D": "Aluísio Azevedo"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "facil",
+    "pergunta": "Quem é o autor de 'O Cortiço'?",
+    "opcoes": {
+      "A": "Aluísio Azevedo",
+      "B": "Machado de Assis",
+      "C": "José de Alencar",
+      "D": "Jorge Amado"
+    },
+    "resposta_correta": "A"
+  },
+  {
+    "nivel": "facil",
+    "pergunta": "Quem escreveu 'O Primo Basílio'?",
+    "opcoes": {
+      "A": "Machado de Assis",
+      "B": "José de Alencar",
+      "C": "José de São Paulo",
+      "D": "José de Monteiro Lobato"
+    },
+    "resposta_correta": "A"
+  },
+  {
+    "nivel": "facil",
+    "pergunta": "Quem é o autor da obra 'Memórias Póstumas de Brás Cubas'?",
+    "opcoes": {
+      "A": "Machado de Assis",
+      "B": "José de Alencar",
+      "C": "Aluísio Azevedo",
+      "D": "Clarice Lispector"
+    },
+    "resposta_correta": "A"
+  },
+  {
+    "nivel": "facil",
+    "pergunta": "Qual a obra de William Shakespeare que conta a história de um rei dinamarquês?",
+    "opcoes": {
+      "A": "Macbeth",
+      "B": "Otelo",
+      "C": "Hamlet",
+      "D": "Rei Lear"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "facil",
+    "pergunta": "Quem é o autor de 'O Alienista'?",
+    "opcoes": {
+      "A": "Machado de Assis",
+      "B": "José de Alencar",
+      "C": "Euclides da Cunha",
+      "D": "Graciliano Ramos"
+    },
+    "resposta_correta": "A"
+  },
+  {
+    "nivel": "facil",
+    "pergunta": "Quem escreveu 'Dom Quixote'?",
+    "opcoes": {
+      "A": "Miguel de Cervantes",
+      "B": "William Shakespeare",
+      "C": "Jorge Luis Borges",
+      "D": "Gabriel García Márquez"
+    },
+    "resposta_correta": "A"
+  },
+  {
+    "nivel": "facil",
+    "pergunta": "Qual personagem é o protagonista de 'O Pequeno Príncipe'?",
+    "opcoes": {
+      "A": "O aviador",
+      "B": "O Pequeno Príncipe",
+      "C": "O rei",
+      "D": "A raposa"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "nivel": "facil",
+    "pergunta": "Quem escreveu 'O Conde de Monte Cristo'?",
+    "opcoes": {
+      "A": "Victor Hugo",
+      "B": "Alexandre Dumas",
+      "C": "Emile Zola",
+      "D": "Éric-Emmanuel Schmitt"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "nivel": "facil",
+    "pergunta": "Qual é o gênero literário de 'A Divina Comédia'?",
+    "opcoes": {
+      "A": "Épico",
+      "B": "Lírico",
+      "C": "Romance",
+      "D": "Teatro"
+    },
+    "resposta_correta": "A"
+  },
+  {
+    "nivel": "facil",
+    "pergunta": "Quem é o autor da obra 'O Pequeno Príncipe'?",
+    "opcoes": {
+      "A": "J.K. Rowling",
+      "B": "Antoine de Saint-Exupéry",
+      "C": "Mark Twain",
+      "D": "Ernest Hemingway"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "nivel": "facil",
+    "pergunta": "Quem escreveu 'Os Maias'?",
+    "opcoes": {
+      "A": "Eça de Queirós",
+      "B": "Machado de Assis",
+      "C": "José Saramago",
+      "D": "Clarice Lispector"
+    },
+    "resposta_correta": "A"
+  },
+  {
+    "nivel": "facil",
+    "pergunta": "Qual autor brasileiro é conhecido como 'Poeta do Amor'?",
+    "opcoes": {
+      "A": "Carlos Drummond de Andrade",
+      "B": "Manuel Bandeira",
+      "C": "Vinicius de Moraes",
+      "D": "Cecília Meireles"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "facil",
+    "pergunta": "Quem escreveu 'Vidas Secas'?",
+    "opcoes": {
+      "A": "Jorge Amado",
+      "B": "Graciliano Ramos",
+      "C": "Clarice Lispector",
+      "D": "Aluísio Azevedo"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "nivel": "facil",
+    "pergunta": "Quem é o autor da obra 'O Primo Basílio'?",
+    "opcoes": {
+      "A": "Machado de Assis",
+      "B": "José de Alencar",
+      "C": "José de São Paulo",
+      "D": "José de Monteiro Lobato"
+    },
+    "resposta_correta": "A"
+  },
+  {
+    "nivel": "facil",
+    "pergunta": "Quem é o autor de 'O Primo Basílio'?",
+    "opcoes": {
+      "A": "Machado de Assis",
+      "B": "José de Alencar",
+      "C": "José de São Paulo",
+      "D": "José de Monteiro Lobato"
+    },
+    "resposta_correta": "A"
+  },
+  {
+    "nivel": "facil",
+    "pergunta": "Quem escreveu a obra 'A Divina Comédia'?",
+    "opcoes": {
+      "A": "Virgílio",
+      "B": "Dante Alighieri",
+      "C": "William Shakespeare",
+      "D": "Homero"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "nivel": "facil",
+    "pergunta": "Quem é o autor de 'O Guarani'?",
+    "opcoes": {
+      "A": "José de Alencar",
+      "B": "Machado de Assis",
+      "C": "Raul Pompeia",
+      "D": "Clarice Lispector"
+    },
+    "resposta_correta": "A"
+  },
+  {
+    "nivel": "facil",
+    "pergunta": "Qual obra de Gabriel García Márquez é um exemplo de Realismo Mágico?",
+    "opcoes": {
+      "A": "Cem Anos de Solidão",
+      "B": "O Amor nos Tempos do Cólera",
+      "C": "A Casa dos Espíritos",
+      "D": "O General no Labirinto"
+    },
+    "resposta_correta": "A"
+  },
+  {
+    "nivel": "facil",
+    "pergunta": "Quem escreveu 'Dom Quixote'?",
+    "opcoes": {
+      "A": "Miguel de Cervantes",
+      "B": "William Shakespeare",
+      "C": "Gabriel García Márquez",
+      "D": "Homero"
+    },
+    "resposta_correta": "A"
+  },
+  {
+    "nivel": "facil",
+    "pergunta": "Quem escreveu 'A Hora da Estrela'?",
+    "opcoes": {
+      "A": "Machado de Assis",
+      "B": "Raul Pompeia",
+      "C": "Clarice Lispector",
+      "D": "Guimarães Rosa"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "facil",
+    "pergunta": "Quem é o autor de 'Vidas Secas'?",
+    "opcoes": {
+      "A": "Raul Pompeia",
+      "B": "Aluísio Azevedo",
+      "C": "Graciliano Ramos",
+      "D": "José de Alencar"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "facil",
+    "pergunta": "Qual é o nome do livro mais famoso de William Shakespeare?",
+    "opcoes": {
+      "A": "Hamlet",
+      "B": "Macbeth",
+      "C": "Romeu e Julieta",
+      "D": "Othello"
+    },
+    "resposta_correta": "C"
+  },
+
 
   
   {
@@ -180,17 +489,6 @@
   },
   {
     "nivel": "medio",
-    "pergunta": "Quem é o autor do livro \"Memórias Póstumas de Brás Cubas\"?",
-    "opcoes": {
-      "A": "Machado de Assis",
-      "B": "José de Alencar",
-      "C": "Jorge Amado",
-      "D": "Graciliano Ramos"
-    },
-    "resposta_correta": "A"
-  },
-  {
-    "nivel": "medio",
     "pergunta": "Qual a característica principal do Simbolismo?",
     "opcoes": {
       "A": "Objetividade",
@@ -221,6 +519,446 @@
       "D": "Poemas e Canções"
     },
     "resposta_correta": "C"
+  },
+    {
+    "nivel": "medio",
+    "pergunta": "Quem é o narrador de 'Capitães da Areia' de Jorge Amado?",
+    "opcoes": {
+      "A": "Pedro Bala",
+      "B": "Narrador onisciente",
+      "C": "Boa Vida",
+      "D": "Sem-Pernas"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual obra marca o início da terceira fase do Modernismo no Brasil?",
+    "opcoes": {
+      "A": "Claro Enigma",
+      "B": "Vidas Secas",
+      "C": "O Quinze",
+      "D": "Fazenda Modelo"
+    },
+    "resposta_correta": "A"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "O romance 'Senhora', de José de Alencar, pertence a qual escola literária?",
+    "opcoes": {
+      "A": "Romantismo",
+      "B": "Realismo",
+      "C": "Parnasianismo",
+      "D": "Modernismo"
+    },
+    "resposta_correta": "A"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "A personagem Macabéa é protagonista de qual romance de Clarice Lispector?",
+    "opcoes": {
+      "A": "A Paixão Segundo G.H.",
+      "B": "Laços de Família",
+      "C": "A Hora da Estrela",
+      "D": "Perto do Coração Selvagem"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Quem escreveu 'O Auto da Compadecida'?",
+    "opcoes": {
+      "A": "Jorge Amado",
+      "B": "Ariano Suassuna",
+      "C": "José de Alencar",
+      "D": "Carlos Drummond de Andrade"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual é a principal característica do Realismo literário?",
+    "opcoes": {
+      "A": "Idealização do herói",
+      "B": "Análise psicológica das personagens",
+      "C": "Uso de linguagem simbólica",
+      "D": "Temática indígena"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "A literatura de cordel é tradicional em qual região do Brasil?",
+    "opcoes": {
+      "A": "Sul",
+      "B": "Sudeste",
+      "C": "Nordeste",
+      "D": "Centro-Oeste"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "O que caracteriza a poesia de Manuel Bandeira?",
+    "opcoes": {
+      "A": "Linguagem rebuscada",
+      "B": "Tom melancólico e cotidiano",
+      "C": "Temas religiosos",
+      "D": "Verso alexandrino"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual autor introduziu a temática indígena de forma marcante no Romantismo brasileiro?",
+    "opcoes": {
+      "A": "Castro Alves",
+      "B": "Machado de Assis",
+      "C": "José de Alencar",
+      "D": "Gregório de Matos"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Carlos Drummond de Andrade pertence a qual geração do Modernismo?",
+    "opcoes": {
+      "A": "Primeira",
+      "B": "Segunda",
+      "C": "Terceira",
+      "D": "Pré-modernismo"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual movimento literário brasileiro teve como um de seus principais veículos a 'Revista de Antropofagia'?",
+    "opcoes": {
+      "A": "Parnasianismo",
+      "B": "Modernismo",
+      "C": "Simbolismo",
+      "D": "Romantismo"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Quem é o autor da peça teatral 'Vestido de Noiva', considerada um marco do teatro moderno brasileiro?",
+    "opcoes": {
+      "A": "Nelson Rodrigues",
+      "B": "Dias Gomes",
+      "C": "Jorge Andrade",
+      "D": "Ariano Suassuna"
+    },
+    "resposta_correta": "A"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "A obra 'Grande Sertão: Veredas' é narrada sob a perspectiva de qual personagem?",
+    "opcoes": {
+      "A": "Riobaldo",
+      "B": "Diadorim",
+      "C": "Hermógenes",
+      "D": "Zé Bebelo"
+    },
+    "resposta_correta": "A"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual escritor é conhecido por suas crônicas que retratam o cotidiano do Rio de Janeiro e suas observações sociais, como em 'A Alma Encantadora das Ruas'?",
+    "opcoes": {
+      "A": "Carlos Drummond de Andrade",
+      "B": "Fernando Sabino",
+      "C": "Lima Barreto",
+      "D": "João do Rio"
+    },
+    "resposta_correta": "D"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "A que escola literária pertence o escritor Álvares de Azevedo, conhecido por sua poesia ultrarromântica e melancólica?",
+    "opcoes": {
+      "A": "Primeira Geração Romântica",
+      "B": "Segunda Geração Romântica",
+      "C": "Terceira Geração Romântica",
+      "D": "Parnasianismo"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual a principal característica do Parnasianismo em contraposição ao Romantismo?",
+    "opcoes": {
+      "A": "Subjetivismo exagerado",
+      "B": "Valorização da forma e da objetividade",
+      "C": "Nacionalismo ufanista",
+      "D": "Linguagem coloquial e livre"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Quem é o autor do romance 'O Nome da Rosa', famoso por sua trama investigativa ambientada em um mosteiro medieval?",
+    "opcoes": {
+      "A": "Umberto Eco",
+      "B": "Italo Calvino",
+      "C": "Gabriel García Márquez",
+      "D": "Jorge Luis Borges"
+    },
+    "resposta_correta": "A"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "A peça 'Édipo Rei', um clássico da tragédia grega, foi escrita por qual dramaturgo?",
+    "opcoes": {
+      "A": "Ésquilo",
+      "B": "Eurípides",
+      "C": "Sófocles",
+      "D": "Aristófanes"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual obra de Franz Kafka narra a história de Gregor Samsa, que acorda transformado em um inseto gigante?",
+    "opcoes": {
+      "A": "O Processo",
+      "B": "O Castelo",
+      "C": "A Metamorfose",
+      "D": "Carta ao Pai"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Quem é a autora da saga 'Harry Potter', um dos maiores fenômenos literários e de vendas de todos os tempos?",
+    "opcoes": {
+      "A": "Suzanne Collins",
+      "B": "Stephenie Meyer",
+      "C": "J.R.R. Tolkien",
+      "D": "J.K. Rowling"
+    },
+    "resposta_correta": "D"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual romance de George Orwell apresenta a distopia de um governo totalitário sob a vigilância constante do 'Grande Irmão'?",
+    "opcoes": {
+      "A": "A Revolução dos Bichos",
+      "B": "1984",
+      "C": "Admirável Mundo Novo",
+      "D": "Fahrenheit 451"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "A quem se atribui a autoria do poema épico 'A Odisseia'?",
+    "opcoes": {
+      "A": "Virgílio",
+      "B": "Homero",
+      "C": "Hesíodo",
+      "D": "Platão"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual a nacionalidade do escritor Gabriel García Márquez, autor de 'Cem Anos de Solidão'?",
+    "opcoes": {
+      "A": "Mexicana",
+      "B": "Argentina",
+      "C": "Chilena",
+      "D": "Colombiana"
+    },
+    "resposta_correta": "D"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual obra de ficção científica de Aldous Huxley descreve uma sociedade futura controlada pela ciência e tecnologia, onde os indivíduos são condicionados desde o nascimento?",
+    "opcoes": {
+      "A": "A Máquina do Tempo",
+      "B": "1984",
+      "C": "Admirável Mundo Novo",
+      "D": "Laranja Mecânica"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Quem é o criador do personagem Capitão Ahab e da baleia Moby Dick no clássico da literatura mundial?",
+    "opcoes": {
+      "A": "Ernest Hemingway",
+      "B": "Herman Melville",
+      "C": "Jack London",
+      "D": "Joseph Conrad"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual escritor brasileiro é autor da rapsódia 'Macunaíma'?",
+    "opcoes": {
+      "A": "Jorge Amado",
+      "B": "Graciliano Ramos",
+      "C": "Mário de Andrade",
+      "D": "Manuel Bandeira"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "A que gênero literário pertence a obra 'A Divina Comédia', de Dante Alighieri?",
+    "opcoes": {
+      "A": "Tragédia",
+      "B": "Epopeia",
+      "C": "Comédia de costumes",
+      "D": "Romance de cavalaria"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Quem é considerado um dos maiores precursores do Simbolismo e autor de 'As Flores do Mal'?",
+    "opcoes": {
+      "A": "Édouard Manet",
+      "B": "Charles Baudelaire",
+      "C": "Arthur Rimbaud",
+      "D": "Stéphane Mallarmé"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual obra do Naturalismo francês narra a ascensão e queda de uma cortesã parisiense, mostrando a degradação social?",
+    "opcoes": {
+      "A": "Dom Casmurro",
+      "B": "Madame Bovary",
+      "C": "Nana",
+      "D": "Anna Kariênina"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Quem é o autor do famoso verso 'No meio do caminho tinha uma pedra'?",
+    "opcoes": {
+      "A": "Clarice Lispector",
+      "B": "Rachel de Queiroz",
+      "C": "Cecília Meireles",
+      "D": "Carlos Drummond de Andrade"
+    },
+    "resposta_correta": "D"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "A obra 'Vidas Secas', de Graciliano Ramos, é um dos expoentes de qual vertente literária brasileira?",
+    "opcoes": {
+      "A": "Regionalismo",
+      "B": "Romantismo",
+      "C": "Geração de 30 do Modernismo",
+      "D": "Pós-Modernismo"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual o nome do protagonista de 'Jubiabá', romance de Jorge Amado?",
+    "opcoes": {
+      "A": "Odorico Paraguaçu",
+      "B": "Padre Cícero",
+      "C": "Chico Bento",
+      "D": "Jubiabá"
+    },
+    "resposta_correta": "D"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Quem escreveu o clássico da literatura espanhola 'Dom Quixote de La Mancha'?",
+    "opcoes": {
+      "A": "Shakespeare",
+      "B": "Cervantes",
+      "C": "Lope de Vega",
+      "D": "Tirso de Molina"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual famoso poema épico inglês narra a história bíblica da Queda do Homem e a expulsão de Adão e Eva do Paraíso?",
+    "opcoes": {
+      "A": "O retrato de Dorian Gray",
+      "B": "Paraíso Perdido",
+      "C": "Fausto",
+      "D": "A Divina Comédia"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Quem é a autora do romance 'Orgulho e Preconceito', um dos mais famosos da literatura inglesa?",
+    "opcoes": {
+      "A": "Virginia Woolf",
+      "B": "Jane Austen",
+      "C": "Emily Brontë",
+      "D": "Charlotte Brontë"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual corrente filosófica está fortemente associada à obra 'O Estrangeiro', de Albert Camus?",
+    "opcoes": {
+      "A": "Existencialismo",
+      "B": "Surrealismo",
+      "C": "Fenomenologia",
+      "D": "Niilismo"
+    },
+    "resposta_correta": "A"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual a principal temática social abordada no romance 'O Mulato', de Aluísio Azevedo?",
+    "opcoes": {
+      "A": "Um médico",
+      "B": "A crítica à escravidão e à hipocrisia social",
+      "C": "A vida no sertão nordestino",
+      "D": "A ascensão da burguesia industrial"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual a principal temática do romance 'O Sol é Para Todos' (To Kill a Mockingbird), de Harper Lee?",
+    "opcoes": {
+      "A": "A Segunda Guerra Mundial",
+      "B": "O preconceito racial no sul dos EUA",
+      "C": "A luta pelos direitos civis na África do Sul",
+      "D": "A crise econômica de 1929"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Quem escreveu o romance 'Por Quem os Sinos Dobram', ambientado na Guerra Civil Espanhola?",
+    "opcoes": {
+      "A": "Franz Kafka",
+      "B": "Ernest Hemingway",
+      "C": "F. Scott Fitzgerald",
+      "D": "John Steinbeck"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual o gênero teatral mais associado às obras de Molière, como 'O Burguês Fidalgo' e 'O Tartufo'?",
+    "opcoes": {
+      "A": "Poesia Romântica",
+      "B": "Comédia de costumes",
+      "C": "Tragédia grega",
+      "D": "Drama histórico"
+    },
+    "resposta_correta": "B"
   },
 
 
@@ -310,7 +1048,7 @@
       "C": "O Cortiço",
       "D": "Senhora"
     },
-    "resposta_correta": "B"
+    "resposta_correta": "A"
   },
   {
     "nivel": "dificil",
@@ -332,6 +1070,336 @@
       "C": "Olavo Bilac",
       "D": "Raimundo Correia"
     },
+    "resposta_correta": "A"
+  },
+  {
+    "nivel": "dificil",
+    "pergunta": "Hercule Poirot é o detetive famoso dos livros de que escritora?",
+    "opcoes": {
+      "A": "Agatha Christie",
+      "B": "Dorothy L. Sayers",
+      "C": "Arthur Conan Doyle",
+      "D": "Patricia Highsmith"
+    },
+    "resposta_correta": "A"
+  },
+  {
+    "nivel": "dificil",
+    "pergunta": "Quem escreveu o livro \"O Cão dos Baskervilles\"?",
+    "opcoes": {
+      "A": "Edgar Allan Poe",
+      "B": "Arthur Conan Doyle",
+      "C": "H.P. Lovecraft",
+      "D": "Wilkie Collins"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "nivel": "dificil",
+    "pergunta": "O livro \"O triste fim de Policarpo Quaresmma\" é de que autor brasileiro?",
+    "opcoes": {
+      "A": "Machado de Assis",
+      "B": "Aluísio Azevedo",
+      "C": "Lima Barreto",
+      "D": "Graciliano Ramos"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "dificil",
+    "pergunta": "Qual o livro mais famoso de Joaquim Manoel de Macedo, publicado em 1844?",
+    "opcoes": {
+      "A": "Senhora",
+      "B": "Lucíola",
+      "C": "Iracema",
+      "D": "A Moreninha"
+    },
     "resposta_correta": "D"
+  },
+  {
+    "nivel": "dificil",
+    "pergunta": "Qual o nome do protagonista de \"Dom Casmurro\"?",
+    "opcoes": {
+      "A": "Capitu",
+      "B": "Bentinho",
+      "C": "Escobar",
+      "D": "José Dias"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "nivel": "dificil",
+    "pergunta": "Quem escreveu a obra \"Os Lusíadas\"?",
+    "opcoes": {
+      "A": "Fernando Pessoa",
+      "B": "Gil Vicente",
+      "C": "Luís Vaz de Camões",
+      "D": "Almeida Garrett"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "dificil",
+    "pergunta": "Quem escreveu o livro \"Crime e Castigo\"?",
+    "opcoes": {
+      "A": "Liev Tolstói",
+      "B": "Anton Tchekhov",
+      "C": "Ivan Turguêniev",
+      "D": "Fiódor Dostoiévski"
+    },
+    "resposta_correta": "D"
+  },
+  {
+    "nivel": "dificil",
+    "pergunta": "Qual o estilo literário da obra \"O Cortiço\"?",
+    "opcoes": {
+      "A": "Romantismo",
+      "B": "Realismo",
+      "C": "Naturalismo",
+      "D": "Parnasianismo"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "dificil",
+    "pergunta": "Quem escreveu o livro \"Os três Mosqueteiros\"?",
+    "opcoes": {
+      "A": "Victor Hugo",
+      "B": "Júlio Verne",
+      "C": "Alexandre Dumas",
+      "D": "Honoré de Balzac"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "dificil",
+    "pergunta": "Qual o nome da empregada do Sítio do Picapau Amarelo?",
+    "opcoes": {
+      "A": "Emília",
+      "B": "Narizinho",
+      "C": "Tia Nastácia",
+      "D": "Pedrinho"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "dificil",
+    "pergunta": "\"Os Sertões\" retrata qual conflito brasileiro?",
+    "opcoes": {
+      "A": "Revolta da Vacina",
+      "B": "Guerra de Canudos",
+      "C": "Revolução Farroupilha",
+      "D": "Inconfidência Mineira"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "nivel": "dificil",
+    "pergunta": "Gonçalves Dias e Castro Alves são autores representantes de que movimento literário brasileiro?",
+    "opcoes": {
+      "A": "Parnasianismo",
+      "B": "Romantismo",
+      "C": "Modernismo",
+      "D": "Simbolismo"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "nivel": "dificil",
+    "pergunta": "Quem escreveu \"O Crime do Padre Amaro\"?",
+    "opcoes": {
+      "A": "Machado de Assis",
+      "B": "José Saramago",
+      "C": "Fernando Pessoa",
+      "D": "Eça de Queirós"
+    },
+    "resposta_correta": "D"
+  },
+  {
+    "nivel": "dificil",
+    "pergunta": "Quais são as cidades europeias retratadas em \"Um Conto de Duas Cidades\"?",
+    "opcoes": {
+      "A": "Roma e Berlim",
+      "B": "Madrid e Lisboa",
+      "C": "Londres e Paris",
+      "D": "Viena e Praga"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "dificil",
+    "pergunta": "Quem escreveu \"As Sandálias do Pescador\"?",
+    "opcoes": {
+      "A": "Leon Uris",
+      "B": "Ken Follett",
+      "C": "Morris West",
+      "D": "James Michener"
+    },
+    "resposta_correta": "C"
+  },
+    {
+    "nivel": "dificil",
+    "pergunta": "Qual movimento literário brasileiro teve como um de seus principais veículos a 'Revista de Antropofagia'?",
+    "opcoes": {
+      "A": "Parnasianismo",
+      "B": "Modernismo",
+      "C": "Simbolismo",
+      "D": "Romantismo"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "nivel": "dificil",
+    "pergunta": "Quem é o autor da peça teatral 'Vestido de Noiva', considerada um marco do teatro moderno brasileiro?",
+    "opcoes": {
+      "A": "Nelson Rodrigues",
+      "B": "Dias Gomes",
+      "C": "Jorge Andrade",
+      "D": "Ariano Suassuna"
+    },
+    "resposta_correta": "A"
+  },
+  {
+    "nivel": "dificil",
+    "pergunta": "A obra 'Grande Sertão: Veredas' é narrada sob a perspectiva de qual personagem?",
+    "opcoes": {
+      "A": "Riobaldo",
+      "B": "Diadorim",
+      "C": "Hermógenes",
+      "D": "Zé Bebelo"
+    },
+    "resposta_correta": "A"
+  },
+  {
+    "nivel": "dificil",
+    "pergunta": "Qual escritor é conhecido por suas crônicas que retratam o cotidiano do Rio de Janeiro e suas observações sociais, como em 'A Alma Encantadora das Ruas'?",
+    "opcoes": {
+      "A": "Carlos Drummond de Andrade",
+      "B": "Fernando Sabino",
+      "C": "Lima Barreto",
+      "D": "João do Rio"
+    },
+    "resposta_correta": "D"
+  },
+  {
+    "nivel": "dificil",
+    "pergunta": "A que escola literária pertence o escritor Álvares de Azevedo, conhecido por sua poesia ultrarromântica e melancólica?",
+    "opcoes": {
+      "A": "Primeira Geração Romântica",
+      "B": "Segunda Geração Romântica",
+      "C": "Terceira Geração Romântica",
+      "D": "Parnasianismo"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "nivel": "dificil",
+    "pergunta": "Qual a principal característica do Parnasianismo em contraposição ao Romantismo?",
+    "opcoes": {
+      "A": "Subjetivismo exagerado",
+      "B": "Valorização da forma e da objetividade",
+      "C": "Nacionalismo ufanista",
+      "D": "Linguagem coloquial e livre"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "nivel": "dificil",
+    "pergunta": "Quem é o autor do romance 'O Nome da Rosa', famoso por sua trama investigativa ambientada em um mosteiro medieval?",
+    "opcoes": {
+      "A": "Umberto Eco",
+      "B": "Italo Calvino",
+      "C": "Gabriel García Márquez",
+      "D": "Jorge Luis Borges"
+    },
+    "resposta_correta": "A"
+  },
+  {
+    "nivel": "dificil",
+    "pergunta": "A peça 'Édipo Rei', um clássico da tragédia grega, foi escrita por qual dramaturgo?",
+    "opcoes": {
+      "A": "Ésquilo",
+      "B": "Eurípides",
+      "C": "Sófocles",
+      "D": "Aristófanes"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "dificil",
+    "pergunta": "Qual obra de Franz Kafka narra a história de Gregor Samsa, que acorda transformado em um inseto gigante?",
+    "opcoes": {
+      "A": "O Processo",
+      "B": "O Castelo",
+      "C": "A Metamorfose",
+      "D": "Carta ao Pai"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "dificil",
+    "pergunta": "Quem é a autora da saga 'Harry Potter', um dos maiores fenômenos literários e de vendas de todos os tempos?",
+    "opcoes": {
+      "A": "Suzanne Collins",
+      "B": "Stephenie Meyer",
+      "C": "J.R.R. Tolkien",
+      "D": "J.K. Rowling"
+    },
+    "resposta_correta": "D"
+  },
+  {
+    "nivel": "dificil",
+    "pergunta": "Qual romance de George Orwell apresenta a distopia de um governo totalitário sob a vigilância constante do 'Grande Irmão'?",
+    "opcoes": {
+      "A": "A Revolução dos Bichos",
+      "B": "1984",
+      "C": "Admirável Mundo Novo",
+      "D": "Fahrenheit 451"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "nivel": "dificil",
+    "pergunta": "A quem se atribui a autoria do poema épico 'A Odisseia'?",
+    "opcoes": {
+      "A": "Virgílio",
+      "B": "Homero",
+      "C": "Hesíodo",
+      "D": "Platão"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "nivel": "dificil",
+    "pergunta": "Qual a nacionalidade do escritor Gabriel García Márquez, autor de 'Cem Anos de Solidão'?",
+    "opcoes": {
+      "A": "Mexicana",
+      "B": "Argentina",
+      "C": "Chilena",
+      "D": "Colombiana"
+    },
+    "resposta_correta": "D"
+  },
+  {
+    "nivel": "dificil",
+    "pergunta": "Qual obra de ficção científica de Aldous Huxley descreve uma sociedade futura controlada pela ciência e tecnologia, onde os indivíduos são condicionados desde o nascimento?",
+    "opcoes": {
+      "A": "A Máquina do Tempo",
+      "B": "1984",
+      "C": "Admirável Mundo Novo",
+      "D": "Laranja Mecânica"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "dificil",
+    "pergunta": "Quem é o criador do personagem Capitão Ahab e da baleia Moby Dick no clássico da literatura mundial?",
+    "opcoes": {
+      "A": "Ernest Hemingway",
+      "B": "Herman Melville",
+      "C": "Jack London",
+      "D": "Joseph Conrad"
+    },
+    "resposta_correta": "B"
   }
 ]

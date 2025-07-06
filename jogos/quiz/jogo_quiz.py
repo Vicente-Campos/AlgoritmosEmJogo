@@ -24,7 +24,7 @@ def introducao():
     print("   ➤ Fácil, Médio ou Difícil.\n")  # Opções de níveis.
 
     print("⭐ Cada pergunta vale 10 pontos.")  # Informa a pontuação por pergunta.
-    print("📝 Responda com a letra correta da opção (A, B, C ou D).\n")  # Instrução de como responder.
+    print("   ➤ Responda com a letra correta da opção (A, B, C ou D).\n")  # Instrução de como responder.
 
     print("🏆 No final, sua pontuação será salva e você verá o ranking dos melhores jogadores!")  # Informa sobre o placar e ranking.
     print("\nBoa sorte! Divirta-se! 🍀🎮\n")  # Mensagem de boa sorte.
