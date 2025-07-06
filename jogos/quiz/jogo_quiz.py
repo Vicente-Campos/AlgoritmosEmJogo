@@ -1,6 +1,6 @@
 import json
 import os
-
+import random
 
 def introducao():
     limpar_terminal()
@@ -23,11 +23,8 @@ def limpar_terminal():
 
 
 def quiz(): #função principal
-    resposta_usuario = input("Começar agora? (S/N): ").upper()
+    input("Pressione ENTER para começar o jogo...\n").upper()
     print()
-    if resposta_usuario != "S":
-        print("Encerrando...")
-        return
     
     nome = input("Digite seu nome: ")
     final_jogo(nome)
@@ -82,7 +79,8 @@ def nivel_perguntas():
 
 def perguntas(tema, nivel): #função que exibi as perguntas do arquivo JSON
     score = 0
-    caminho = f"jogos/quiz/perguntas_{tema}.json" #caminho das perguntas de acordo com o tema
+    limite=10
+    caminho = f"arquivos/perguntas_{tema}.json" #caminho das perguntas de acordo com o tema
 
 #procura  e carrega o arquivo JSON
     try:
@@ -92,9 +90,13 @@ def perguntas(tema, nivel): #função que exibi as perguntas do arquivo JSON
         print("Arquivo não encontrado.")
         return 
 
-    # Filtrar perguntas pelo nível
+# Filtra perguntas pelo nível
     perguntas = [p for p in todas_perguntas if p["nivel"] == nivel]
-#Exibi as perguntas e opções
+#limitar a quntidade de perguntas
+
+    perguntas=random.sample(perguntas, min(limite,len(perguntas)))
+
+#Exibe as perguntas e opções
     for pergunta in perguntas:
         print(pergunta["pergunta"])
         for letra, texto in pergunta["opcoes"].items():
@@ -133,15 +135,19 @@ def final_jogo(nome):
             break
 
 
-#placar salvo no arquivo json
+#placar salvo na pasta arquivos
 def placar(nome, score):
     novo_placar = {"nome": nome, "pontuação": score}
 
-    # Caminho absoluto para a mesma pasta onde está o jogo quiz
+    # Caminho absoluto da pasta onde está o script
     base_dir = os.path.dirname(os.path.abspath(__file__))
-    caminho_arquivo = os.path.join(base_dir, "placar.json")
+    
+    # Caminho até a pasta 'arquivos'
+    caminho_arquivo = os.path.join(base_dir, "..", "..", "arquivos", "placar.json")
 
-    # Tenta carregar placares existentes
+    # Normaliza o caminho para funcionar no Windows e Linux
+    caminho_arquivo = os.path.normpath(caminho_arquivo)
+
     if os.path.exists(caminho_arquivo):
         try:
             with open(caminho_arquivo, "r", encoding="utf-8") as arquivo:
@@ -151,7 +157,6 @@ def placar(nome, score):
     else:
         placares = []
 
-    # Adiciona novo placar e salva
     placares.append(novo_placar)
 
     with open(caminho_arquivo, "w", encoding="utf-8") as arquivo:
@@ -159,10 +164,12 @@ def placar(nome, score):
 
 
 
+
 #função para mostrar ranking dos jogadores
 def ranking():
     base_dir = os.path.dirname(os.path.abspath(__file__))
-    caminho_arquivo = os.path.join(base_dir, "placar.json")
+    caminho_arquivo = os.path.join(base_dir, "..", "..", "arquivos", "placar.json")
+    caminho_arquivo = os.path.normpath(caminho_arquivo)
 
     if not os.path.exists(caminho_arquivo):
         print("Nenhum placar registrado ainda.")
@@ -171,11 +178,12 @@ def ranking():
     with open(caminho_arquivo, "r", encoding="utf-8") as arquivo:
         placares = json.load(arquivo)
 
-        placares.sort(key=lambda x: x["pontuação"], reverse=True) #ordena a pontuação do maior para o menor
-        
-        print("\nRANKING DOS JOGADORES 🏆")
-        for i, p in enumerate(placares[:3], 1):
-            print(i, "-", p["nome"], ":", p["pontuação"])
+    placares.sort(key=lambda x: x["pontuação"], reverse=True)
+
+    print("\nRANKING DOS JOGADORES 🏆")
+    for i, p in enumerate(placares[:3], 1):
+        print(i, "-", p["nome"], ":", p["pontuação"])
+
 
 
 
