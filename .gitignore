@@ -31,5 +31,5 @@ Thumbs.db       # Arquivos de miniaturas do Windows
 *.log
 *.sqlite3       # Se você usar SQLite localmente para testes ou configurações
 
-# Arquivo que guarda a potuação do quiz
-jogos/quiz/placar.json
+# Arquivo que guarda a pontuação do quiz
+arquivos/placar.json
