@@ -3,6 +3,7 @@ import time  # Importa o módulo time para funções relacionadas a tempo, como 
 import random  # Importa o módulo random para selecionar perguntas aleatoriamente.
 import os  # Importa o módulo os para interagir com o sistema operacional, como manipular caminhos de arquivo.
 from utils.funcoes import limpar_terminal  # Importa a função 'limpar_terminal' de um módulo utilitário.
+import msvcrt  # Biblioteca do Windows para ler teclas uma por uma
 
 
 def introducao():
@@ -128,6 +129,42 @@ def nivel_perguntas():
             continue  # Continua o loop para pedir a entrada novamente.
 
 
+def limpar_buffer_teclado():
+# Enquanto houver teclas "presas" no teclado (ENTER antigo), descarta todas
+    while msvcrt.kbhit():     # Enquanto houver tecla pressionada no buffer
+        msvcrt.getch()     # Leia e descarte o caractere
+
+
+def tempo(prompt, timeout):
+    print(prompt, end='', flush=True)
+    entrada = "" #Inicializa a variável para armazenar o que o usuário digitar
+    inicio = time.time() # marca o horário de início da contagem regressiva.
+
+    while True:  # Loop para capturar cada tecla pressionada
+        if msvcrt.kbhit():  # Verifica se o usuário pressionou alguma tecla
+            char = msvcrt.getwch()   # Lê o caractere digitado
+            if char in ('\r', '\n'):  # Enter
+                print()
+                break
+            elif char == '\b':  # Backspace
+                entrada = entrada[:-1]
+                print('\b \b', end='', flush=True)
+            else:
+                entrada += char   # Adiciona o caractere digitado à string
+                print(char, end='', flush=True)
+
+        if (time.time() - inicio) > timeout: # Verifica se o tempo limite foi ultrapassado
+            limpar_buffer_teclado()
+            return None   # Retorna None porque o tempo acabou
+
+
+        time.sleep(0.05) #pausa
+
+    return entrada.strip()
+
+
+
+
 def perguntas(tema, nivel):
     """
     Carrega as perguntas de um arquivo JSON, as filtra por tema e nível,
@@ -204,13 +241,24 @@ def perguntas(tema, nivel):
             print(f"{letra}) {texto}")
 
         print("\n" + "=" * 60)
-        # Solicita a resposta do usuário e a formata (maiúscula, sem espaços).
-        resposta = input("👉 Sua resposta (digite a letra): ").upper().strip()
+        limpar_buffer_teclado()  # limpa teclas "presas"
+        # Solicita a resposta com tempo limite
+        resposta = tempo("👉 Sua resposta (digite a letra): ", 10)
+      
+
+        if resposta is None:
+            print("\n" + "=" * 60)
+            print("\n" + "⏰ TEMPO ESGOTADO! resposta incorreta. ". center(60))
+            print("\n" + "=" * 60)
+            time.sleep(3.5)
+            continue
+        else:
+            resposta = resposta.upper().strip()
 
         # Loop para validar a resposta do usuário, garantindo que seja uma opção válida (A, B, C, D).
-        while resposta not in pergunta["opcoes"].keys():
-            print("\n❌ Resposta inválida! Por favor, digite uma das letras (A, B, C, D).")
-            resposta = input("👉 Sua resposta: ").upper().strip()
+            while resposta not in pergunta["opcoes"].keys():
+                print("\n❌ Resposta inválida! Por favor, digite uma das letras (A, B, C, D).")
+                resposta = input("👉 Sua resposta: ").upper().strip()
 
         # Verifica se a resposta do usuário está correta.
         if resposta == pergunta["resposta_correta"]:
@@ -292,7 +340,7 @@ def placar(nome, score):
 
     # Obtém o diretório base do script para garantir que o arquivo 'placar.json' seja salvo no local correto.
     base_dir = os.path.dirname(os.path.abspath(__file__))
-    caminho_arquivo = os.path.join(base_dir, "placar.json")
+    caminho_arquivo = os.path.join(base_dir, "..", "..", "arquivos", "placar.json")
 
     if os.path.exists(caminho_arquivo):  # Verifica se o arquivo 'placar.json' já existe.
         try:
@@ -319,7 +367,7 @@ def ranking():
     Ordena os jogadores pela pontuação em ordem decrescente e mostra o TOP 3.
     """
     base_dir = os.path.dirname(os.path.abspath(__file__))
-    caminho_arquivo = os.path.join(base_dir, "placar.json")
+    caminho_arquivo = os.path.join(base_dir, "..", "..", "arquivos", "placar.json")
 
     if not os.path.exists(caminho_arquivo):  # Verifica se o arquivo de placar existe.
         print("Nenhum placar registrado ainda.")  # Mensagem se não houver placar.
