@@ -27,9 +27,12 @@ def introducao():
     print("⭐ Cada pergunta vale 10 pontos.")  # Informa a pontuação por pergunta.
     print("   ➤ Responda com a letra correta da opção (A, B, C ou D).\n")  # Instrução de como responder.
 
-    print("🏆 No final, sua pontuação será salva e você verá o ranking dos melhores jogadores!")  # Informa sobre o placar e ranking.
-    print("\nBoa sorte! Divirta-se! 🍀🎮\n")  # Mensagem de boa sorte.
+    print("⏳ Você terá 15 segundos para responder a cada pergunta.") # Informa sobre o limite de tempo
+    print("   ➤ Se o tempo acabar, a pergunta será considerada ERRADA!\n")
 
+    print("🏆 No final, sua pontuação será salva e você verá o ranking dos melhores jogadores!")  # Informa sobre o placar e ranking.
+    
+    print("\nBoa sorte! Divirta-se! 🍀🎮\n")  # Mensagem de boa sorte.
     input('Pressione ENTER para começar o desafio...')  # Aguarda a entrada do usuário para continuar.
 
 
@@ -243,12 +246,13 @@ def perguntas(tema, nivel):
         print("\n" + "=" * 60)
         limpar_buffer_teclado()  # limpa teclas "presas"
         # Solicita a resposta com tempo limite
-        resposta = tempo("👉 Sua resposta (digite a letra): ", 10)
+        resposta = tempo("👉 Sua resposta (digite a letra): ", 15)
       
 
         if resposta is None:
             print("\n" + "=" * 60)
-            print("\n" + "⏰ TEMPO ESGOTADO! resposta incorreta. ". center(60))
+            print("\n" + "⏰ Tempo limite excedido. Avançando para a próxima pergunta. ". center(60))
+            print(f"A resposta correta era: {pergunta['resposta_correta']}) {pergunta['opcoes'][pergunta['resposta_correta']]} ".center(60))
             print("\n" + "=" * 60)
             time.sleep(3.5)
             continue
