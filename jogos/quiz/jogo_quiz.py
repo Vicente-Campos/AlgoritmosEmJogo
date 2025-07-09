@@ -327,7 +327,12 @@ def quiz():
         # Pergunta ao usuário se deseja jogar novamente.
         continuar_jogo = input("Jogar novamente? S/N: ").upper()
         if continuar_jogo != "S":
-            print("Até a próxima! 👋")  # Mensagem de despedida.
+            limpar_terminal()
+            print("\n" + "=" * 40)
+            print(" Obrigado por jogar! ".center(40, "="))
+            print(" Até a próxima! ".center(40, "="))
+            print("=" * 40)
+            time.sleep(3) # Aumentei um pouco a pausa para a mensagem final ser bem lida
             break  # Sai do loop principal, encerrando o jogo.
 
 
