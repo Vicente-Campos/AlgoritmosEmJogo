@@ -24,7 +24,7 @@ Se todos os 9 espaços forem preenchidos sem que nenhum jogador vença, o jogo t
     input("Pressione Enter para começar o jogo...")
     
 # Função para imprimir o tabuleiro
-def imprimir_tabuleiro(tabuleiro):n
+def imprimir_tabuleiro(tabuleiro):
     print("\n")
     for i in range(3):
         linha = " | ".join(tabuleiro[i])
@@ -49,3 +49,70 @@ def verificar_vitoria(tabuleiro, jogador):
     if tabuleiro[0][2] == tabuleiro[1][1] == tabuleiro[2][0] == jogador:
         return True
     return False
+
+# Função para verificar empate
+def verificar_empate(tabuleiro):
+    for linha in tabuleiro:
+        for celula in linha:
+            if celula == " ":
+                return False
+    return True
+
+# Função principal
+def jogar_jogo_da_velha():
+    print("=== Bem-vindo ao Jogo da Velha ===")
+    print("Posições no tabuleiro:")
+    print(" 1 | 2 | 3 ")
+    print("---+---+---")
+    print(" 4 | 5 | 6 ")
+    print("---+---+---")
+    print(" 7 | 8 | 9 ")
+    print("\nDigite o número da posição para fazer sua jogada.\n")
+
+    # Tabuleiro vazio
+    tabuleiro = [[" " for _ in range(3)] for _ in range(3)]
+    jogador_atual = "X"
+
+    while True:
+        imprimir_tabuleiro(tabuleiro)
+        print(f"Vez do jogador {jogador_atual}")
+
+        # Entrada do jogador
+        posicao = input("Escolha uma posição (1 a 9): ")
+
+        if not posicao.isdigit():
+            print("❌ Entrada inválida. Digite um número de 1 a 9.")
+            continue
+
+        posicao = int(posicao)
+        if posicao < 1 or posicao > 9:
+            print("❌ Posição fora do intervalo. Escolha de 1 a 9.")
+            continue
+
+        linha = (posicao - 1) // 3
+        coluna = (posicao - 1) % 3
+
+        if tabuleiro[linha][coluna] != " ":
+            print("⚠️ Essa posição já está ocupada. Tente outra.")
+            continue
+
+        # Marca a jogada
+        tabuleiro[linha][coluna] = jogador_atual
+
+        # Verifica vitória
+        if verificar_vitoria(tabuleiro, jogador_atual):
+            imprimir_tabuleiro(tabuleiro)
+            print(f"🏆 Jogador {jogador_atual} venceu! Parabéns!\n")
+            break
+
+        # Verifica empate
+        if verificar_empate(tabuleiro):
+            imprimir_tabuleiro(tabuleiro)
+            print("🤝 Deu velha! O jogo terminou em empate.\n")
+            break
+
+        # Alterna jogador
+        jogador_atual = "O" if jogador_atual == "X" else "X"
+
+# Inicia o jogo
+jogar_jogo_da_velha()
