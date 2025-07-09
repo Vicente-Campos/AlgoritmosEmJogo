@@ -235,9 +235,12 @@ def jogar_forca():
 
         else: # Este 'else' é executado apenas se o loop interno terminar por esgotar tentativas (derrota).
             limpar_terminal()
+            print("=" * 50)
+            print(" JOGO DA FORCA ".center(50, "="))
+            print("=" * 50)
             desenhar_forca(6) # Desenha a forca completa.
             print(f"\nVOCÊ PERDEU! A palavra era: {palavra}")
-            time.sleep(3) # Pausa para a mensagem de derrota.
+            time.sleep(4) # Pausa para a mensagem de derrota.
             limpar_terminal()
 
         # Decide se o jogo continua com base na resposta do usuário.
