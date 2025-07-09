@@ -7,7 +7,7 @@ from jogos.forca.jogo_da_forca import jogar_forca
 from jogos.pedra_papel_tesoura.jogo_ppt import jogar_ppt
 from jogos.adivinhacao.adivinhacao import jogar_adivinhacao
 from jogos.quiz.jogo_quiz import quiz
-
+from jogos.jogo_da_velha.jogo_da_velha import jogar_jogo_da_velha
 def exibir_menu_principal():
     """
     Exibe o menu principal do programa e gerencia a escolha do usuário para iniciar os jogos.
@@ -17,7 +17,8 @@ def exibir_menu_principal():
         '2': {"texto": "Forca", "funcao": jogar_forca},
         '3': {"texto": "Pedra, Papel e Tesoura", "funcao": jogar_ppt},
         '4': {"texto": "Quiz", "funcao": quiz},
-        '5': {"texto": "Sair", "funcao": None} # 'None' indica que esta opção encerra o programa
+        '5': {"texto": "Jogo da Velha", "funcao": jogar_jogo_da_velha},
+        '6': {"texto": "Sair", "funcao": None} # 'None' indica que esta opção encerra o programa
     }
 
     while True:
