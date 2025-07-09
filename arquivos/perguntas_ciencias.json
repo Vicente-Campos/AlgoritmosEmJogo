@@ -110,7 +110,1744 @@
     },
     "resposta_correta": "B"
   },
-
+  {
+    "nivel": "facil",
+    "pergunta": "Qual é a estrela que a Terra orbita?",
+    "opcoes": {
+      "A": "Lua",
+      "B": "Sol",
+      "C": "Marte",
+      "D": "Vênus"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "nivel": "facil",
+    "pergunta": "Qual parte do olho é responsável por controlar a quantidade de luz que entra?",
+    "opcoes": {
+      "A": "Retina",
+      "B": "Pupila",
+      "C": "Córnea",
+      "D": "Íris"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "nivel": "facil",
+    "pergunta": "Qual é o nome do cientista que formulou a Teoria da Relatividade?",
+    "opcoes": {
+      "A": "Isaac Newton",
+      "B": "Albert Einstein",
+      "C": "Galileu Galilei",
+      "D": "Nikola Tesla"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "nivel": "facil",
+    "pergunta": "Qual é o nome do gás que respiramos para viver?",
+    "opcoes": {
+      "A": "Dióxido de carbono",
+      "B": "Nitrogênio",
+      "C": "Oxigênio",
+      "D": "Hidrogênio"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "facil",
+    "pergunta": "Qual é a principal função dos dentes?",
+    "opcoes": {
+      "A": "Falar",
+      "B": "Cheirar",
+      "C": "Mastigar alimentos",
+      "D": "Ouvir"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "facil",
+    "pergunta": "Qual é o nome da força que nos puxa para baixo na Terra?",
+    "opcoes": {
+      "A": "Eletricidade",
+      "B": "Magnetismo",
+      "C": "Gravidade",
+      "D": "Atrito"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "facil",
+    "pergunta": "Qual é o maior osso do corpo humano?",
+    "opcoes": {
+      "A": "Rádio",
+      "B": "Fêmur",
+      "C": "Tíbia",
+      "D": "Úmero"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "nivel": "facil",
+    "pergunta": "Qual é o metal mais abundante na crosta terrestre?",
+    "opcoes": {
+      "A": "Ferro",
+      "B": "Ouro",
+      "C": "Alumínio",
+      "D": "Cobre"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "facil",
+    "pergunta": "Qual é o processo pelo qual as plantas fazem seu próprio alimento?",
+    "opcoes": {
+      "A": "Respiração",
+      "B": "Transpiração",
+      "C": "Fotossíntese",
+      "D": "Germinação"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "facil",
+    "pergunta": "Qual é o nome do satélite natural da Terra?",
+    "opcoes": {
+      "A": "Sol",
+      "B": "Marte",
+      "C": "Lua",
+      "D": "Vênus"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "facil",
+    "pergunta": "Qual é o animal que põe ovos e tem bico de pato, mas é um mamífero?",
+    "opcoes": {
+      "A": "Pato",
+      "B": "Ornitorrinco",
+      "C": "Canguru",
+      "D": "Coelho"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "nivel": "facil",
+    "pergunta": "Qual é a cor do céu em um dia ensolarado?",
+    "opcoes": {
+      "A": "Verde",
+      "B": "Vermelho",
+      "C": "Azul",
+      "D": "Amarelo"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "facil",
+    "pergunta": "Qual é o material que usamos para fazer lápis?",
+    "opcoes": {
+      "A": "Plástico",
+      "B": "Borracha",
+      "C": "Grafite e madeira",
+      "D": "Metal"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "facil",
+    "pergunta": "Qual é o estado da água quando está fervendo?",
+    "opcoes": {
+      "A": "Sólido",
+      "B": "Líquido",
+      "C": "Gasoso",
+      "D": "Pastoso"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "facil",
+    "pergunta": "Qual é o nome do maior oceano da Terra?",
+    "opcoes": {
+      "A": "Oceano Atlântico",
+      "B": "Oceano Índico",
+      "C": "Oceano Pacífico",
+      "D": "Oceano Ártico"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "facil",
+    "pergunta": "Qual é a parte da planta que geralmente fica debaixo da terra?",
+    "opcoes": {
+      "A": "Folha",
+      "B": "Flor",
+      "C": "Raiz",
+      "D": "Caule"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "facil",
+    "pergunta": "Qual sentido usamos para ouvir música?",
+    "opcoes": {
+      "A": "Visão",
+      "B": "Olfato",
+      "C": "Audição",
+      "D": "Paladar"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "facil",
+    "pergunta": "Qual é o nome do processo em que a água vira vapor?",
+    "opcoes": {
+      "A": "Condensação",
+      "B": "Solidificação",
+      "C": "Evaporação",
+      "D": "Filtração"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "facil",
+    "pergunta": "Qual gás as plantas absorvem para fazer fotossíntese?",
+    "opcoes": {
+      "A": "Oxigênio",
+      "B": "Nitrogênio",
+      "C": "Dióxido de carbono",
+      "D": "Hélio"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "facil",
+    "pergunta": "Qual é o animal que vive na água e tem guelras para respirar?",
+    "opcoes": {
+      "A": "Pássaro",
+      "B": "Cachorro",
+      "C": "Peixe",
+      "D": "Gato"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "facil",
+    "pergunta": "Qual é o órgão responsável pela digestão dos alimentos no corpo humano?",
+    "opcoes": {
+      "A": "Coração",
+      "B": "Pulmão",
+      "C": "Estômago",
+      "D": "Cérebro"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "facil",
+    "pergunta": "Qual é o nome do ciclo da água na natureza?",
+    "opcoes": {
+      "A": "Ciclo da rocha",
+      "B": "Ciclo do carbono",
+      "C": "Ciclo hidrológico",
+      "D": "Ciclo das estações"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "facil",
+    "pergunta": "Qual é a parte da planta que contém as sementes?",
+    "opcoes": {
+      "A": "Raiz",
+      "B": "Folha",
+      "C": "Fruto",
+      "D": "Caule"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "facil",
+    "pergunta": "Qual é o nome do cientista que descobriu a gravidade ao ver uma maçã cair?",
+    "opcoes": {
+      "A": "Albert Einstein",
+      "B": "Isaac Newton",
+      "C": "Galileu Galilei",
+      "D": "Charles Darwin"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "nivel": "facil",
+    "pergunta": "Qual é o nome do maior animal terrestre?",
+    "opcoes": {
+      "A": "Leão",
+      "B": "Elefante",
+      "C": "Girafa",
+      "D": "Urso"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "nivel": "facil",
+    "pergunta": "Qual é o nome da camada de gás que protege a Terra dos raios ultravioleta nocivos?",
+    "opcoes": {
+      "A": "Troposfera",
+      "B": "Estratosfera (camada de ozônio)",
+      "C": "Mesosfera",
+      "D": "Termosfera"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "nivel": "facil",
+    "pergunta": "Qual é a fonte de energia renovável que vem do sol?",
+    "opcoes": {
+      "A": "Energia eólica",
+      "B": "Energia solar",
+      "C": "Energia hidrelétrica",
+      "D": "Energia nuclear"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "nivel": "facil",
+    "pergunta": "Qual é o nome do líquido vermelho que corre em nossas veias?",
+    "opcoes": {
+      "A": "Água",
+      "B": "Suco",
+      "C": "Sangue",
+      "D": "Leite"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "facil",
+    "pergunta": "Qual é o nome do aparelho que usamos para ver coisas muito pequenas, como células?",
+    "opcoes": {
+      "A": "Telescópio",
+      "B": "Microscópio",
+      "C": "Binóculo",
+      "D": "Câmera"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "nivel": "facil",
+    "pergunta": "Qual é o nome do fenômeno natural onde a Terra treme?",
+    "opcoes": {
+      "A": "Erupção vulcânica",
+      "B": "Tsunami",
+      "C": "Terremoto",
+      "D": "Furacão"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "facil",
+    "pergunta": "Qual é o planeta famoso por seus anéis?",
+    "opcoes": {
+      "A": "Júpiter",
+      "B": "Urano",
+      "C": "Saturno",
+      "D": "Netuno"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "facil",
+    "pergunta": "Qual é o nome do processo de transformação de lagartas em borboletas?",
+    "opcoes": {
+      "A": "Reprodução",
+      "B": "Germinação",
+      "C": "Metamorfose",
+      "D": "Evolução"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "facil",
+    "pergunta": "Qual é o gás que as plantas liberam para a atmosfera?",
+    "opcoes": {
+      "A": "Dióxido de carbono",
+      "B": "Nitrogênio",
+      "C": "Oxigênio",
+      "D": "Metano"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "facil",
+    "pergunta": "Qual é o nome da parte do cérebro responsável pelo equilíbrio e coordenação?",
+    "opcoes": {
+      "A": "Córtex cerebral",
+      "B": "Cerebelo",
+      "C": "Tronco encefálico",
+      "D": "Hipotálamo"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "nivel": "facil",
+    "pergunta": "Qual é o maior mamífero do mundo?",
+    "opcoes": {
+      "A": "Elefante",
+      "B": "Baleia-azul",
+      "C": "Hipopótamo",
+      "D": "Urso polar"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "nivel": "facil",
+    "pergunta": "Qual é o componente principal do ar que respiramos, mas que não usamos diretamente na respiração?",
+    "opcoes": {
+      "A": "Oxigênio",
+      "B": "Dióxido de carbono",
+      "C": "Nitrogênio",
+      "D": "Argônio"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "facil",
+    "pergunta": "Qual é o nome do instrumento que mede a temperatura?",
+    "opcoes": {
+      "A": "Barômetro",
+      "B": "Termômetro",
+      "C": "Higrômetro",
+      "D": "Anemômetro"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "nivel": "facil",
+    "pergunta": "Qual é a parte da flor que atrai insetos para a polinização?",
+    "opcoes": {
+      "A": "Raiz",
+      "B": "Folha",
+      "C": "Pétala",
+      "D": "Caule"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "facil",
+    "pergunta": "Qual é o estado da água na nuvem antes de chover?",
+    "opcoes": {
+      "A": "Sólido",
+      "B": "Líquido",
+      "C": "Gasoso (vapor de água condensado)",
+      "D": "Plasma"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "facil",
+    "pergunta": "Qual é o nome do aparelho que nos permite ver objetos distantes no espaço?",
+    "opcoes": {
+      "A": "Microscópio",
+      "B": "Telescópio",
+      "C": "Binóculo",
+      "D": "Lupa"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "nivel": "facil",
+    "pergunta": "Qual é o tipo de energia produzida pelo movimento do vento?",
+    "opcoes": {
+      "A": "Solar",
+      "B": "Hidrelétrica",
+      "C": "Eólica",
+      "D": "Geotérmica"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "facil",
+    "pergunta": "Qual é o processo em que a água da chuva volta para a terra?",
+    "opcoes": {
+      "A": "Evaporação",
+      "B": "Condensação",
+      "C": "Precipitação",
+      "D": "Infiltração"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "facil",
+    "pergunta": "Qual é o nome da parte do corpo que contém o cérebro?",
+    "opcoes": {
+      "A": "Peito",
+      "B": "Barriga",
+      "C": "Cabeça",
+      "D": "Pé"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "facil",
+    "pergunta": "Qual é o nome da força que faz com que os objetos caiam?",
+    "opcoes": {
+      "A": "Flutuação",
+      "B": "Impulso",
+      "C": "Gravidade",
+      "D": "Atrito"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "facil",
+    "pergunta": "Qual é o nome do animal que se arrasta e não tem pernas?",
+    "opcoes": {
+      "A": "Pássaro",
+      "B": "Cachorro",
+      "C": "Cobra",
+      "D": "Lagarto"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "facil",
+    "pergunta": "Qual é a principal função dos olhos?",
+    "opcoes": {
+      "A": "Cheirar",
+      "B": "Ouvir",
+      "C": "Ver",
+      "D": "Tocar"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "facil",
+    "pergunta": "Qual é o nome da ciência que estuda os animais?",
+    "opcoes": {
+      "A": "Botânica",
+      "B": "Geologia",
+      "C": "Zoologia",
+      "D": "Astronomia"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "facil",
+    "pergunta": "Qual é o nome do processo em que a planta cresce a partir de uma semente?",
+    "opcoes": {
+      "A": "Fotossíntese",
+      "B": "Polinização",
+      "C": "Germinação",
+      "D": "Reprodução"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "facil",
+    "pergunta": "Qual é o nome da energia que vem da queima de combustíveis fósseis?",
+    "opcoes": {
+      "A": "Eólica",
+      "B": "Solar",
+      "C": "Química",
+      "D": "Hidrelétrica"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "facil",
+    "pergunta": "Qual é o nome do maior deserto quente do mundo?",
+    "opcoes": {
+      "A": "Deserto do Saara",
+      "B": "Deserto do Atacama",
+      "C": "Deserto de Gobi",
+      "D": "Deserto da Arábia"
+    },
+    "resposta_correta": "A"
+  },
+  {
+    "nivel": "facil",
+    "pergunta": "Qual é o nome do tipo de rocha que se forma a partir do resfriamento do magma?",
+    "opcoes": {
+      "A": "Rocha sedimentar",
+      "B": "Rocha metamórfica",
+      "C": "Rocha ígnea (magmática)",
+      "D": "Rocha calcária"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "facil",
+    "pergunta": "Qual é o nome do cientista que propôs a Teoria da Evolução?",
+    "opcoes": {
+      "A": "Isaac Newton",
+      "B": "Albert Einstein",
+      "C": "Charles Darwin",
+      "D": "Marie Curie"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "facil",
+    "pergunta": "Qual é o nome do menor planeta do sistema solar?",
+    "opcoes": {
+      "A": "Marte",
+      "B": "Vênus",
+      "C": "Mercúrio",
+      "D": "Plutão (planeta anão)"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "facil",
+    "pergunta": "Qual é o nome da principal fonte de luz e calor para a Terra?",
+    "opcoes": {
+      "A": "Lua",
+      "B": "Estrelas",
+      "C": "Sol",
+      "D": "Lâmpadas"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "facil",
+    "pergunta": "Qual é o nome do processo de produção de energia nas células?",
+    "opcoes": {
+      "A": "Fotossíntese",
+      "B": "Respiração celular",
+      "C": "Digestão",
+      "D": "Circulação"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "nivel": "facil",
+    "pergunta": "Qual é o nome do esqueleto que sustenta o corpo humano?",
+    "opcoes": {
+      "A": "Músculos",
+      "B": "Pele",
+      "C": "Ossos",
+      "D": "Cabelo"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "facil",
+    "pergunta": "Qual é o nome da camada de terra onde as plantas crescem?",
+    "opcoes": {
+      "A": "Rocha",
+      "B": "Areia",
+      "C": "Solo",
+      "D": "Argila"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "facil",
+    "pergunta": "Qual é o nome do gás tóxico produzido pelos carros?",
+    "opcoes": {
+      "A": "Oxigênio",
+      "B": "Nitrogênio",
+      "C": "Monóxido de carbono",
+      "D": "Vapor de água"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "facil",
+    "pergunta": "Qual é o nome da parte do sistema digestório onde a absorção da maioria dos nutrientes acontece?",
+    "opcoes": {
+      "A": "Estômago",
+      "B": "Intestino grosso",
+      "C": "Intestino delgado",
+      "D": "Esôfago"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "facil",
+    "pergunta": "Qual é o nome do fenômeno em que a luz se divide em várias cores (como no arco-íris)?",
+    "opcoes": {
+      "A": "Reflexão",
+      "B": "Refração",
+      "C": "Dispersão",
+      "D": "Absorção"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "facil",
+    "pergunta": "Qual é o nome da unidade de medida de tempo de um ano?",
+    "opcoes": {
+      "A": "Hora",
+      "B": "Dia",
+      "C": "Mês",
+      "D": "Ano"
+    },
+    "resposta_correta": "D"
+  },
+  {
+    "nivel": "facil",
+    "pergunta": "Qual é o nome da ciência que estuda as plantas?",
+    "opcoes": {
+      "A": "Zoologia",
+      "B": "Geografia",
+      "C": "Botânica",
+      "D": "Química"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "facil",
+    "pergunta": "Qual é o nome do processo em que a água líquida vira gelo?",
+    "opcoes": {
+      "A": "Evaporação",
+      "B": "Condensação",
+      "C": "Solidificação",
+      "D": "Fusão"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "facil",
+    "pergunta": "Qual é o nome do maior órgão do corpo humano?",
+    "opcoes": {
+      "A": "Coração",
+      "B": "Cérebro",
+      "C": "Pele",
+      "D": "Pulmão"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "facil",
+    "pergunta": "Qual é o nome do cientista que descobriu a penicilina?",
+    "opcoes": {
+      "A": "Louis Pasteur",
+      "B": "Alexander Fleming",
+      "C": "Robert Koch",
+      "D": "Edward Jenner"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "nivel": "facil",
+    "pergunta": "Qual é o nome do processo de poluição do ar?",
+    "opcoes": {
+      "A": "Desmatamento",
+      "B": "Erosão",
+      "C": "Emissão de poluentes",
+      "D": "Salinização"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "facil",
+    "pergunta": "Qual é o nome do animal que constrói teias para capturar presas?",
+    "opcoes": {
+      "A": "Formiga",
+      "B": "Abelha",
+      "C": "Aranha",
+      "D": "Borboleta"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "facil",
+    "pergunta": "Qual é o nome da parte do sistema nervoso que controla os pensamentos e movimentos voluntários?",
+    "opcoes": {
+      "A": "Medula espinhal",
+      "B": "Cerebelo",
+      "C": "Cérebro",
+      "D": "Nervos"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "facil",
+    "pergunta": "Qual é o nome da ciência que estuda as estrelas e os planetas?",
+    "opcoes": {
+      "A": "Geologia",
+      "B": "Biologia",
+      "C": "Astronomia",
+      "D": "Química"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "facil",
+    "pergunta": "Qual é o nome da energia que usamos para ligar as luzes e aparelhos eletrônicos?",
+    "opcoes": {
+      "A": "Energia mecânica",
+      "B": "Energia térmica",
+      "C": "Energia elétrica",
+      "D": "Energia sonora"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "facil",
+    "pergunta": "Qual é o nome da parte da planta que produz pólen?",
+    "opcoes": {
+      "A": "Folha",
+      "B": "Raiz",
+      "C": "Flor (anteras)",
+      "D": "Fruto"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "facil",
+    "pergunta": "Qual é o nome do aparelho que serve para medir o tempo?",
+    "opcoes": {
+      "A": "Régua",
+      "B": "Balança",
+      "C": "Relógio",
+      "D": "Termômetro"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "facil",
+    "pergunta": "Qual é o nome do processo em que a água líquida vira vapor e sobe para o céu?",
+    "opcoes": {
+      "A": "Condensação",
+      "B": "Precipitação",
+      "C": "Evaporação",
+      "D": "Infiltração"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "facil",
+    "pergunta": "Qual é o nome do animal que é conhecido por sua lentidão?",
+    "opcoes": {
+      "A": "Guepardo",
+      "B": "Coelho",
+      "C": "Preguiça",
+      "D": "Cavalo"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "facil",
+    "pergunta": "Qual é a principal função do nariz?",
+    "opcoes": {
+      "A": "Ouvir",
+      "B": "Ver",
+      "C": "Cheirar",
+      "D": "Tocar"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "facil",
+    "pergunta": "Qual é o nome do cientista que descobriu as leis do movimento?",
+    "opcoes": {
+      "A": "Albert Einstein",
+      "B": "Charles Darwin",
+      "C": "Isaac Newton",
+      "D": "Stephen Hawking"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "facil",
+    "pergunta": "Qual é o nome do nosso sistema planetário?",
+    "opcoes": {
+      "A": "Via Láctea",
+      "B": "Sistema Solar",
+      "C": "Andrômeda",
+      "D": "Nebulosa"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "nivel": "facil",
+    "pergunta": "Qual é o nome da parte do sistema respiratório que leva o ar aos pulmões?",
+    "opcoes": {
+      "A": "Estômago",
+      "B": "Coração",
+      "C": "Traqueia",
+      "D": "Intestino"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "facil",
+    "pergunta": "Qual é o nome da energia que vem da água em movimento, como em cachoeiras?",
+    "opcoes": {
+      "A": "Energia eólica",
+      "B": "Energia solar",
+      "C": "Energia hidrelétrica",
+      "D": "Energia geotérmica"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "facil",
+    "pergunta": "Qual é o nome do fenômeno em que o Sol desaparece temporariamente no céu durante o dia?",
+    "opcoes": {
+      "A": "Aurora Boreal",
+      "B": "Eclipse solar",
+      "C": "Pôr do sol",
+      "D": "Nascer do sol"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "nivel": "facil",
+    "pergunta": "Qual é o nome da substância que dá a cor verde às plantas?",
+    "opcoes": {
+      "A": "Água",
+      "B": "Clorofila",
+      "C": "Solo",
+      "D": "Luz solar"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "nivel": "facil",
+    "pergunta": "Qual é o nome da parte do sistema esquelético que protege o cérebro?",
+    "opcoes": {
+      "A": "Coluna vertebral",
+      "B": "Caixa torácica",
+      "C": "Crânio",
+      "D": "Pelve"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "facil",
+    "pergunta": "Qual é o nome do animal que é o rei da selva?",
+    "opcoes": {
+      "A": "Tigre",
+      "B": "Urso",
+      "C": "Leão",
+      "D": "Macaco"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "facil",
+    "pergunta": "Qual é o nome da doença causada pela falta de vitamina C?",
+    "opcoes": {
+      "A": "Gripe",
+      "B": "Escorbuto",
+      "C": "Diabetes",
+      "D": "Sarampo"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "nivel": "facil",
+    "pergunta": "Qual é o nome do movimento da Terra em torno de seu próprio eixo, que causa o dia e a noite?",
+    "opcoes": {
+      "A": "Translação",
+      "B": "Rotação",
+      "C": "Revolução",
+      "D": "Orbita"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "nivel": "facil",
+    "pergunta": "Qual é o nome do fenômeno em que a luz ricocheteia em uma superfície (como um espelho)?",
+    "opcoes": {
+      "A": "Refração",
+      "B": "Dispersão",
+      "C": "Reflexão",
+      "D": "Absorção"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "facil",
+    "pergunta": "Qual é o nome do aparelho que serve para pesar objetos?",
+    "opcoes": {
+      "A": "Relógio",
+      "B": "Termômetro",
+      "C": "Balança",
+      "D": "Régua"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "facil",
+    "pergunta": "Qual é o nome da camada mais externa da Terra, onde vivemos?",
+    "opcoes": {
+      "A": "Manto",
+      "B": "Núcleo",
+      "C": "Crosta",
+      "D": "Atmosfera"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "facil",
+    "pergunta": "Qual é o nome do tipo de energia que vem do calor do interior da Terra?",
+    "opcoes": {
+      "A": "Eólica",
+      "B": "Solar",
+      "C": "Geotérmica",
+      "D": "Hidrelétrica"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "facil",
+    "pergunta": "Qual é o nome do animal que muda de cor para se camuflar?",
+    "opcoes": {
+      "A": "Leão",
+      "B": "Elefante",
+      "C": "Camaleão",
+      "D": "Macaco"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "facil",
+    "pergunta": "Qual é o nome da parte do sistema urinário que filtra o sangue?",
+    "opcoes": {
+      "A": "Bexiga",
+      "B": "Ureter",
+      "C": "Rim",
+      "D": "Uretra"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "facil",
+    "pergunta": "Qual é o nome do fenômeno em que a Terra gira em torno do Sol, causando as estações do ano?",
+    "opcoes": {
+      "A": "Rotação",
+      "B": "Translação",
+      "C": "Revolução",
+      "D": "Eclíptica"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "nivel": "facil",
+    "pergunta": "Qual é o nome do processo de decomposição de matéria orgânica por microrganismos?",
+    "opcoes": {
+      "A": "Fotossíntese",
+      "B": "Fossilização",
+      "C": "Decomposição",
+      "D": "Mineralização"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "facil",
+    "pergunta": "Qual é o nome do processo em que uma rocha se quebra em pedaços menores?",
+    "opcoes": {
+      "A": "Sedimentação",
+      "B": "Erosão",
+      "C": "Intemperismo",
+      "D": "Deposição"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "facil",
+    "pergunta": "Qual é o nome da força que puxa os imãs um para o outro ou os empurra para longe?",
+    "opcoes": {
+      "A": "Gravidade",
+      "B": "Eletricidade",
+      "C": "Magnetismo",
+      "D": "Atrito"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "facil",
+    "pergunta": "Qual é o nome do animal que tem um casco e é muito lento?",
+    "opcoes": {
+      "A": "Coelho",
+      "B": "Tartaruga",
+      "C": "Cachorro",
+      "D": "Macaco"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "nivel": "facil",
+    "pergunta": "Qual é o nome da ciência que estuda a composição e as propriedades da matéria?",
+    "opcoes": {
+      "A": "Física",
+      "B": "Biologia",
+      "C": "Química",
+      "D": "Geologia"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "facil",
+    "pergunta": "Qual é o nome da parte do sistema circulatório que transporta o sangue para fora do coração?",
+    "opcoes": {
+      "A": "Veia",
+      "B": "Capilar",
+      "C": "Artéria",
+      "D": "Vênula"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "facil",
+    "pergunta": "Qual é o nome do gás que as bebidas gaseificadas contêm?",
+    "opcoes": {
+      "A": "Oxigênio",
+      "B": "Nitrogênio",
+      "C": "Dióxido de carbono",
+      "D": "Hélio"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "facil",
+    "pergunta": "Qual é o nome do instrumento que usamos para ver as horas?",
+    "opcoes": {
+      "A": "Termômetro",
+      "B": "Balança",
+      "C": "Relógio",
+      "D": "Régua"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "facil",
+    "pergunta": "Qual é o nome da parte do sistema respiratório onde ocorrem as trocas gasosas?",
+    "opcoes": {
+      "A": "Traqueia",
+      "B": "Brônquios",
+      "C": "Alvéolos pulmonares",
+      "D": "Nariz"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "facil",
+    "pergunta": "Qual é o nome do processo em que as plantas liberam vapor de água para a atmosfera?",
+    "opcoes": {
+      "A": "Fotossíntese",
+      "B": "Respiração",
+      "C": "Transpiração",
+      "D": "Absorção"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "facil",
+    "pergunta": "Qual é o nome do fenômeno em que a Terra e a Lua se alinham com o Sol, causando a escuridão da Lua?",
+    "opcoes": {
+      "A": "Eclipse solar",
+      "B": "Eclipse lunar",
+      "C": "Fase da Lua nova",
+      "D": "Fase da Lua cheia"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "nivel": "facil",
+    "pergunta": "Qual é o nome do tipo de energia que vem do movimento da água?",
+    "opcoes": {
+      "A": "Eólica",
+      "B": "Solar",
+      "C": "Hidrelétrica",
+      "D": "Geotérmica"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "facil",
+    "pergunta": "Qual é o nome do planeta que é conhecido como o Gigante Gasoso?",
+    "opcoes": {
+      "A": "Marte",
+      "B": "Vênus",
+      "C": "Júpiter",
+      "D": "Terra"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "facil",
+    "pergunta": "Qual é o nome da camada de gelo que cobre as regiões polares da Terra?",
+    "opcoes": {
+      "A": "Deserto",
+      "B": "Floresta",
+      "C": "Calota polar",
+      "D": "Oceano"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "facil",
+    "pergunta": "Qual é o nome do sistema do corpo humano que nos permite respirar?",
+    "opcoes": {
+      "A": "Sistema digestório",
+      "B": "Sistema circulatório",
+      "C": "Sistema respiratório",
+      "D": "Sistema nervoso"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "facil",
+    "pergunta": "Qual é o nome da parte da planta que absorve água e nutrientes do solo?",
+    "opcoes": {
+      "A": "Folha",
+      "B": "Flor",
+      "C": "Raiz",
+      "D": "Fruto"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "facil",
+    "pergunta": "Qual é o nome do gás que as plantas liberam para a atmosfera durante o dia?",
+    "opcoes": {
+      "A": "Dióxido de carbono",
+      "B": "Nitrogênio",
+      "C": "Oxigênio",
+      "D": "Hélio"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "facil",
+    "pergunta": "Qual é o nome do fenômeno em que a água líquida congela?",
+    "opcoes": {
+      "A": "Evaporação",
+      "B": "Condensação",
+      "C": "Solidificação",
+      "D": "Fusão"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "facil",
+    "pergunta": "Qual é o nome do animal que é o maior réptil vivo?",
+    "opcoes": {
+      "A": "Lagarto",
+      "B": "Cobra",
+      "C": "Crocodilo de água salgada",
+      "D": "Tartaruga"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "facil",
+    "pergunta": "Qual é o nome da parte do olho que é sensível à luz?",
+    "opcoes": {
+      "A": "Pupila",
+      "B": "Íris",
+      "C": "Retina",
+      "D": "Córnea"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "facil",
+    "pergunta": "Qual é o nome da camada de gás que envolve a Terra?",
+    "opcoes": {
+      "A": "Litosfera",
+      "B": "Hidrosfera",
+      "C": "Atmosfera",
+      "D": "Biosfera"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "facil",
+    "pergunta": "Qual é o nome do planeta conhecido por seu sistema de anéis, visíveis da Terra?",
+    "opcoes": {
+      "A": "Júpiter",
+      "B": "Urano",
+      "C": "Saturno",
+      "D": "Netuno"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "facil",
+    "pergunta": "Qual é o nome do sistema do corpo humano que nos permite digerir os alimentos?",
+    "opcoes": {
+      "A": "Sistema respiratório",
+      "B": "Sistema circulatório",
+      "C": "Sistema digestório",
+      "D": "Sistema nervoso"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "facil",
+    "pergunta": "Qual é o nome da parte da planta que se transforma em fruto?",
+    "opcoes": {
+      "A": "Raiz",
+      "B": "Folha",
+      "C": "Flor",
+      "D": "Caule"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "facil",
+    "pergunta": "Qual é o nome do gás que faz parte do ar, mas não é usado na respiração dos humanos?",
+    "opcoes": {
+      "A": "Oxigênio",
+      "B": "Dióxido de carbono",
+      "C": "Nitrogênio",
+      "D": "Vapor de água"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "facil",
+    "pergunta": "Qual é o nome do processo em que o gelo vira água líquida?",
+    "opcoes": {
+      "A": "Solidificação",
+      "B": "Evaporação",
+      "C": "Fusão",
+      "D": "Condensação"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "facil",
+    "pergunta": "Qual é o nome do maior peixe do mundo?",
+    "opcoes": {
+      "A": "Tubarão-branco",
+      "B": "Baleia-orca",
+      "C": "Tubarão-baleia",
+      "D": "Atum"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "facil",
+    "pergunta": "Qual é o nome do planeta conhecido por ter uma Grande Mancha Vermelha?",
+    "opcoes": {
+      "A": "Marte",
+      "B": "Saturno",
+      "C": "Júpiter",
+      "D": "Netuno"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "facil",
+    "pergunta": "Qual é o nome da parte do sistema nervoso que controla os reflexos?",
+    "opcoes": {
+      "A": "Cérebro",
+      "B": "Cerebelo",
+      "C": "Medula espinhal",
+      "D": "Nervos"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "facil",
+    "pergunta": "Qual é o nome da ciência que estuda a Terra, suas rochas e fenômenos?",
+    "opcoes": {
+      "A": "Biologia",
+      "B": "Astronomia",
+      "C": "Geologia",
+      "D": "Química"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "facil",
+    "pergunta": "Qual é o nome do tipo de energia que é produzida pelo Sol?",
+    "opcoes": {
+      "A": "Eólica",
+      "B": "Solar",
+      "C": "Hidrelétrica",
+      "D": "Nuclear"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "nivel": "facil",
+    "pergunta": "Qual é o nome do processo em que as plantas absorvem luz para produzir alimento?",
+    "opcoes": {
+      "A": "Respiração",
+      "B": "Transpiração",
+      "C": "Fotossíntese",
+      "D": "Germinação"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "facil",
+    "pergunta": "Qual é o nome da parte do corpo que contém os pulmões e o coração?",
+    "opcoes": {
+      "A": "Abdômen",
+      "B": "Cabeça",
+      "C": "Tórax",
+      "D": "Pescoço"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "facil",
+    "pergunta": "Qual é o nome do animal que é famoso por sua longa memória e tromba?",
+    "opcoes": {
+      "A": "Leão",
+      "B": "Girafa",
+      "C": "Elefante",
+      "D": "Urso"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "facil",
+    "pergunta": "Qual é o nome do sistema do corpo humano que é responsável por nos mover?",
+    "opcoes": {
+      "A": "Sistema digestório",
+      "B": "Sistema circulatório",
+      "C": "Sistema muscular",
+      "D": "Sistema respiratório"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "facil",
+    "pergunta": "Qual é o nome do planeta que é o nosso vizinho mais próximo e tem muitas nuvens densas?",
+    "opcoes": {
+      "A": "Marte",
+      "B": "Mercúrio",
+      "C": "Vênus",
+      "D": "Júpiter"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "facil",
+    "pergunta": "Qual é o nome do processo em que o vapor de água nas nuvens vira líquido e forma gotas de chuva?",
+    "opcoes": {
+      "A": "Evaporação",
+      "B": "Solidificação",
+      "C": "Condensação",
+      "D": "Precipitação"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "facil",
+    "pergunta": "Qual é o nome do menor osso do corpo humano?",
+    "opcoes": {
+      "A": "Fêmur",
+      "B": "Estribo (no ouvido)",
+      "C": "Úmero",
+      "D": "Tíbia"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "nivel": "facil",
+    "pergunta": "Qual é o nome da parte da célula que é como o 'cérebro' e controla suas atividades?",
+    "opcoes": {
+      "A": "Membrana",
+      "B": "Citoplasma",
+      "C": "Núcleo",
+      "D": "Mitocôndria"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "facil",
+    "pergunta": "Qual é o nome do animal que é o mais rápido do mundo?",
+    "opcoes": {
+      "A": "Leão",
+      "B": "Elefante",
+      "C": "Guepardo",
+      "D": "Girafa"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "facil",
+    "pergunta": "Qual é o nome do aparelho que serve para medir a pressão atmosférica?",
+    "opcoes": {
+      "A": "Termômetro",
+      "B": "Relógio",
+      "C": "Barômetro",
+      "D": "Anemômetro"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "facil",
+    "pergunta": "Qual é o nome do processo em que o lixo orgânico se transforma em adubo?",
+    "opcoes": {
+      "A": "Reciclagem",
+      "B": "Queima",
+      "C": "Compostagem",
+      "D": "Aterro"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "facil",
+    "pergunta": "Qual é o nome da parte do sistema digestório que absorve a água dos alimentos?",
+    "opcoes": {
+      "A": "Estômago",
+      "B": "Intestino delgado",
+      "C": "Intestino grosso",
+      "D": "Esôfago"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "facil",
+    "pergunta": "Qual é o nome do fenômeno em que a luz passa por um meio e muda de direção?",
+    "opcoes": {
+      "A": "Reflexão",
+      "B": "Dispersão",
+      "C": "Refração",
+      "D": "Absorção"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "facil",
+    "pergunta": "Qual é o nome do sistema do corpo humano que nos permite pensar e sentir?",
+    "opcoes": {
+      "A": "Sistema muscular",
+      "B": "Sistema circulatório",
+      "C": "Sistema nervoso",
+      "D": "Sistema endócrino"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "facil",
+    "pergunta": "Qual é o nome do animal que vive tanto na água quanto na terra?",
+    "opcoes": {
+      "A": "Pássaro",
+      "B": "Peixe",
+      "C": "Anfíbio (ex: sapo)",
+      "D": "Cachorro"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "facil",
+    "pergunta": "Qual é o nome da energia produzida pela fissão ou fusão de átomos?",
+    "opcoes": {
+      "A": "Solar",
+      "B": "Eólica",
+      "C": "Nuclear",
+      "D": "Hidrelétrica"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "facil",
+    "pergunta": "Qual é o nome do gás mais abundante na atmosfera terrestre?",
+    "opcoes": {
+      "A": "Oxigênio",
+      "B": "Dióxido de carbono",
+      "C": "Nitrogênio",
+      "D": "Argônio"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "facil",
+    "pergunta": "Qual é o nome do cientista que formulou a lei da conservação da massa?",
+    "opcoes": {
+      "A": "Marie Curie",
+      "B": "John Dalton",
+      "C": "Antoine Lavoisier",
+      "D": "Robert Boyle"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "facil",
+    "pergunta": "Qual é o nome da parte do sistema circulatório que transporta o sangue de volta ao coração?",
+    "opcoes": {
+      "A": "Artéria",
+      "B": "Capilar",
+      "C": "Veia",
+      "D": "Arteríola"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "facil",
+    "pergunta": "Qual é o nome do processo em que a luz solar é convertida em energia elétrica?",
+    "opcoes": {
+      "A": "Fotossíntese",
+      "B": "Eletrolise",
+      "C": "Efeito fotovoltaico",
+      "D": "Reação nuclear"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "facil",
+    "pergunta": "Qual é o nome do fenômeno em que a Terra e o Sol se alinham com a Lua, causando a escuridão do Sol?",
+    "opcoes": {
+      "A": "Eclipse lunar",
+      "B": "Eclipse solar",
+      "C": "Fase da Lua cheia",
+      "D": "Fase da Lua nova"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "nivel": "facil",
+    "pergunta": "Qual é o nome do processo em que os nutrientes dos alimentos são usados pelo corpo?",
+    "opcoes": {
+      "A": "Digestão",
+      "B": "Excreção",
+      "C": "Absorção",
+      "D": "Mastigação"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "facil",
+    "pergunta": "Qual é o nome do tipo de rocha que se forma a partir de camadas de sedimentos?",
+    "opcoes": {
+      "A": "Rocha ígnea",
+      "B": "Rocha metamórfica",
+      "C": "Rocha sedimentar",
+      "D": "Rocha vulcânica"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "facil",
+    "pergunta": "Qual é o nome do aparelho que serve para medir distâncias?",
+    "opcoes": {
+      "A": "Balança",
+      "B": "Termômetro",
+      "C": "Régua/Trena",
+      "D": "Relógio"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "facil",
+    "pergunta": "Qual é o nome da parte do sistema respiratório que é composta por milhões de pequenas bolsas de ar?",
+    "opcoes": {
+      "A": "Traqueia",
+      "B": "Brônquios",
+      "C": "Alvéolos pulmonares",
+      "D": "Faringe"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "facil",
+    "pergunta": "Qual é o nome do processo em que a planta perde água através das folhas?",
+    "opcoes": {
+      "A": "Fotossíntese",
+      "B": "Respiração",
+      "C": "Transpiração",
+      "D": "Germinação"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "facil",
+    "pergunta": "Qual é o nome do animal que é um parente próximo dos dinossauros e põe ovos?",
+    "opcoes": {
+      "A": "Mamífero",
+      "B": "Ave",
+      "C": "Réptil (ex: crocodilo, lagarto)",
+      "D": "Anfíbio"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "facil",
+    "pergunta": "Qual é o nome do cientista que é considerado o 'pai da genética'?",
+    "opcoes": {
+      "A": "Charles Darwin",
+      "B": "Louis Pasteur",
+      "C": "Gregor Mendel",
+      "D": "James Watson"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "facil",
+    "pergunta": "Qual é o nome do sistema do corpo humano que é responsável por proteger o corpo contra doenças?",
+    "opcoes": {
+      "A": "Sistema digestório",
+      "B": "Sistema circulatório",
+      "C": "Sistema imunológico",
+      "D": "Sistema nervoso"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "facil",
+    "pergunta": "Qual é o nome do planeta que é conhecido como a 'Estrela da Manhã' ou 'Estrela da Tarde'?",
+    "opcoes": {
+      "A": "Marte",
+      "B": "Mercúrio",
+      "C": "Vênus",
+      "D": "Júpiter"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "facil",
+    "pergunta": "Qual é o nome do processo em que o vapor de água no ar se transforma em pequenas gotas de água, formando nuvens?",
+    "opcoes": {
+      "A": "Evaporação",
+      "B": "Solidificação",
+      "C": "Condensação",
+      "D": "Precipitação"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "facil",
+    "pergunta": "Qual é o nome do maior órgão interno do corpo humano?",
+    "opcoes": {
+      "A": "Coração",
+      "B": "Pulmão",
+      "C": "Fígado",
+      "D": "Cérebro"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "facil",
+    "pergunta": "Qual é o nome da parte da planta que produz as flores?",
+    "opcoes": {
+      "A": "Raiz",
+      "B": "Folha",
+      "C": "Caule",
+      "D": "Flor"
+    },
+    "resposta_correta": "D"
+  },
+  {
+    "nivel": "facil",
+    "pergunta": "Qual é o nome do gás que as plantas absorvem da atmosfera para fazer fotossíntese?",
+    "opcoes": {
+      "A": "Oxigênio",
+      "B": "Nitrogênio",
+      "C": "Dióxido de carbono",
+      "D": "Hélio"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "facil",
+    "pergunta": "Qual é o nome do sistema do corpo humano que é responsável pela reprodução?",
+    "opcoes": {
+      "A": "Sistema digestório",
+      "B": "Sistema circulatório",
+      "C": "Sistema reprodutor",
+      "D": "Sistema nervoso"
+    },
+    "resposta_correta": "C"
+  },
 
   {
     "nivel": "medio",
@@ -222,7 +1959,1579 @@
     },
     "resposta_correta": "B"
   },
-
+  {
+    "nivel": "medio",
+    "pergunta": "Qual é a estrutura celular responsável pela produção de proteínas?",
+    "opcoes": {
+      "A": "Mitocôndria",
+      "B": "Núcleo",
+      "C": "Ribossomo",
+      "D": "Retículo Endoplasmático"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual é o nome do processo de divisão celular que resulta em células-filhas idênticas?",
+    "opcoes": {
+      "A": "Meiose",
+      "B": "Mitose",
+      "C": "Crescimento",
+      "D": "Fecundação"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual é o fenômeno que explica por que o céu é azul?",
+    "opcoes": {
+      "A": "Reflexão",
+      "B": "Refração",
+      "C": "Dispersão de Rayleigh",
+      "D": "Absorção"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual é o principal componente do nosso ar que é inerte e não reage facilmente?",
+    "opcoes": {
+      "A": "Oxigênio",
+      "B": "Dióxido de carbono",
+      "C": "Nitrogênio",
+      "D": "Argônio"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual é a unidade de medida de força no Sistema Internacional?",
+    "opcoes": {
+      "A": "Joule",
+      "B": "Watt",
+      "C": "Newton",
+      "D": "Pascal"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual é o nome da teoria que descreve a origem e evolução do universo?",
+    "opcoes": {
+      "A": "Teoria da Relatividade",
+      "B": "Teoria da Evolução",
+      "C": "Teoria do Big Bang",
+      "D": "Teoria Quântica"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual é o principal gás liberado durante a decomposição anaeróbica da matéria orgânica?",
+    "opcoes": {
+      "A": "Dióxido de carbono",
+      "B": "Oxigênio",
+      "C": "Metano",
+      "D": "Monóxido de carbono"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual é o nome do hormônio que regula o nível de açúcar no sangue?",
+    "opcoes": {
+      "A": "Adrenalina",
+      "B": "Tiroxina",
+      "C": "Insulina",
+      "D": "Estrogênio"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual é o tipo de rocha formada pelo acúmulo e compactação de sedimentos?",
+    "opcoes": {
+      "A": "Rocha ígnea",
+      "B": "Rocha metamórfica",
+      "C": "Rocha sedimentar",
+      "D": "Rocha vulcânica"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual é o elemento químico mais abundante no universo?",
+    "opcoes": {
+      "A": "Oxigênio",
+      "B": "Carbono",
+      "C": "Hidrogênio",
+      "D": "Hélio"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual é a camada da atmosfera terrestre onde ocorrem os fenômenos meteorológicos?",
+    "opcoes": {
+      "A": "Estratosfera",
+      "B": "Mesosfera",
+      "C": "Troposfera",
+      "D": "Termosfera"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual é o processo de separação de misturas baseado na diferença de pontos de ebulição?",
+    "opcoes": {
+      "A": "Filtração",
+      "B": "Decantação",
+      "C": "Destilação",
+      "D": "Cromatografia"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual é o nome da estrutura celular responsável pela respiração celular e produção de ATP?",
+    "opcoes": {
+      "A": "Cloroplasto",
+      "B": "Mitocôndria",
+      "C": "Lisossomo",
+      "D": "Vacúolo"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual é o nome da glândula endócrina que regula o metabolismo basal do corpo?",
+    "opcoes": {
+      "A": "Hipófise",
+      "B": "Adrenal",
+      "C": "Tireoide",
+      "D": "Pâncreas"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual é a lei da física que afirma que toda ação tem uma reação igual e oposta?",
+    "opcoes": {
+      "A": "Primeira Lei de Newton",
+      "B": "Segunda Lei de Newton",
+      "C": "Terceira Lei de Newton",
+      "D": "Lei da Gravitação Universal"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual é o nome do processo de formação de gametas (óvulos e espermatozoides)?",
+    "opcoes": {
+      "A": "Mitose",
+      "B": "Meiose",
+      "C": "Fecundação",
+      "D": "Diferenciação"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual é a propriedade da água que permite que ela forme uma 'pele' em sua superfície, permitindo que alguns insetos caminhem sobre ela?",
+    "opcoes": {
+      "A": "Calor específico",
+      "B": "Capacidade térmica",
+      "C": "Tensão superficial",
+      "D": "Capilaridade"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual é o nome do ciclo biogeoquímico essencial para a vida, onde as plantas absorvem um gás e liberam outro?",
+    "opcoes": {
+      "A": "Ciclo da água",
+      "B": "Ciclo do nitrogênio",
+      "C": "Ciclo do carbono",
+      "D": "Ciclo do fósforo"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual é o nome da força responsável por manter os planetas em órbita ao redor do Sol?",
+    "opcoes": {
+      "A": "Força centrífuga",
+      "B": "Força centrípeta",
+      "C": "Força eletromagnética",
+      "D": "Força gravitacional"
+    },
+    "resposta_correta": "D"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual é o gás inerte mais abundante na atmosfera terrestre?",
+    "opcoes": {
+      "A": "Hélio",
+      "B": "Neônio",
+      "C": "Argônio",
+      "D": "Criptônio"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual é o nome do processo de formação de novas espécies a partir de uma espécie ancestral?",
+    "opcoes": {
+      "A": "Adaptação",
+      "B": "Mutação",
+      "C": "Especiação",
+      "D": "Seleção natural"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual é o nome do tipo de ligação química que ocorre entre átomos que compartilham elétrons?",
+    "opcoes": {
+      "A": "Ligação iônica",
+      "B": "Ligação metálica",
+      "C": "Ligação covalente",
+      "D": "Ponte de hidrogênio"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual é a parte do olho responsável por focar a luz na retina?",
+    "opcoes": {
+      "A": "Íris",
+      "B": "Pupila",
+      "C": "Cristalino",
+      "D": "Córnea"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual é o nome da região do cérebro responsável pelo controle da fome, sede e temperatura corporal?",
+    "opcoes": {
+      "A": "Córtex cerebral",
+      "B": "Cerebelo",
+      "C": "Hipotálamo",
+      "D": "Tálamo"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual é o nome do fenômeno onde um objeto flutua na água devido à força de empuxo ser igual ao seu peso?",
+    "opcoes": {
+      "A": "Pressão",
+      "B": "Viscosidade",
+      "C": "Flutuabilidade",
+      "D": "Tensão superficial"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual é a principal função do esqueleto humano?",
+    "opcoes": {
+      "A": "Produção de sangue",
+      "B": "Proteção de órgãos e suporte",
+      "C": "Armazenamento de gordura",
+      "D": "Regulação da temperatura"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual é o nome da doença causada pela deficiência de iodo, que afeta a tireoide?",
+    "opcoes": {
+      "A": "Diabetes",
+      "B": "Anemia",
+      "C": "Bócio",
+      "D": "Escorbuto"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual é o gás que as plantas liberam para a atmosfera como subproduto da fotossíntese?",
+    "opcoes": {
+      "A": "Dióxido de carbono",
+      "B": "Vapor de água",
+      "C": "Oxigênio",
+      "D": "Metano"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual é o nome do processo de transformação de energia luminosa em energia química nas plantas?",
+    "opcoes": {
+      "A": "Respiração celular",
+      "B": "Fermentação",
+      "C": "Fotossíntese",
+      "D": "Transpiração"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual é o nome da teoria que descreve a movimentação das grandes placas da crosta terrestre?",
+    "opcoes": {
+      "A": "Teoria do Big Bang",
+      "B": "Teoria da Relatividade",
+      "C": "Tectônica de Placas",
+      "D": "Teoria da Evolução"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual é a unidade de medida de energia no Sistema Internacional?",
+    "opcoes": {
+      "A": "Watt",
+      "B": "Newton",
+      "C": "Joule",
+      "D": "Volt"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual é o nome do processo de formação de rochas a partir do resfriamento e solidificação do magma ou lava?",
+    "opcoes": {
+      "A": "Erosão",
+      "B": "Sedimentação",
+      "C": "Vulcanismo",
+      "D": "Cristalização"
+    },
+    "resposta_correta": "D"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual é o nome do gás responsável pela camada de ozônio na estratosfera?",
+    "opcoes": {
+      "A": "Oxigênio (O2)",
+      "B": "Nitrogênio (N2)",
+      "C": "Ozônio (O3)",
+      "D": "Dióxido de carbono (CO2)"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual é a principal função dos anticorpos no corpo humano?",
+    "opcoes": {
+      "A": "Transporte de oxigênio",
+      "B": "Coagulação do sangue",
+      "C": "Defesa contra patógenos",
+      "D": "Produção de energia"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual é o nome da parte da célula que realiza a fotossíntese nas plantas?",
+    "opcoes": {
+      "A": "Mitocôndria",
+      "B": "Ribossomo",
+      "C": "Cloroplasto",
+      "D": "Núcleo"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual é o nome da escala usada para medir a magnitude dos terremotos?",
+    "opcoes": {
+      "A": "Escala Celsius",
+      "B": "Escala Richter",
+      "C": "Escala Beaufort",
+      "D": "Escala Kelvin"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual é o nome da parte do sistema nervoso responsável pela coordenação motora e equilíbrio?",
+    "opcoes": {
+      "A": "Cérebro",
+      "B": "Medula espinhal",
+      "C": "Cerebelo",
+      "D": "Bulbo"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual é o nome da lei que descreve a relação entre pressão, volume e temperatura de um gás ideal?",
+    "opcoes": {
+      "A": "Lei de Ohm",
+      "B": "Lei de Boyle-Mariotte",
+      "C": "Lei de Avogadro",
+      "D": "Lei de Dalton"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual é o processo biológico de quebra de moléculas grandes em menores para absorção?",
+    "opcoes": {
+      "A": "Assimilação",
+      "B": "Metabolismo",
+      "C": "Digestão",
+      "D": "Excreção"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual é o nome da força que impede o movimento entre duas superfícies em contato?",
+    "opcoes": {
+      "A": "Força normal",
+      "B": "Força elástica",
+      "C": "Atrito",
+      "D": "Tensão"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual é o nome do processo de formação de água e oxigênio a partir de dióxido de carbono e luz nas plantas?",
+    "opcoes": {
+      "A": "Respiração",
+      "B": "Fermentação",
+      "C": "Fotossíntese",
+      "D": "Quimiossíntese"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual é o nome da unidade fundamental da hereditariedade?",
+    "opcoes": {
+      "A": "Cromossomo",
+      "B": "Proteína",
+      "C": "Gene",
+      "D": "Alelo"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual é o nome da região da Terra que engloba todos os ecossistemas e seres vivos?",
+    "opcoes": {
+      "A": "Litosfera",
+      "B": "Hidrosfera",
+      "C": "Atmosfera",
+      "D": "Biosfera"
+    },
+    "resposta_correta": "D"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual é o nome do fenômeno em que a luz se curva ao passar de um meio para outro?",
+    "opcoes": {
+      "A": "Reflexão",
+      "B": "Dispersão",
+      "C": "Refração",
+      "D": "Difração"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual é o nome do processo de transformação de amônia em nitratos por bactérias no solo?",
+    "opcoes": {
+      "A": "Desnitrificação",
+      "B": "Fixação de nitrogênio",
+      "C": "Nitrificação",
+      "D": "Amonificação"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual é o nome da parte do sistema reprodutor feminino onde ocorre a fertilização?",
+    "opcoes": {
+      "A": "Útero",
+      "B": "Ovário",
+      "C": "Tuba uterina (ou oviduto)",
+      "D": "Vagina"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual é o elemento químico que é a base de toda a vida orgânica?",
+    "opcoes": {
+      "A": "Oxigênio",
+      "B": "Hidrogênio",
+      "C": "Carbono",
+      "D": "Nitrogênio"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual é o nome da principal proteína estrutural encontrada na pele, cabelo e unhas?",
+    "opcoes": {
+      "A": "Colágeno",
+      "B": "Elastina",
+      "C": "Queratina",
+      "D": "Miosina"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual é o nome do processo de transferência de calor por contato direto entre as partículas?",
+    "opcoes": {
+      "A": "Convecção",
+      "B": "Radiação",
+      "C": "Condução",
+      "D": "Vaporização"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual é o nome do processo de formação de novos seres vivos a partir de gametas?",
+    "opcoes": {
+      "A": "Mitose",
+      "B": "Meiose",
+      "C": "Fecundação",
+      "D": "Germinação"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual é o nome do cientista que formulou a Lei da Gravitação Universal?",
+    "opcoes": {
+      "A": "Albert Einstein",
+      "B": "Galileu Galilei",
+      "C": "Isaac Newton",
+      "D": "Johannes Kepler"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual é o nome da camada da Terra composta principalmente por ferro e níquel, e que é líquida?",
+    "opcoes": {
+      "A": "Crosta",
+      "B": "Manto superior",
+      "C": "Núcleo externo",
+      "D": "Núcleo interno"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual é o tipo de célula do sangue responsável pela coagulação?",
+    "opcoes": {
+      "A": "Glóbulos vermelhos",
+      "B": "Glóbulos brancos",
+      "C": "Plaquetas",
+      "D": "Plasma"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual é o nome do processo de liberação de energia sem a presença de oxigênio?",
+    "opcoes": {
+      "A": "Respiração aeróbica",
+      "B": "Fotossíntese",
+      "C": "Fermentação",
+      "D": "Combustão"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual é o nome da estrutura nas plantas que transporta água e sais minerais das raízes para as folhas?",
+    "opcoes": {
+      "A": "Floema",
+      "B": "Câmbio",
+      "C": "Xilema",
+      "D": "Parênquima"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual é o nome da lei da física que descreve a relação entre voltagem, corrente e resistência em um circuito elétrico?",
+    "opcoes": {
+      "A": "Lei de Newton",
+      "B": "Lei de Coulomb",
+      "C": "Lei de Ohm",
+      "D": "Lei de Kirchhoff"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual é o nome do tipo de estrela que está no estágio final de sua vida e é muito densa, mas não é um buraco negro?",
+    "opcoes": {
+      "A": "Gigante vermelha",
+      "B": "Anã branca",
+      "C": "Estrela de nêutrons",
+      "D": "Supernova"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual é o nome do processo de transferência de calor por movimento de fluidos (líquidos ou gases)?",
+    "opcoes": {
+      "A": "Condução",
+      "B": "Radiação",
+      "C": "Convecção",
+      "D": "Sublimação"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual é o nome do processo de formação de rochas a partir da transformação de outras rochas sob alta pressão e temperatura?",
+    "opcoes": {
+      "A": "Rocha ígnea",
+      "B": "Rocha sedimentar",
+      "C": "Rocha metamórfica",
+      "D": "Rocha extrusiva"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual é o nome do processo em que os organismos melhor adaptados ao ambiente tendem a sobreviver e se reproduzir mais?",
+    "opcoes": {
+      "A": "Mutação",
+      "B": "Deriva genética",
+      "C": "Seleção natural",
+      "D": "Fluxo gênico"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual é o principal reservatório de nitrogênio na Terra?",
+    "opcoes": {
+      "A": "Oceano",
+      "B": "Solo",
+      "C": "Atmosfera",
+      "D": "Rochas"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual é o nome da doença autoimune que afeta as articulações?",
+    "opcoes": {
+      "A": "Osteoporose",
+      "B": "Artrite reumatoide",
+      "C": "Gota",
+      "D": "Escoliose"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual é o nome da estrutura celular que dá suporte e forma às células vegetais?",
+    "opcoes": {
+      "A": "Membrana plasmática",
+      "B": "Citoplasma",
+      "C": "Parede celular",
+      "D": "Vacúolo"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual é o nome do instrumento usado para medir a umidade do ar?",
+    "opcoes": {
+      "A": "Termômetro",
+      "B": "Barômetro",
+      "C": "Anemômetro",
+      "D": "Higrômetro"
+    },
+    "resposta_correta": "D"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual é a principal função do fígado no corpo humano?",
+    "opcoes": {
+      "A": "Bomba de sangue",
+      "B": "Produção de urina",
+      "C": "Desintoxicação e produção de bile",
+      "D": "Absorção de nutrientes"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual é o nome da energia que um objeto possui devido ao seu movimento?",
+    "opcoes": {
+      "A": "Energia potencial",
+      "B": "Energia térmica",
+      "C": "Energia cinética",
+      "D": "Energia química"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual é o nome do processo de reprodução assexuada em que um organismo se divide em dois novos organismos?",
+    "opcoes": {
+      "A": "Brotação",
+      "B": "Fragmentação",
+      "C": "Bipartição",
+      "D": "Esporulação"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual é o nome do principal pigmento que absorve a luz para a fotossíntese?",
+    "opcoes": {
+      "A": "Antocianina",
+      "B": "Carotenoide",
+      "C": "Clorofila",
+      "D": "Xantofila"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual é o nome da força que mantém os elétrons em órbita ao redor do núcleo de um átomo?",
+    "opcoes": {
+      "A": "Força nuclear forte",
+      "B": "Força nuclear fraca",
+      "C": "Força eletromagnética",
+      "D": "Força gravitacional"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual é o nome da estrela mais próxima do nosso Sistema Solar, além do Sol?",
+    "opcoes": {
+      "A": "Sirius",
+      "B": "Alpha Centauri",
+      "C": "Próxima Centauri",
+      "D": "Vega"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual é o nome da unidade básica de informação genética no DNA?",
+    "opcoes": {
+      "A": "Aminoácido",
+      "B": "Nucleotídeo",
+      "C": "Ribose",
+      "D": "Fosfato"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual é o nome do processo de transferência de calor por ondas eletromagnéticas?",
+    "opcoes": {
+      "A": "Condução",
+      "B": "Convecção",
+      "C": "Radiação",
+      "D": "Evaporação"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual é o nome do gás liberado por vulcões que pode contribuir para o efeito estufa?",
+    "opcoes": {
+      "A": "Oxigênio",
+      "B": "Nitrogênio",
+      "C": "Dióxido de carbono",
+      "D": "Hélio"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual é o nome da parte do neurônio que recebe os sinais de outras células nervosas?",
+    "opcoes": {
+      "A": "Axônio",
+      "B": "Corpo celular",
+      "C": "Dendrito",
+      "D": "Mielina"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual é o nome da teoria que explica a formação das montanhas, vulcões e terremotos?",
+    "opcoes": {
+      "A": "Teoria da Deriva Continental",
+      "B": "Teoria da Gravidade",
+      "C": "Tectônica de Placas",
+      "D": "Teoria da Relatividade"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual é o nome do processo de transformação de energia luminosa em energia química na ausência de oxigênio?",
+    "opcoes": {
+      "A": "Fotossíntese",
+      "B": "Respiração anaeróbica",
+      "C": "Quimiossíntese",
+      "D": "Fermentação"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual é o nome da estrutura nas plantas que transporta açúcares (alimento) das folhas para outras partes?",
+    "opcoes": {
+      "A": "Xilema",
+      "B": "Câmbio",
+      "C": "Floema",
+      "D": "Parênquima"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual é o nome da glândula responsável pela produção de melatonina, que regula o ciclo sono-vigília?",
+    "opcoes": {
+      "A": "Tireoide",
+      "B": "Adrenal",
+      "C": "Glândula pineal",
+      "D": "Hipófise"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual é o nome do fenômeno em que as rochas se quebram devido à ação de agentes externos como vento e água?",
+    "opcoes": {
+      "A": "Sedimentação",
+      "B": "Erosão",
+      "C": "Intemperismo",
+      "D": "Deposição"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual é o nome da menor partícula de um elemento químico que mantém suas propriedades?",
+    "opcoes": {
+      "A": "Molécula",
+      "B": "Composto",
+      "C": "Átomo",
+      "D": "Íon"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual é o nome do processo em que as plantas liberam vapor de água para a atmosfera através dos estômatos?",
+    "opcoes": {
+      "A": "Fotossíntese",
+      "B": "Respiração",
+      "C": "Transpiração",
+      "D": "Gutação"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual é o nome da doença causada por bactérias que afeta os pulmões e é altamente contagiosa?",
+    "opcoes": {
+      "A": "Malária",
+      "B": "Sarampo",
+      "C": "Tuberculose",
+      "D": "AIDS"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual é o nome da camada da atmosfera que contém a camada de ozônio?",
+    "opcoes": {
+      "A": "Troposfera",
+      "B": "Mesosfera",
+      "C": "Estratosfera",
+      "D": "Termosfera"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual é o nome do processo de formação de estrelas a partir de nuvens de gás e poeira?",
+    "opcoes": {
+      "A": "Supernova",
+      "B": "Buraco negro",
+      "C": "Nebulosa",
+      "D": "Nucleossíntese estelar"
+    },
+    "resposta_correta": "D"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual é o nome do sistema do corpo humano responsável pela eliminação de resíduos metabólicos?",
+    "opcoes": {
+      "A": "Sistema digestório",
+      "B": "Sistema circulatório",
+      "C": "Sistema urinário (ou excretor)",
+      "D": "Sistema endócrino"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual é o nome da energia que um objeto possui devido à sua posição ou estado?",
+    "opcoes": {
+      "A": "Energia cinética",
+      "B": "Energia térmica",
+      "C": "Energia potencial",
+      "D": "Energia luminosa"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual é o nome do processo de liberação de óvulos pelos ovários?",
+    "opcoes": {
+      "A": "Menstruação",
+      "B": "Fecundação",
+      "C": "Ovulação",
+      "D": "Gestação"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual é o nome do processo de transformação de energia química dos alimentos em ATP nas células?",
+    "opcoes": {
+      "A": "Fotossíntese",
+      "B": "Fermentação",
+      "C": "Respiração celular",
+      "D": "Digestão"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual é o nome da parte do sistema nervoso que é responsável por ações involuntárias, como batimentos cardíacos?",
+    "opcoes": {
+      "A": "Córtex cerebral",
+      "B": "Cerebelo",
+      "C": "Sistema nervoso autônomo",
+      "D": "Sistema nervoso somático"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual é o nome do fenômeno em que a luz branca se divide em cores ao passar por um prisma?",
+    "opcoes": {
+      "A": "Reflexão",
+      "B": "Refração",
+      "C": "Dispersão",
+      "D": "Difração"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual é o nome do principal componente das membranas celulares?",
+    "opcoes": {
+      "A": "Proteínas",
+      "B": "Carboidratos",
+      "C": "Lipídios (fosfolipídios)",
+      "D": "Ácidos nucleicos"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual é o nome do bioma caracterizado por grandes áreas de gramíneas e árvores esparsas, com estações secas e chuvosas?",
+    "opcoes": {
+      "A": "Floresta tropical",
+      "B": "Deserto",
+      "C": "Savana",
+      "D": "Tundra"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual é o nome do tipo de energia associada ao movimento das partículas em um corpo?",
+    "opcoes": {
+      "A": "Energia potencial",
+      "B": "Energia mecânica",
+      "C": "Energia térmica",
+      "D": "Energia química"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual é o nome do processo de dissolução de uma substância em um solvente?",
+    "opcoes": {
+      "A": "Filtração",
+      "B": "Precipitação",
+      "C": "Solubilização",
+      "D": "Decantação"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual é o nome da glândula que produz a bile, importante para a digestão de gorduras?",
+    "opcoes": {
+      "A": "Pâncreas",
+      "B": "Estômago",
+      "C": "Fígado",
+      "D": "Baço"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual é o nome do processo de erosão do solo causada pela ação do vento?",
+    "opcoes": {
+      "A": "Erosão hídrica",
+      "B": "Erosão glacial",
+      "C": "Erosão eólica",
+      "D": "Erosão marinha"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual é o nome da teoria que propõe que os continentes da Terra se movem lentamente?",
+    "opcoes": {
+      "A": "Teoria do Big Bang",
+      "B": "Teoria da Relatividade",
+      "C": "Teoria da Deriva Continental",
+      "D": "Teoria da Evolução"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual é o nome do tipo de ligação química que ocorre entre um metal e um não metal, com transferência de elétrons?",
+    "opcoes": {
+      "A": "Ligação covalente",
+      "B": "Ligação metálica",
+      "C": "Ligação iônica",
+      "D": "Ponte de hidrogênio"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual é o nome da parte do sistema reprodutor masculino que produz os espermatozoides?",
+    "opcoes": {
+      "A": "Próstata",
+      "B": "Vesícula seminal",
+      "C": "Testículo",
+      "D": "Epidídimo"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual é o nome da ciência que estuda as interações entre os seres vivos e o ambiente?",
+    "opcoes": {
+      "A": "Biologia",
+      "B": "Genética",
+      "C": "Ecologia",
+      "D": "Zoologia"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual é o nome do processo de transformação de larvas em insetos adultos?",
+    "opcoes": {
+      "A": "Reprodução",
+      "B": "Crescimento",
+      "C": "Metamorfose",
+      "D": "Ecdise"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual é o nome da estrela que é o centro do nosso Sistema Solar?",
+    "opcoes": {
+      "A": "Próxima Centauri",
+      "B": "Sírius",
+      "C": "Sol",
+      "D": "Alpha Centauri"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual é o nome da força que impede o movimento entre duas superfícies em contato, mas que pode ser superada com esforço?",
+    "opcoes": {
+      "A": "Atrito estático",
+      "B": "Atrito cinético",
+      "C": "Força normal",
+      "D": "Força elástica"
+    },
+    "resposta_correta": "A"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual é o nome da estrutura celular que armazena água, nutrientes e resíduos nas células vegetais?",
+    "opcoes": {
+      "A": "Mitocôndria",
+      "B": "Núcleo",
+      "C": "Vacúolo",
+      "D": "Cloroplasto"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual é o nome do cientista que descobriu as leis do movimento planetário?",
+    "opcoes": {
+      "A": "Isaac Newton",
+      "B": "Galileu Galilei",
+      "C": "Johannes Kepler",
+      "D": "Nicolau Copérnico"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual é o nome da estrutura do ouvido responsável pelo equilíbrio?",
+    "opcoes": {
+      "A": "Tímpano",
+      "B": "Cóclea",
+      "C": "Canais semicirculares",
+      "D": "Martelo"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual é o nome da principal proteína encontrada no sangue que transporta oxigênio?",
+    "opcoes": {
+      "A": "Albumina",
+      "B": "Fibrinogênio",
+      "C": "Hemoglobina",
+      "D": "Imunoglobulina"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual é o nome do processo de formação de gelo a partir do vapor de água diretamente, sem passar pelo estado líquido?",
+    "opcoes": {
+      "A": "Evaporação",
+      "B": "Fusão",
+      "C": "Sublimação (condensação)",
+      "D": "Condensação"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual é o nome da doença causada pela deficiência de vitamina D, que afeta os ossos?",
+    "opcoes": {
+      "A": "Escorbuto",
+      "B": "Anemia",
+      "C": "Raquitismo",
+      "D": "Bócio"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual é o nome do processo em que as plantas fecham seus estômatos para economizar água?",
+    "opcoes": {
+      "A": "Fotossíntese",
+      "B": "Respiração",
+      "C": "Transpiração",
+      "D": "Murcha"
+    },
+    "resposta_correta": "D"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual é o nome da camada mais profunda da atmosfera terrestre?",
+    "opcoes": {
+      "A": "Estratosfera",
+      "B": "Mesosfera",
+      "C": "Troposfera",
+      "D": "Exosfera"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual é o nome do processo de quebra de grandes moléculas em menores para liberação de energia nas células?",
+    "opcoes": {
+      "A": "Anabolismo",
+      "B": "Síntese",
+      "C": "Catabolismo",
+      "D": "Absorção"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual é o nome do fenômeno em que o som se propaga através de um meio, como o ar ou a água?",
+    "opcoes": {
+      "A": "Reflexão",
+      "B": "Refração",
+      "C": "Propagação",
+      "D": "Eco"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual é o nome do tipo de célula do sangue responsável pela defesa do corpo contra infecções?",
+    "opcoes": {
+      "A": "Glóbulos vermelhos",
+      "B": "Plaquetas",
+      "C": "Glóbulos brancos (leucócitos)",
+      "D": "Plasma"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual é o nome do principal componente da parede celular de fungos?",
+    "opcoes": {
+      "A": "Celulose",
+      "B": "Peptidoglicano",
+      "C": "Quitina",
+      "D": "Lignina"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual é o nome da lei da física que afirma que a energia não pode ser criada nem destruída, apenas transformada?",
+    "opcoes": {
+      "A": "Lei da Gravitação Universal",
+      "B": "Lei da Conservação da Massa",
+      "C": "Lei da Conservação da Energia",
+      "D": "Lei de Ohm"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual é o nome do processo de formação de rochas a partir do magma, mas que se solidificam na superfície?",
+    "opcoes": {
+      "A": "Rocha intrusiva",
+      "B": "Rocha sedimentar",
+      "C": "Rocha extrusiva (ou vulcânica)",
+      "D": "Rocha metamórfica"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual é o nome do hormônio feminino responsável pelas características sexuais secundárias e ciclo menstrual?",
+    "opcoes": {
+      "A": "Testosterona",
+      "B": "Progesterona",
+      "C": "Estrogênio",
+      "D": "Insulina"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual é o nome da parte do sistema nervoso responsável por respostas rápidas e involuntárias (reflexos)?",
+    "opcoes": {
+      "A": "Cérebro",
+      "B": "Cerebelo",
+      "C": "Medula espinhal",
+      "D": "Nervos periféricos"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual é o nome da estrutura que liga os hemisférios cerebrais?",
+    "opcoes": {
+      "A": "Tálamo",
+      "B": "Hipotálamo",
+      "C": "Corpo caloso",
+      "D": "Ponte"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual é o nome da doença causada por um vírus que ataca o sistema imunológico, tornando o corpo vulnerável a infecções?",
+    "opcoes": {
+      "A": "Gripe",
+      "B": "Sarampo",
+      "C": "AIDS (SIDA)",
+      "D": "Tuberculose"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual é o nome do processo de obtenção de energia a partir da luz solar por organismos fotossintetizantes?",
+    "opcoes": {
+      "A": "Respiração",
+      "B": "Fermentação",
+      "C": "Fotossíntese",
+      "D": "Quimiossíntese"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual é o nome do principal componente da atmosfera terrestre que é vital para a respiração da maioria dos seres vivos?",
+    "opcoes": {
+      "A": "Nitrogênio",
+      "B": "Dióxido de carbono",
+      "C": "Oxigênio",
+      "D": "Argônio"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual é o nome da unidade de medida de potência no Sistema Internacional?",
+    "opcoes": {
+      "A": "Joule",
+      "B": "Newton",
+      "C": "Watt",
+      "D": "Volt"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual é o nome do processo de formação de espermatozoides?",
+    "opcoes": {
+      "A": "Oogênese",
+      "B": "Fecundação",
+      "C": "Espermatogênese",
+      "D": "Ovulação"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual é o nome do processo de transferência de pólen de uma flor para outra?",
+    "opcoes": {
+      "A": "Germinação",
+      "B": "Fecundação",
+      "C": "Polinização",
+      "D": "Dispersão"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual é o nome da força que surge da interação entre partículas carregadas eletricamente?",
+    "opcoes": {
+      "A": "Gravidade",
+      "B": "Atrito",
+      "C": "Força eletromagnética",
+      "D": "Força nuclear"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual é o nome da estrutura celular que é responsável pela digestão de substâncias na célula?",
+    "opcoes": {
+      "A": "Mitocôndria",
+      "B": "Ribossomo",
+      "C": "Lisossomo",
+      "D": "Vacúolo"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual é o nome do fenômeno em que a luz é emitida por um objeto que foi aquecido a altas temperaturas?",
+    "opcoes": {
+      "A": "Fluorescência",
+      "B": "Fosforescência",
+      "C": "Incandescência",
+      "D": "Luminiscência"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual é o nome da camada da Terra mais densa, composta principalmente por ferro e níquel, e que é sólida?",
+    "opcoes": {
+      "A": "Crosta",
+      "B": "Manto",
+      "C": "Núcleo externo",
+      "D": "Núcleo interno"
+    },
+    "resposta_correta": "D"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual é o nome do processo de formação de rochas a partir do magma, mas que se solidificam no interior da Terra?",
+    "opcoes": {
+      "A": "Rocha extrusiva",
+      "B": "Rocha sedimentar",
+      "C": "Rocha intrusiva (ou plutônica)",
+      "D": "Rocha metamórfica"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual é o nome da doença causada por protozoários transmitidos por mosquitos, comum em regiões tropicais?",
+    "opcoes": {
+      "A": "Dengue",
+      "B": "Chikungunya",
+      "C": "Malária",
+      "D": "Febre Amarela"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual é o nome da parte do olho responsável pela visão colorida e detalhada?",
+    "opcoes": {
+      "A": "Bastões",
+      "B": "Córnea",
+      "C": "Cones",
+      "D": "Cristalino"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual é o nome do hormônio masculino responsável pelas características sexuais secundárias?",
+    "opcoes": {
+      "A": "Estrogênio",
+      "B": "Progesterona",
+      "C": "Testosterona",
+      "D": "Insulina"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual é o nome do tipo de energia associada à vibração das partículas de um meio?",
+    "opcoes": {
+      "A": "Energia luminosa",
+      "B": "Energia elétrica",
+      "C": "Energia sonora",
+      "D": "Energia química"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual é o nome do processo de formação de óvulos nos ovários?",
+    "opcoes": {
+      "A": "Espermatogênese",
+      "B": "Fecundação",
+      "C": "Oogênese",
+      "D": "Ovulação"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual é o nome do processo de transformação de dióxido de carbono em açúcares nas plantas?",
+    "opcoes": {
+      "A": "Respiração celular",
+      "B": "Fermentação",
+      "C": "Ciclo de Calvin",
+      "D": "Transpiração"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual é o nome da camada da Terra mais externa e sólida?",
+    "opcoes": {
+      "A": "Manto",
+      "B": "Núcleo",
+      "C": "Crosta terrestre",
+      "D": "Litosfera"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual é o nome do fenômeno em que a luz é absorvida e depois reemitida em um comprimento de onda diferente, geralmente maior?",
+    "opcoes": {
+      "A": "Reflexão",
+      "B": "Refração",
+      "C": "Fluorescência",
+      "D": "Dispersão"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual é o nome do processo de endurecimento e mineralização de restos de organismos para formar fósseis?",
+    "opcoes": {
+      "A": "Decomposição",
+      "B": "Erosão",
+      "C": "Fossilização",
+      "D": "Sedimentação"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual é o nome do tipo de energia liberada por reações químicas?",
+    "opcoes": {
+      "A": "Energia mecânica",
+      "B": "Energia térmica",
+      "C": "Energia química",
+      "D": "Energia nuclear"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual é o nome do processo de movimento da água através de uma membrana semipermeável, do local de menor concentração de soluto para o de maior concentração?",
+    "opcoes": {
+      "A": "Difusão",
+      "B": "Transporte ativo",
+      "C": "Osmose",
+      "D": "Filtração"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "medio",
+    "pergunta": "Qual é o nome da principal proteína contrátil encontrada nos músculos?",
+    "opcoes": {
+      "A": "Colágeno",
+      "B": "Queratina",
+      "C": "Miosina",
+      "D": "Hemoglobina"
+    },
+    "resposta_correta": "C"
+  },
 
   {
     "nivel": "dificil",
@@ -333,5 +3642,501 @@
       "D": "Etano"
     },
     "resposta_correta": "C"
+  },
+  {
+    "nivel": "dificil",
+    "pergunta": "Qual a principal função do peróxisomo na célula?",
+    "opcoes": {
+      "A": "Síntese de proteínas",
+      "B": "Oxidação de ácidos graxos e desintoxicação de substâncias tóxicas",
+      "C": "Armazenamento de glicogênio",
+      "D": "Produção de ATP"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "nivel": "dificil",
+    "pergunta": "O que é o 'ciclo de vida haplo-diplobionte' em botânica?",
+    "opcoes": {
+      "A": "Apenas um estágio haploide",
+      "B": "Apenas um estágio diploide",
+      "C": "Ciclo de vida com alternância de gerações, onde há um gametófito haploide e um esporófito diploide",
+      "D": "Reprodução exclusivamente assexuada"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "dificil",
+    "pergunta": "Qual o significado da 'constante cosmológica' na equação de campo de Einstein?",
+    "opcoes": {
+      "A": "Determina a curvatura do espaço-tempo local",
+      "B": "Representa uma forma de energia escura que causa a expansão acelerada do universo",
+      "C": "Calcula a força gravitacional entre objetos",
+      "D": "Define a massa de um buraco negro"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "nivel": "dificil",
+    "pergunta": "Descreva o conceito de 'ressonância' em circuitos elétricos.",
+    "opcoes": {
+      "A": "Circuito que consome muita energia",
+      "B": "Fenômeno em que um circuito RLC atinge uma frequência onde a reatância indutiva é igual à reatância capacitiva, resultando em impedância mínima (série) ou máxima (paralelo)",
+      "C": "Aumento da corrente sem mudança de frequência",
+      "D": "Circuito que não permite a passagem de corrente"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "nivel": "dificil",
+    "pergunta": "Qual a função dos 'oligodendrócitos' no sistema nervoso central?",
+    "opcoes": {
+      "A": "Suporte nutricional aos neurônios",
+      "B": "Formação da bainha de mielina nos axônios, permitindo a condução saltatória do impulso nervoso",
+      "C": "Remoção de detritos celulares",
+      "D": "Condução de impulsos sensoriais"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "nivel": "dificil",
+    "pergunta": "O que são 'catalisadores' em reações químicas e qual seu impacto?",
+    "opcoes": {
+      "A": "Substâncias que são consumidas na reação",
+      "B": "Substâncias que aumentam a velocidade da reação sem serem consumidas, alterando o mecanismo da reação e diminuindo a energia de ativação",
+      "C": "Substâncias que diminuem a velocidade da reação",
+      "D": "Substâncias que mudam o equilíbrio da reação"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "nivel": "dificil",
+    "pergunta": "Qual a diferença entre 'reflexão especular' e 'reflexão difusa' da luz?",
+    "opcoes": {
+      "A": "Especular ocorre em superfícies ásperas, difusa em lisas",
+      "B": "Especular ocorre em superfícies lisas, formando imagem clara; difusa ocorre em superfícies ásperas, espalhando a luz em várias direções",
+      "C": "Ambas formam imagens nítidas",
+      "D": "Difusa absorve mais luz que especular"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "nivel": "dificil",
+    "pergunta": "Descreva o conceito de 'pleiotropia' em genética.",
+    "opcoes": {
+      "A": "Um gene afeta apenas uma característica",
+      "B": "Um único gene afeta múltiplas características fenotípicas aparentemente não relacionadas",
+      "C": "Dois genes afetam a mesma característica",
+      "D": "Interação entre diferentes alelos"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "nivel": "dificil",
+    "pergunta": "O que é 'polarização da luz'?",
+    "opcoes": {
+      "A": "Dispersão da luz em cores",
+      "B": "Fenômeno em que as ondas de luz oscilam em um único plano, ou em planos preferenciais",
+      "C": "Curvatura da luz em um meio",
+      "D": "Absorção completa da luz"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "nivel": "dificil",
+    "pergunta": "Qual a diferença entre 'enantiômeros' e 'diasteroisômeros' em estereoquímica?",
+    "opcoes": {
+      "A": "Enantiômeros são isômeros de posição, diasteroisômeros são funcionais",
+      "B": "Enantiômeros são imagens espelhadas não-sobreponíveis, diasteroisômeros são estereoisômeros que não são imagens espelhadas",
+      "C": "Enantiômeros são isômeros estruturais, diasteroisômeros são conformacionais",
+      "D": "Não há diferença"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "nivel": "dificil",
+    "pergunta": "Qual a função do 'Sáculo de Golgi' em células vegetais?",
+    "opcoes": {
+      "A": "Síntese de amido",
+      "B": "Armazenamento de água",
+      "C": "Modificação e transporte de proteínas e lipídios, e síntese de componentes da parede celular",
+      "D": "Fotossíntese"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "dificil",
+    "pergunta": "Descreva o conceito de 'homologia' e 'analogia' em biologia evolutiva.",
+    "opcoes": {
+      "A": "Homologia é similaridade por função, analogia por ancestralidade comum",
+      "B": "Homologia é similaridade por ancestralidade comum, analogia é similaridade por função devido a pressões seletivas similares (convergência evolutiva)",
+      "C": "Ambas significam a mesma coisa",
+      "D": "Homologia só ocorre em plantas, analogia em animais"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "nivel": "dificil",
+    "pergunta": "O que é a 'temperatura de Curie' em materiais ferromagnéticos?",
+    "opcoes": {
+      "A": "Temperatura de fusão do material",
+      "B": "Temperatura acima da qual um material ferromagnético perde suas propriedades magnéticas permanentes e se torna paramagnético",
+      "C": "Temperatura de ebulição do material",
+      "D": "Temperatura na qual o material se torna supercondutor"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "nivel": "dificil",
+    "pergunta": "Qual a principal diferença entre 'ligação iônica' e 'ligação covalente'?",
+    "opcoes": {
+      "A": "Iônica compartilha elétrons, Covalente doa/recebe",
+      "B": "Iônica envolve transferência de elétrons, formando íons; Covalente envolve compartilhamento de elétrons entre átomos",
+      "C": "Iônica é mais fraca que covalente",
+      "D": "Covalente ocorre apenas entre metais"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "nivel": "dificil",
+    "pergunta": "Qual o papel do 'sistema complemento' na imunidade inata?",
+    "opcoes": {
+      "A": "Produção de anticorpos",
+      "B": "Grupo de proteínas que, quando ativadas em cascata, ajudam a destruir patógenos, inflamação e otimização da fagocitose",
+      "C": "Coagulação do sangue",
+      "D": "Transporte de oxigênio"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "nivel": "dificil",
+    "pergunta": "O que é 'mimetismo batesiano' em ecologia?",
+    "opcoes": {
+      "A": "Duas espécies venenosas se assemelham",
+      "B": "Espécie inofensiva imita uma espécie perigosa para evitar predadores",
+      "C": "Espécie muda de cor para se camuflar",
+      "D": "Predador imita presa para caçar"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "nivel": "dificil",
+    "pergunta": "Descreva o conceito de 'dilatação do tempo' na Teoria da Relatividade Especial.",
+    "opcoes": {
+      "A": "Tempo passa mais rápido para objetos em movimento",
+      "B": "O tempo para um observador em movimento relativo a um quadro de referência inercial passa mais devagar do que para um observador em repouso naquele quadro",
+      "C": "Tempo acelera perto de buracos negros",
+      "D": "O tempo é uma constante universal"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "nivel": "dificil",
+    "pergunta": "Qual a função do 'hipotálamo' no cérebro?",
+    "opcoes": {
+      "A": "Processamento da visão",
+      "B": "Controle de funções vitais como temperatura corporal, fome, sede, sono e secreção hormonal",
+      "C": "Controle do movimento voluntário",
+      "D": "Processamento da memória de longo prazo"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "nivel": "dificil",
+    "pergunta": "O que são 'isômeros estruturais' em química orgânica?",
+    "opcoes": {
+      "A": "Moléculas com a mesma fórmula molecular e a mesma estrutura",
+      "B": "Moléculas com a mesma fórmula molecular, mas com diferentes arranjos de átomos e diferentes propriedades físicas/químicas",
+      "C": "Moléculas com diferentes fórmulas moleculares",
+      "D": "Moléculas que são imagens espelhadas umas das outras"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "nivel": "dificil",
+    "pergunta": "Qual o papel das 'células de Schwann' no sistema nervoso periférico?",
+    "opcoes": {
+      "A": "Produção de neurotransmissores",
+      "B": "Formação da bainha de mielina em axônios, acelerando a condução nervosa",
+      "C": "Remoção de resíduos metabólicos",
+      "D": "Recepção de estímulos sensoriais"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "nivel": "dificil",
+    "pergunta": "O que é 'eutrofização' em ecologia aquática?",
+    "opcoes": {
+      "A": "Aumento da biodiversidade",
+      "B": "Processo de enriquecimento de um corpo d'água com nutrientes, levando ao crescimento excessivo de algas e consequente depleção de oxigênio",
+      "C": "Diminuição da temperatura da água",
+      "D": "Redução da poluição da água"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "nivel": "dificil",
+    "pergunta": "Qual a diferença entre 'força nuclear forte' e 'força nuclear fraca'?",
+    "opcoes": {
+      "A": "Forte age entre elétrons, fraca entre prótons",
+      "B": "Forte une prótons e nêutrons no núcleo, fraca é responsável pelo decaimento beta e algumas interações de partículas subatômicas",
+      "C": "Forte é de longo alcance, fraca é de curto alcance",
+      "D": "Ambas são forças de repulsão"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "nivel": "dificil",
+    "pergunta": "Descreva o mecanismo de 'feedback negativo' na regulação hormonal.",
+    "opcoes": {
+      "A": "Estimula a produção contínua de hormônios",
+      "B": "Mecanismo que inibe a produção de um hormônio quando seus níveis atingem um determinado ponto, mantendo a homeostase",
+      "C": "Causa desequilíbrio hormonal",
+      "D": "Acelera a liberação de hormônios"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "nivel": "dificil",
+    "pergunta": "O que é o 'Princípio de Le Chatelier' em química?",
+    "opcoes": {
+      "A": "Descreve a velocidade de uma reação",
+      "B": "Afirma que, quando uma condição de estresse é aplicada a um sistema em equilíbrio, o sistema se deslocará em uma direção que alivia o estresse",
+      "C": "Determina a energia livre de uma reação",
+      "D": "Calcula a concentração de reagentes"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "nivel": "dificil",
+    "pergunta": "Qual a função do 'nucleossomo' na organização do DNA eucariótico?",
+    "opcoes": {
+      "A": "Síntese de RNA",
+      "B": "Unidade fundamental de empacotamento do DNA, consistindo em DNA enrolado em torno de um núcleo de proteínas histonas",
+      "C": "Replicação do DNA",
+      "D": "Reparo de danos no DNA"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "nivel": "dificil",
+    "pergunta": "O que é a 'teoria endossimbiótica' sobre a origem das mitocôndrias e cloroplastos?",
+    "opcoes": {
+      "A": "Eles surgiram por mutação genética",
+      "B": "Eles evoluíram a partir de bactérias que foram engolfadas por uma célula ancestral e estabeleceram uma relação simbiótica",
+      "C": "Eles foram criados espontaneamente",
+      "D": "Eles são organelas exclusivas de células animais"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "nivel": "dificil",
+    "pergunta": "Explique o 'Efeito Joule' em eletricidade.",
+    "opcoes": {
+      "A": "Produção de luz por uma corrente elétrica",
+      "B": "Fenômeno em que a passagem de corrente elétrica através de um condutor causa a dissipação de energia na forma de calor devido à resistência elétrica",
+      "C": "Geração de magnetismo por eletricidade",
+      "D": "Acúmulo de carga em um capacitor"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "nivel": "dificil",
+    "pergunta": "O que são 'isótopos radioativos' e qual sua aplicação em medicina?",
+    "opcoes": {
+      "A": "Isótopos que não emitem radiação",
+      "B": "Isótopos instáveis que emitem radiação, usados em diagnóstico por imagem (PET, SPECT) e radioterapia no tratamento de câncer",
+      "C": "Isótopos usados para datação de fósseis",
+      "D": "Isótopos estáveis encontrados em alimentos"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "nivel": "dificil",
+    "pergunta": "Qual a função dos 'ribossomos' na célula?",
+    "opcoes": {
+      "A": "Armazenamento de ATP",
+      "B": "Digestão de lipídios",
+      "C": "Síntese de proteínas (tradução do RNA mensageiro)",
+      "D": "Transporte de íons"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "dificil",
+    "pergunta": "Descreva o conceito de 'coevolução'.",
+    "opcoes": {
+      "A": "Evolução de uma espécie isoladamente",
+      "B": "Evolução recíproca de duas ou mais espécies que interagem intimamente, onde cada uma exerce pressão seletiva sobre a outra",
+      "C": "Evolução rápida de uma única característica",
+      "D": "Evolução sem interação com outras espécies"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "nivel": "dificil",
+    "pergunta": "O que é 'energia escura' em cosmologia?",
+    "opcoes": {
+      "A": "Energia liberada por buracos negros",
+      "B": "Forma hipotética de energia que permeia o espaço e é responsável pela aceleração da expansão do universo",
+      "C": "Energia armazenada em matéria escura",
+      "D": "Energia gerada por quasares"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "nivel": "dificil",
+    "pergunta": "Qual a diferença entre 'ligações sigma' e 'ligações pi' em química orgânica?",
+    "opcoes": {
+      "A": "Sigma é mais fraca, pi é mais forte",
+      "B": "Sigma é formada pela sobreposição frontal de orbitais, pi pela sobreposição lateral, sendo sigma a primeira ligação e pi as adicionais em ligações múltiplas",
+      "C": "Sigma só existe em alcanos, pi em alcenos",
+      "D": "Pi é a base para a formação de cadeias carbônicas"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "nivel": "dificil",
+    "pergunta": "Qual o papel do 'sistema límbico' no cérebro?",
+    "opcoes": {
+      "A": "Regulação da visão",
+      "B": "Processamento de emoções, memória e motivação",
+      "C": "Controle dos movimentos reflexos",
+      "D": "Regulação da respiração"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "nivel": "dificil",
+    "pergunta": "O que é a 'crise do oxigênio' na história da Terra e seu impacto na vida?",
+    "opcoes": {
+      "A": "Período de falta de oxigênio",
+      "B": "Evento de aumento massivo do oxigênio atmosférico, causado por cianobactérias, que levou à extinção de muitos anaeróbios e ao surgimento da vida aeróbica",
+      "C": "Período de aquecimento global",
+      "D": "Diminuição do oxigênio nos oceanos"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "nivel": "dificil",
+    "pergunta": "Descreva o conceito de 'pressão osmótica'.",
+    "opcoes": {
+      "A": "Pressão exercida pela água na parede celular",
+      "B": "Pressão que precisa ser aplicada a uma solução para impedir o fluxo líquido de água através de uma membrana semipermeável",
+      "C": "Pressão do sangue nas artérias",
+      "D": "Pressão de um gás em um recipiente"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "nivel": "dificil",
+    "pergunta": "O que é um 'fármaco agonista' e um 'fármaco antagonista'?",
+    "opcoes": {
+      "A": "Agonista causa efeito colateral, antagonista não",
+      "B": "Agonista se liga a um receptor e o ativa, produzindo uma resposta; antagonista se liga a um receptor e o bloqueia, impedindo a ação de um agonista natural ou outro fármaco",
+      "C": "Agonista cura doenças, antagonista previne",
+      "D": "Ambos são vitaminas"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "nivel": "dificil",
+    "pergunta": "Qual a função do 'núcleo celular' em eucariotos?",
+    "opcoes": {
+      "A": "Produção de ATP",
+      "B": "Armazenamento de proteínas",
+      "C": "Armazenamento e proteção do material genético (DNA) e controle das atividades celulares",
+      "D": "Digestão intracelular"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "nivel": "dificil",
+    "pergunta": "O que é 'potencial de ação' em neurônios?",
+    "opcoes": {
+      "A": "Gradiente de concentração de íons",
+      "B": "Breve e rápida mudança no potencial elétrico da membrana de um neurônio, que se propaga ao longo do axônio, transmitindo informações",
+      "C": "Liberação de neurotransmissores",
+      "D": "Repouso do neurônio"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "nivel": "dificil",
+    "pergunta": "Explique o 'Efeito fotoelétrico' em física.",
+    "opcoes": {
+      "A": "Produção de luz por calor",
+      "B": "Emissão de elétrons de uma superfície metálica quando a luz de uma determinada frequência (ou superior) incide sobre ela",
+      "C": "Mudança na cor da luz ao passar por um material",
+      "D": "Aquecimento de um material por luz"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "nivel": "dificil",
+    "pergunta": "Qual a diferença entre 'ácidos fortes' e 'ácidos fracos'?",
+    "opcoes": {
+      "A": "Fortes são mais concentrados",
+      "B": "Fortes ionizam-se completamente em solução aquosa, fracos ionizam-se parcialmente",
+      "C": "Fortes têm pH maior, fracos têm pH menor",
+      "D": "Fracos não são perigosos"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "nivel": "dificil",
+    "pergunta": "Descreva o conceito de 'metabolismo basal'.",
+    "opcoes": {
+      "A": "Energia gasta durante o exercício físico",
+      "B": "Quantidade mínima de energia necessária para manter as funções vitais do corpo em repouso absoluto",
+      "C": "Energia obtida dos alimentos",
+      "D": "Energia usada para a digestão"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "nivel": "dificil",
+    "pergunta": "O que são 'nanomateriais' e qual sua aplicação potencial?",
+    "opcoes": {
+      "A": "Materiais que não são visíveis",
+      "B": "Materiais com pelo menos uma dimensão na escala nanométrica (1 a 100 nm), com propriedades únicas, usados em medicina, eletrônica e energia",
+      "C": "Materiais extremamente pesados",
+      "D": "Materiais radioativos"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "nivel": "dificil",
+    "pergunta": "Qual a função da 'cadeia transportadora de elétrons' na respiração celular?",
+    "opcoes": {
+      "A": "Produção de glicose",
+      "B": "Síntese de ATP por fosforilação oxidativa, utilizando a energia liberada pelo transporte de elétrons",
+      "C": "Armazenamento de oxigênio",
+      "D": "Degradação de proteínas"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "nivel": "dificil",
+    "pergunta": "O que é 'epistasia' em genética?",
+    "opcoes": {
+      "A": "Dois genes afetam a mesma característica de forma aditiva",
+      "B": "Interação gênica onde um gene (epistático) mascara ou suprime a expressão de outro gene (hipostático)",
+      "C": "Apenas um gene controla a característica",
+      "D": "Interação entre alelos diferentes do mesmo gene"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "nivel": "dificil",
+    "pergunta": "Explique o 'Princípio de Arquimedes'.",
+    "opcoes": {
+      "A": "Relação entre massa e volume",
+      "B": "Um corpo total ou parcialmente submerso em um fluido em repouso experimenta um empuxo para cima igual ao peso do fluido deslocado por ele",
+      "C": "Ação e reação entre corpos",
+      "D": "Força de atrito em líquidos"
+    },
+    "resposta_correta": "B"
   }
+
 ]
