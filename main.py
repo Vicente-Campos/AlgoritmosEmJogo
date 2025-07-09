@@ -13,9 +13,9 @@ def exibir_menu_principal():
     Exibe o menu principal do programa e gerencia a escolha do usuário para iniciar os jogos.
     """
     opcoes_menu = {
-        '1': {"texto": "Forca", "funcao": jogar_forca},
-        '2': {"texto": "Pedra, Papel e Tesoura", "funcao": jogar_ppt},
-        '3': {"texto": "Adivinhação", "funcao": jogar_adivinhacao},
+        '1': {"texto": "Adivinhação", "funcao": jogar_adivinhacao},
+        '2': {"texto": "Forca", "funcao": jogar_forca},
+        '3': {"texto": "Pedra, Papel e Tesoura", "funcao": jogar_ppt},
         '4': {"texto": "Quiz", "funcao": quiz},
         '5': {"texto": "Sair", "funcao": None} # 'None' indica que esta opção encerra o programa
     }
