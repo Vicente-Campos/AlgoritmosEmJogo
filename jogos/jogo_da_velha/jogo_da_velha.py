@@ -28,17 +28,39 @@ Condições de vitória:
 
 def imprimir_tabuleiro(tabuleiro):
     """Imprime o tabuleiro atual formatado"""
-    print("\n  1 | 2 | 3")
-    print(" -----------")
-    print("  4 | 5 | 6")
-    print(" -----------")
-    print("  7 | 8 | 9\n")
-    
-    print(" " + tabuleiro[0][0] + " | " + tabuleiro[0][1] + " | " + tabuleiro[0][2])
-    print("---+---+---")
-    print(" " + tabuleiro[1][0] + " | " + tabuleiro[1][1] + " | " + tabuleiro[1][2])
-    print("---+---+---")
-    print(" " + tabuleiro[2][0] + " | " + tabuleiro[2][1] + " | " + tabuleiro[2][2] + "\n")
+    # Primeira parte (continua como está, pois já está centralizada corretamente)
+    print(" 1 | 2 | 3".center(50))
+    print("-----------".center(50))
+    print(" 4 | 5 | 6".center(50))
+    print("-----------".center(50))
+    print(" 7 | 8 | 9\n".center(50))
+
+    # Alinha o tabuleiro real, garantindo que cada célula ('X', 'O' ou espaço) ocupe 3 caracteres para manter o espaçamento.
+    largura_celula = 3
+
+    # Linha 1 do tabuleiro
+    linha1 = (tabuleiro[0][0].center(largura_celula) + "|" +
+              tabuleiro[0][1].center(largura_celula) + "|" +
+              tabuleiro[0][2].center(largura_celula))
+    print(linha1.center(50)) # Centraliza a linha completa
+
+    # Linha separadora
+    print("-----------".center(50)) # Mantém a mesma largura e centralização da parte de cima
+
+    # Linha 2 do tabuleiro
+    linha2 = (tabuleiro[1][0].center(largura_celula) + "|" +
+              tabuleiro[1][1].center(largura_celula) + "|" +
+              tabuleiro[1][2].center(largura_celula))
+    print(linha2.center(50)) # Centraliza a linha completa
+
+    # Linha separadora
+    print("-----------".center(50)) # Mantém a mesma largura e centralização da parte de cima
+
+    # Linha 3 do tabuleiro
+    linha3 = (tabuleiro[2][0].center(largura_celula) + "|" +
+              tabuleiro[2][1].center(largura_celula) + "|" +
+              tabuleiro[2][2].center(largura_celula))
+    print(linha3.center(50) + "\n") # Centraliza a linha completa e adiciona a quebra de linha
 
 def verificar_vitoria(tabuleiro, jogador):
     """Verifica se o jogador atual venceu"""
@@ -75,7 +97,10 @@ def jogar_jogo_da_velha():
         
         while True:  # Loop da partida
             limpar_terminal()
-            print(f"=== JOGO DA VELHA - Jogador {jogador_atual} ===")
+            print("=" * 50)
+            print(" JOGO DA VELHA - Jogador {} ".format(jogador_atual).center(50, "="))
+            print("=" * 50)
+            print()
             imprimir_tabuleiro(tabuleiro)
             
             # Mostra histórico de jogadas
@@ -111,6 +136,9 @@ def jogar_jogo_da_velha():
             # Verifica vitória
             if verificar_vitoria(tabuleiro, jogador_atual):
                 limpar_terminal()
+                print("=" * 50)
+                print(" JOGO DA VELHA ".center(50, "="))
+                print("=" * 50)
                 imprimir_tabuleiro(tabuleiro)
                 print(f"🎉 PARABÉNS! Jogador {jogador_atual} venceu! 🎉")
                 break
@@ -118,6 +146,9 @@ def jogar_jogo_da_velha():
             # Verifica empate
             if verificar_empate(tabuleiro):
                 limpar_terminal()
+                print("=" * 50)
+                print(" JOGO DA VELHA ".center(50, "="))
+                print("=" * 50)
                 imprimir_tabuleiro(tabuleiro)
                 print("🤝 EMPATE! O jogo terminou sem vencedores. 🤝")
                 break
@@ -133,7 +164,10 @@ def jogar_jogo_da_velha():
             print("Por favor, digite 'S' para Sim ou 'N' para Não.")
         
         if resposta == "N":
-            print("\nObrigado por jogar! Voltando ao menu principal...")
-            time.sleep(2)
             limpar_terminal()
+            print("\n" + "=" * 40)
+            print(" Obrigado por jogar! ".center(40, "="))
+            print(" Até a próxima! ".center(40, "="))
+            print("=" * 40)
+            time.sleep(3) # Aumentei um pouco a pausa para a mensagem final ser bem lida
             return  # Retorna ao menu principal
