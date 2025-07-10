@@ -8,6 +8,7 @@ from jogos.pedra_papel_tesoura.jogo_ppt import jogar_ppt
 from jogos.adivinhacao.adivinhacao import jogar_adivinhacao
 from jogos.quiz.jogo_quiz import quiz
 from jogos.jogo_da_velha.jogo_da_velha import jogar_jogo_da_velha
+
 def exibir_menu_principal():
     """
     Exibe o menu principal do programa e gerencia a escolha do usuário para iniciar os jogos.
