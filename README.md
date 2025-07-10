@@ -30,14 +30,24 @@ Quando você decidir sair do programa, uma **mensagem de despedida animada** apa
 
 4. Execute o script principal: `python main.py`
 
+---
 ## Funcionalidades Implementadas
+
 Nosso projeto oferece uma experiência de jogo completa e intuitiva, com destaque para:
 
-## Menu Principal Interativo:
+### Menu Principal Interativo:
 
-1. Navegue facilmente entre os jogos disponíveis (Adivinhação, Forca, Pedra, Papel e Tesoura, Quiz).
+1.  **Navegação Simplificada:**
+    * Navegue facilmente entre os jogos disponíveis:
+        * Adivinhação Numérica
+        * Jogo da Forca
+        * Jogo da Velha (para dois jogadores)
+        * Pedra, Papel e Tesoura
+        * Quiz
 
-2. Interface limpa e organizada no terminal.
+2.  **Interface Otimizada:**
+    * Interface limpa e organizada no terminal, proporcionando uma experiência de usuário agradável.
+---
 
 ## Jogos Clássicos:
 
