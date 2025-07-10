@@ -8,16 +8,16 @@ Este repositório contém um conjunto de jogos simples desenvolvidos em Python, 
 ## Fluxo do Programa
 Este programa simples guia você por uma pequena jornada no terminal. Veja como ele funciona:
 
-### 1. Boas-Vindas Animadas
+## 1. Boas-Vindas Animadas
 Ao iniciar, você verá uma **mensagem de boas-vindas animada** surgindo gradualmente no terminal, feita com um estilo de texto bem bacana!
 
-### 2. Menu Principal de Jogos
+## 2. Menu Principal de Jogos
 Depois da introdução, o programa apresentará um **menu de opções de jogos**. Aqui, você poderá escolher qual jogo deseja iniciar ou outras funcionalidades.
 
-### 3. Opção de Sair
+## 3. Opção de Sair
 A qualquer momento no menu, você terá a **opção de sair** do programa, caso não queira jogar ou tenha terminado suas atividades.
 
-### 4. Mensagem de Despedida
+## 4. Mensagem de Despedida
 Quando você decidir sair do programa, uma **mensagem de despedida animada** aparecerá, encerrando sua experiência de forma visualmente agradável.
 
 ## Instalação e Execução
@@ -45,9 +45,11 @@ Nosso projeto oferece uma experiência de jogo completa e intuitiva, com destaqu
 
 2. Jogo da Forca: Adivinhe a palavra secreta, escolha categorias e tente não ser "enforcado"! Com desenhos da forca que evoluem a cada erro.
 
-3. Pedra, Papel e Tesoura: Desafie o computador neste clássico jogo de estratégia. Escolha sua jogada, veja a do adversário e descubra quem vence!
+3. Jogo da Velha: Chame um amigo e desafie-o neste clássico jogo de estratégia! O objetivo é simples: ser o primeiro a formar uma linha de três símbolos (X ou O) na horizontal, vertical ou diagonal.  
 
-4. Quiz: Teste seus conhecimentos em diversas áreas (Geografia, História, Ciências, Literatura) e diferentes níveis de dificuldade (Fácil, Médio, Difícil). Suas pontuações são salvas em um placar!
+4. Pedra, Papel e Tesoura: Desafie o computador neste clássico jogo de estratégia. Escolha sua jogada, veja a do adversário e descubra quem vence!
+
+5. Quiz: Teste seus conhecimentos em diversas áreas (Geografia, História, Ciências, Literatura) e diferentes níveis de dificuldade (Fácil, Médio, Difícil). Suas pontuações são salvas em um placar!
 
 ## Experiência de Usuário Aprimorada:
 
@@ -64,3 +66,13 @@ Nosso projeto oferece uma experiência de jogo completa e intuitiva, com destaqu
 2. Carregamento de perguntas do Quiz a partir de arquivos JSON, permitindo fácil expansão de conteúdo.
 
 3. Placar de Pontuações: Suas pontuações no Quiz são salvas em um arquivo JSON.
+
+---
+
+## **Autores**
+
+* **Dafni Milla albuquerque dos santos:** [@DafniMilla](https://github.com/DafniMilla)
+* **Gideão Calebe gomes ferreira:** [@Gideao7](https://github.com/Gideao7)
+* **Vicente Campelo Campos:** [@Vicente-Campos](https://github.com/Vicente-Campos)
+
+---
